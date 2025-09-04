@@ -1,0 +1,50 @@
+{
+  "name": "Analytics Course Corporate Theme",
+  "dataColors": [
+    "#1E3A8A",
+    "#10B981",
+    "#EF4444",
+    "#F59E0B",
+    "#8B5CF6",
+    "#06B6D4",
+    "#84CC16",
+    "#F97316"
+  ],
+  "good": "#10B981",
+  "neutral": "#6B7280",
+  "bad": "#EF4444",
+  "maximum": "#1E3A8A",
+  "center": "#F3F4F6",
+  "minimum": "#DBEAFE",
+  "null": "#9CA3AF",
+  "background": "#FFFFFF",
+  "backgroundLight": "#F9FAFB",
+  "backgroundNeutral": "#F3F4F6",
+  "foreground": "#1F2937",
+  "foregroundNeutral": "#6B7280",
+  "tableAccent": "#F3F4F6",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ],
+        "border": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E5E7EB"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
