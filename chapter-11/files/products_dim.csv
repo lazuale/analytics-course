@@ -1,0 +1,10 @@
+﻿ProductID;ProductName;Category;Subcategory;Brand;Color;Weight_g;Launch_Date;Product_Age_Days;Is_New_Product;Price_Category
+1;iPhone 15 Pro;Электроника;Смартфоны;Apple;Титановый;187;2023-09-15;198;True;High
+2;Samsung Galaxy S24;Электроника;Смартфоны;Samsung;Черный;167;2024-01-17;74;True;High
+3;"MacBook Pro 14""";Электроника;Ноутбуки;Apple;Серый космос;1600;2023-10-30;153;True;High
+4;Dell XPS 13;Электроника;Ноутбуки;Dell;Серебристый;1200;2022-04-15;716;False;Medium
+5;Sony WH-1000XM5;Электроника;Наушники;Sony;Черный;250;2022-05-12;689;False;Medium
+6;Nike Air Max 270;Обувь;Кроссовки;Nike;Белый;380;2021-03-20;1107;False;Medium
+7;Adidas Ultraboost 22;Обувь;Кроссовки;Adidas;Черный;320;2022-02-14;776;False;Medium
+8;Levi's 501 Джинсы;Одежда;Джинсы;Levi's;Синий;680;2020-08-10;1329;False;Low
+9;Apple Watch Series 9;Аксессуары;Умные часы;Apple;Розовое золото;38;2023-09-22;191;True;High
