@@ -1,0 +1,801 @@
+﻿employee_id;first_name;last_name;department;position;salary;years_experience;age;education_level;performance_rating;hire_date
+EMP0001;Анна;Михайлов;Engineering;Senior;215500,0;6;29;Master;4;2019-08-08
+EMP0002;Дмитрий;Алексеев;Engineering;Senior;203200,0;3;27;Master;4;2022-11-06
+EMP0003;Николай;Смирнов;Engineering;Mid;132500,0;3;28;Bachelor;4;2022-02-19
+EMP0004;Анна;Волков;Engineering;Senior;216300,0;9;35;Master;4;2016-12-27
+EMP0005;Наталья;Козлов;Engineering;Mid;124800,0;3;27;Bachelor;4;2023-05-11
+EMP0006;Андрей;Фёдоров;Engineering;Mid;158100,0;6;30;Master;4;2019-11-24
+EMP0007;Анна;Попов;Engineering;Mid;140500,0;7;31;Bachelor;4;2018-09-05
+EMP0008;Иван;Фёдоров;Engineering;Senior;213400,0;9;37;Master;4;2016-04-01
+EMP0009;Наталья;Фёдоров;Engineering;Lead;340100,0;16;40;Master;4;2009-06-15
+EMP0010;Ольга;Попов;Engineering;Junior;91200,0;1;26;Bachelor;4;2024-05-01
+EMP0011;Алексей;Алексеев;Engineering;Junior;92500,0;3;31;Bachelor;3;2022-12-12
+EMP0012;Дмитрий;Медведев;Engineering;Senior;252100,0;3;29;PhD;5;2022-10-12
+EMP0013;Максим;Сидоров;Engineering;Mid;201800,0;8;31;PhD;4;2017-07-21
+EMP0014;Алексей;Фёдоров;Engineering;Senior;194000,0;7;29;Bachelor;4;2018-03-02
+EMP0015;Владимир;Смирнов;Engineering;Junior;109900,0;1;24;Master;5;2024-05-26
+EMP0016;Анна;Сидоров;Engineering;Mid;115600,0;2;24;Bachelor;5;2023-07-10
+EMP0017;Иван;Кузнецов;Engineering;Mid;171400,0;4;28;PhD;5;2021-11-05
+EMP0018;Алексей;Новиков;Engineering;Mid;157900,0;5;26;Master;4;2020-11-10
+EMP0019;Юлия;Степанов;Engineering;Senior;193100,0;7;30;Bachelor;4;2018-11-25
+EMP0020;Екатерина;Михайлов;Engineering;Mid;137300,0;5;30;Bachelor;4;2020-06-24
+EMP0021;Екатерина;Петров;Engineering;Junior;80500,0;1;26;Bachelor;4;2024-08-07
+EMP0022;Татьяна;Фёдоров;Engineering;Lead;291100,0;8;35;Master;4;2017-11-19
+EMP0023;Роман;Семёнов;Engineering;Mid;151600,0;3;29;Master;4;2022-04-20
+EMP0024;Сергей;Медведев;Engineering;Junior;33606,0;2;26;Master;3;2024-01-11
+EMP0025;Роман;Степанов;Engineering;Mid;150100,0;4;28;Master;4;2021-07-01
+EMP0026;Андрей;Иванов;Engineering;Mid;131400,0;6;29;Bachelor;4;2019-08-30
+EMP0027;Максим;Егоров;Engineering;Junior;81900,0;1;28;Bachelor;4;2024-08-19
+EMP0028;Юлия;Козлов;Engineering;VP;611600,0;13;39;Bachelor;4;2012-10-10
+EMP0029;Виктория;Семёнов;Engineering;Senior;203500,0;3;28;Master;4;2023-01-04
+EMP0030;Роман;Алексеев;Engineering;Mid;141100,0;4;28;Bachelor;5;2021-08-19
+EMP0031;Светлана;Егоров;Engineering;Lead;285500,0;9;32;Master;4;2016-09-24
+EMP0032;Анна;Попов;Engineering;Senior;193100,0;12;37;Bachelor;4;2013-09-13
+EMP0033;Дмитрий;Семёнов;Engineering;Manager;396800,0;16;39;PhD;4;2009-04-02
+EMP0034;Николай;Попов;Engineering;Mid;134400,0;6;30;Bachelor;4;2019-11-14
+EMP0035;Андрей;Фёдоров;Engineering;VP;568300,0;9;31;Master;3;2016-11-13
+EMP0036;Наталья;Волков;Engineering;Senior;190000,0;6;28;Bachelor;4;2019-12-26
+EMP0037;Дмитрий;Лебедев;Engineering;Mid;156000,0;6;28;Bachelor;5;2019-08-02
+EMP0038;Максим;Степанов;Engineering;Manager;409700,0;16;40;Master;5;2009-08-10
+EMP0039;Андрей;Иванов;Engineering;Junior;92800,0;1;25;Master;3;2024-09-12
+EMP0040;Сергей;Степанов;Engineering;Lead;323300,0;11;31;Master;4;2014-03-22
+EMP0041;Дмитрий;Морозов;Engineering;Mid;150800,0;2;22;Master;4;2023-08-30
+EMP0042;Алексей;Морозов;Engineering;Mid;135000,0;4;28;Master;3;2021-09-16
+EMP0043;Ольга;Волков;Engineering;Mid;164500,0;5;30;Master;4;2020-10-25
+EMP0044;Наталья;Егоров;Engineering;Mid;121300,0;7;30;Bachelor;4;2018-05-15
+EMP0045;Анна;Новиков;Engineering;Mid;149500,0;3;25;Bachelor;5;2022-07-17
+EMP0046;Екатерина;Соколов;Engineering;Manager;301000,0;7;31;Bachelor;4;2019-02-02
+EMP0047;Наталья;Семёнов;Engineering;Mid;151800,0;6;28;Bachelor;4;2019-08-01
+EMP0048;Мария;Кузнецов;Engineering;Mid;149500,0;8;32;Master;4;2017-06-29
+EMP0049;Наталья;Лебедев;Engineering;Senior;206800,0;9;33;Master;4;2016-11-11
+EMP0050;Максим;Лебедев;Engineering;Manager;360500,0;16;41;Master;4;2009-05-05
+EMP0051;Анна;Иванов;Engineering;Senior;213700,0;8;32;Master;4;2017-12-22
+EMP0052;Иван;Лебедев;Engineering;Mid;139200,0;6;30;Bachelor;4;2019-09-23
+EMP0053;Сергей;Иванов;Engineering;Lead;223000,0;5;28;Bachelor;3;2020-07-31
+EMP0054;Николай;Морозов;Engineering;Senior;186100,0;10;31;Bachelor;3;2015-06-14
+EMP0055;Николай;Алексеев;Engineering;Mid;139400,0;5;29;Master;4;2020-04-02
+EMP0056;Юлия;Иванов;Engineering;Mid;125500,0;4;28;Bachelor;4;2021-12-25
+EMP0057;Елена;Медведев;Engineering;Manager;338700,0;13;36;Master;4;2012-06-12
+EMP0058;Дмитрий;Егоров;Engineering;Mid;113600,0;4;29;Bachelor;3;2021-04-02
+EMP0059;Светлана;Сидоров;Engineering;Manager;361500,0;11;36;Master;4;2014-08-02
+EMP0060;Дмитрий;Алексеев;Engineering;Junior;78800,0;1;25;Bachelor;4;2024-06-26
+EMP0061;Алексей;Козлов;Engineering;Mid;130400,0;5;29;Bachelor;4;2020-09-26
+EMP0062;Максим;Сидоров;Engineering;Senior;191800,0;9;35;Bachelor;4;2017-02-12
+EMP0063;Наталья;Волков;Engineering;Senior;295900,0;8;31;PhD;5;2017-09-20
+EMP0064;Алексей;Фёдоров;Engineering;Senior;225600,0;7;29;Master;3;2018-09-07
+EMP0065;Николай;Семёнов;Engineering;Mid;132700,0;6;30;Bachelor;5;2019-12-09
+EMP0066;Анна;Козлов;Engineering;Mid;152700,0;6;30;Bachelor;4;2020-01-08
+EMP0067;Андрей;Алексеев;Engineering;VP;602800,0;11;35;Master;3;2014-06-14
+EMP0068;Светлана;Иванов;Engineering;Mid;133600,0;3;27;Master;4;2022-08-20
+EMP0069;Мария;Алексеев;Engineering;Senior;235700,0;5;30;Master;4;2020-11-24
+EMP0070;Дмитрий;Кузнецов;Engineering;Senior;247400,0;7;31;Master;5;2018-12-28
+EMP0071;Светлана;Соколов;Engineering;Mid;149300,0;4;28;Master;3;2022-03-31
+EMP0072;Дмитрий;Петров;Engineering;Junior;106900,0;1;25;Master;4;2024-08-31
+EMP0073;Роман;Волков;Engineering;Junior;80500,0;2;26;Bachelor;4;2023-12-19
+EMP0074;Наталья;Новиков;Engineering;Manager;414000,0;15;39;Master;5;2010-06-13
+EMP0075;Иван;Новиков;Engineering;Senior;225400,0;11;36;Master;3;2014-04-27
+EMP0076;Максим;Морозов;Engineering;Junior;87800,0;0;22;Bachelor;3;2025-08-06
+EMP0077;Иван;Козлов;Engineering;Senior;207700,0;7;31;Bachelor;4;2018-09-14
+EMP0078;Андрей;Егоров;Engineering;Senior;207200,0;4;28;Master;3;2021-12-09
+EMP0079;Елена;Попов;Engineering;Mid;185300,0;4;27;Master;5;2021-08-13
+EMP0080;Игорь;Волков;Engineering;Manager;317000,0;10;35;Master;4;2015-12-04
+EMP0081;Юлия;Петров;Engineering;Mid;182000,0;3;25;PhD;4;2022-12-15
+EMP0082;Иван;Лебедев;Engineering;VP;628400,0;7;32;Bachelor;5;2018-08-23
+EMP0083;Алексей;Морозов;Engineering;Junior;93900,0;2;25;Master;4;2024-01-08
+EMP0084;Владимир;Лебедев;Engineering;Junior;89700,0;1;25;Bachelor;4;2024-07-05
+EMP0085;Татьяна;Алексеев;Engineering;Junior;139700,0;3;30;PhD;4;2022-07-16
+EMP0086;Алексей;Попов;Engineering;Senior;241800,0;7;32;Master;4;2018-10-18
+EMP0087;Роман;Фёдоров;Engineering;Senior;197700,0;10;34;Bachelor;4;2016-02-07
+EMP0088;Роман;Егоров;Engineering;Manager;251500,0;11;36;Bachelor;4;2014-09-17
+EMP0089;Наталья;Кузнецов;Engineering;Mid;146600,0;4;31;Master;5;2021-07-20
+EMP0090;Андрей;Егоров;Engineering;Senior;209300,0;7;31;Master;3;2019-01-16
+EMP0091;Елена;Козлов;Engineering;Mid;154600,0;8;34;Bachelor;5;2017-10-17
+EMP0092;Светлана;Соколов;Engineering;Senior;237400,0;10;34;Master;3;2015-05-16
+EMP0093;Игорь;Фёдоров;Engineering;Mid;128600,0;5;28;Master;4;2020-06-29
+EMP0094;Дмитрий;Михайлов;Engineering;Lead;272500,0;7;32;Bachelor;4;2018-07-15
+EMP0095;Роман;Соколов;Engineering;Mid;160300,0;7;32;Bachelor;5;2018-11-18
+EMP0096;Сергей;Фёдоров;Engineering;Mid;130400,0;6;28;Bachelor;4;2019-08-13
+EMP0097;Николай;Волков;Engineering;Mid;151100,0;4;30;Master;4;2021-12-30
+EMP0098;Анна;Егоров;Engineering;Lead;331200,0;11;33;PhD;4;2014-07-20
+EMP0099;Дмитрий;Васильев;Engineering;Senior;203900,0;5;28;Bachelor;5;2020-12-06
+EMP0100;Роман;Васильев;Engineering;Junior;100300,0;2;26;Master;5;2023-09-30
+EMP0101;Алексей;Васильев;Engineering;Junior;80900,0;2;24;Bachelor;4;2023-08-28
+EMP0102;Николай;Степанов;Engineering;Mid;130200,0;1;24;Bachelor;4;2024-08-28
+EMP0103;Ольга;Сидоров;Engineering;Mid;129100,0;7;33;Bachelor;3;2019-01-21
+EMP0104;Виктория;Фёдоров;Engineering;Mid;111600,0;4;30;Bachelor;3;2021-06-18
+EMP0105;Дмитрий;Фёдоров;Engineering;Junior;104100,0;1;28;Master;4;2024-09-05
+EMP0106;Наталья;Козлов;Engineering;Mid;124000,0;2;27;Bachelor;3;2023-09-07
+EMP0107;Иван;Козлов;Engineering;Senior;279400,0;12;35;Master;5;2013-12-19
+EMP0108;Иван;Семёнов;Engineering;Junior;99000,0;1;23;Bachelor;5;2024-09-02
+EMP0109;Екатерина;Волков;Engineering;Mid;176800,0;8;30;Master;4;2017-05-23
+EMP0110;Алексей;Михайлов;Engineering;Junior;86500,0;2;28;Bachelor;4;2024-01-26
+EMP0111;Игорь;Семёнов;Engineering;Junior;94700,0;3;24;Bachelor;4;2022-06-24
+EMP0112;Андрей;Волков;Engineering;Senior;238000,0;8;31;Master;4;2017-09-28
+EMP0113;Ольга;Егоров;Engineering;Mid;129000,0;6;32;Bachelor;4;2019-10-23
+EMP0114;Иван;Медведев;Engineering;Junior;93600,0;1;25;Master;4;2024-11-18
+EMP0115;Алексей;Медведев;Engineering;Manager;411100,0;13;36;PhD;4;2012-10-12
+EMP0116;Виктория;Семёнов;Engineering;Senior;227700,0;7;34;Master;4;2018-08-12
+EMP0117;Андрей;Степанов;Engineering;Mid;119800,0;1;25;Bachelor;4;2024-12-19
+EMP0118;Елена;Петров;Engineering;Junior;110100,0;1;25;PhD;4;2024-10-23
+EMP0119;Светлана;Лебедев;Engineering;Mid;122600,0;7;30;Bachelor;3;2018-07-22
+EMP0120;Светлана;Алексеев;Engineering;Senior;225000,0;6;32;Master;5;2019-04-22
+EMP0121;Андрей;Морозов;Engineering;Mid;139700,0;3;27;Bachelor;5;2022-08-21
+EMP0122;Сергей;Лебедев;Engineering;Mid;107600,0;3;25;Bachelor;4;2023-01-24
+EMP0123;Андрей;Васильев;Engineering;Mid;103500,0;4;22;Bachelor;4;2021-07-24
+EMP0124;Мария;Волков;Engineering;Senior;215100,0;8;29;Master;3;2018-01-28
+EMP0125;Анна;Алексеев;Engineering;Mid;107300,0;3;28;Bachelor;3;2022-06-06
+EMP0126;Максим;Егоров;Engineering;Mid;156400,0;3;26;PhD;3;2022-11-07
+EMP0127;Николай;Попов;Engineering;Mid;129500,0;5;28;Bachelor;4;2020-10-18
+EMP0128;Наталья;Волков;Engineering;Mid;107200,0;6;28;Bachelor;3;2019-09-17
+EMP0129;Светлана;Сидоров;Engineering;Mid;129400,0;5;28;Bachelor;3;2020-08-19
+EMP0130;Татьяна;Смирнов;Engineering;Mid;152700,0;6;30;Master;4;2019-06-03
+EMP0131;Николай;Егоров;Engineering;Mid;155600,0;4;27;PhD;4;2021-10-21
+EMP0132;Виктория;Фёдоров;Engineering;Mid;135000,0;4;28;Master;4;2021-08-27
+EMP0133;Анна;Волков;Engineering;Senior;207300,0;10;32;Bachelor;5;2015-07-27
+EMP0134;Анна;Степанов;Engineering;Junior;84900,0;1;27;Master;3;2024-10-13
+EMP0135;Максим;Новиков;Engineering;Mid;147700,0;5;30;Master;3;2020-04-30
+EMP0136;Елена;Лебедев;Engineering;Junior;118400,0;1;26;PhD;5;2024-10-11
+EMP0137;Игорь;Фёдоров;Engineering;Senior;205200,0;8;31;Bachelor;4;2017-09-06
+EMP0138;Ольга;Лебедев;Engineering;Mid;131200,0;4;25;Bachelor;4;2021-10-09
+EMP0139;Николай;Лебедев;Engineering;Mid;125800,0;3;26;Bachelor;4;2022-12-16
+EMP0140;Игорь;Степанов;Engineering;Junior;111200,0;3;27;Master;5;2022-09-22
+EMP0141;Светлана;Соколов;Engineering;Mid;117900,0;5;30;Bachelor;3;2020-04-22
+EMP0142;Владимир;Егоров;Engineering;Mid;140000,0;5;28;Master;4;2020-10-18
+EMP0143;Игорь;Михайлов;Engineering;Mid;144600,0;3;27;Bachelor;4;2022-07-17
+EMP0144;Андрей;Петров;Engineering;Mid;193200,0;5;30;PhD;5;2020-07-06
+EMP0145;Мария;Смирнов;Engineering;VP;803800,0;14;36;PhD;3;2011-08-19
+EMP0146;Алексей;Алексеев;Engineering;Junior;110400,0;3;27;Master;5;2022-03-26
+EMP0147;Екатерина;Кузнецов;Engineering;Mid;129200,0;4;28;Bachelor;4;2021-03-26
+EMP0148;Екатерина;Козлов;Engineering;Director;380200,0;9;33;Bachelor;4;2016-11-16
+EMP0149;Анна;Семёнов;Engineering;Junior;99500,0;3;27;Bachelor;4;2022-11-18
+EMP0150;Наталья;Кузнецов;Engineering;Lead;350100,0;10;36;PhD;4;2016-01-11
+EMP0151;Андрей;Морозов;Engineering;Senior;253100,0;9;33;PhD;3;2016-09-17
+EMP0152;Ольга;Медведев;Engineering;Mid;161100,0;4;28;Master;4;2021-10-05
+EMP0153;Анна;Лебедев;Engineering;Mid;126300,0;1;25;Bachelor;4;2024-07-16
+EMP0154;Роман;Медведев;Engineering;Senior;230000,0;6;32;Master;5;2019-08-28
+EMP0155;Татьяна;Степанов;Engineering;Junior;101200,0;2;26;Master;4;2024-01-07
+EMP0156;Алексей;Фёдоров;Engineering;Junior;74800,0;2;27;Bachelor;3;2024-02-21
+EMP0157;Максим;Соколов;Engineering;Junior;76500,0;1;25;Bachelor;3;2024-07-04
+EMP0158;Дмитрий;Михайлов;Engineering;Mid;143900,0;8;29;Bachelor;4;2017-09-11
+EMP0159;Татьяна;Попов;Engineering;Junior;103200,0;2;27;Master;4;2023-08-02
+EMP0160;Юлия;Морозов;Engineering;VP;621600,0;10;31;Master;3;2016-02-14
+EMP0161;Юлия;Петров;Engineering;Senior;195500,0;6;30;Bachelor;5;2019-09-21
+EMP0162;Виктория;Иванов;Engineering;Mid;118100,0;4;29;Bachelor;4;2021-07-25
+EMP0163;Екатерина;Попов;Engineering;Senior;220400,0;6;29;Master;4;2019-09-15
+EMP0164;Сергей;Петров;Engineering;Mid;135300,0;4;26;Bachelor;4;2021-07-18
+EMP0165;Николай;Егоров;Engineering;Senior;249800,0;7;30;PhD;4;2018-09-20
+EMP0166;Мария;Егоров;Engineering;Mid;141900,0;4;28;Bachelor;4;2021-08-25
+EMP0167;Сергей;Новиков;Engineering;Lead;268600,0;8;31;Bachelor;4;2017-08-14
+EMP0168;Екатерина;Лебедев;Engineering;Junior;104000,0;3;29;Bachelor;5;2022-09-24
+EMP0169;Ольга;Новиков;Engineering;Mid;161500,0;5;29;Master;4;2020-10-28
+EMP0170;Роман;Сидоров;Engineering;Junior;96600,0;1;24;Bachelor;5;2025-01-11
+EMP0171;Елена;Лебедев;Engineering;Mid;160500,0;5;29;PhD;4;2020-08-20
+EMP0172;Виктория;Козлов;Engineering;Junior;79500,0;2;27;Master;3;2023-03-13
+EMP0173;Наталья;Михайлов;Engineering;Junior;95500,0;2;29;Bachelor;4;2023-10-27
+EMP0174;Сергей;Егоров;Engineering;Director;478600,0;13;38;Bachelor;5;2012-08-05
+EMP0175;Дмитрий;Волков;Engineering;Lead;307500,0;9;35;Master;4;2016-07-01
+EMP0176;Юлия;Лебедев;Engineering;Junior;80600,0;3;28;Bachelor;4;2022-09-06
+EMP0177;Елена;Петров;Engineering;Senior;231500,0;5;29;Master;4;2020-09-02
+EMP0178;Игорь;Алексеев;Engineering;Mid;174700,0;6;30;Bachelor;5;2019-06-29
+EMP0179;Юлия;Егоров;Engineering;Mid;132500,0;1;25;Bachelor;4;2024-04-24
+EMP0180;Светлана;Кузнецов;Engineering;Lead;319800,0;8;35;Master;5;2017-08-18
+EMP0181;Екатерина;Кузнецов;Engineering;Junior;79500,0;2;28;Bachelor;3;2023-09-03
+EMP0182;Сергей;Васильев;Engineering;Senior;227400,0;9;33;Master;4;2016-12-15
+EMP0183;Ольга;Петров;Engineering;Mid;145100,0;9;30;Bachelor;4;2016-10-23
+EMP0184;Ольга;Васильев;Engineering;Mid;155600,0;6;29;Master;4;2019-10-04
+EMP0185;Дмитрий;Волков;Engineering;Junior;80800,0;3;25;Master;3;2022-10-28
+EMP0186;Алексей;Иванов;Engineering;Junior;94400,0;2;27;Bachelor;4;2023-08-06
+EMP0187;Юлия;Фёдоров;Engineering;Junior;99200,0;1;23;Master;4;2024-05-30
+EMP0188;Наталья;Иванов;Engineering;Lead;311800,0;11;36;Master;4;2014-06-03
+EMP0189;Анна;Соколов;Engineering;Mid;125400,0;3;26;Master;3;2022-07-30
+EMP0190;Юлия;Новиков;Engineering;Junior;86100,0;3;30;Bachelor;4;2022-07-07
+EMP0191;Мария;Новиков;Engineering;Mid;126900,0;7;30;Bachelor;3;2018-12-02
+EMP0192;Елена;Новиков;Engineering;Junior;71400,0;0;24;Bachelor;4;2025-07-27
+EMP0193;Андрей;Васильев;Engineering;Senior;203100,0;6;28;Bachelor;4;2019-06-16
+EMP0194;Роман;Иванов;Engineering;Junior;100200,0;3;27;Master;4;2022-08-07
+EMP0195;Светлана;Кузнецов;Engineering;Mid;163200,0;6;26;Master;4;2019-12-03
+EMP0196;Владимир;Соколов;Engineering;Mid;142900,0;5;28;Master;4;2020-08-02
+EMP0197;Юлия;Соколов;Engineering;Mid;179800,0;6;32;Master;4;2019-10-11
+EMP0198;Роман;Алексеев;Engineering;Junior;82300,0;4;29;Bachelor;3;2021-08-17
+EMP0199;Максим;Козлов;Engineering;Senior;241000,0;7;32;PhD;5;2019-02-19
+EMP0200;Сергей;Волков;Engineering;Mid;149100,0;3;26;Master;3;2022-05-30
+EMP0201;Дмитрий;Семёнов;Engineering;Mid;162200,0;5;28;Master;4;2020-06-25
+EMP0202;Анна;Новиков;Engineering;Junior;101000,0;2;26;Master;5;2023-08-14
+EMP0203;Иван;Семёнов;Engineering;Mid;140900,0;6;29;Bachelor;4;2019-10-17
+EMP0204;Елена;Кузнецов;Engineering;Mid;146000,0;4;28;Bachelor;5;2021-07-29
+EMP0205;Елена;Лебедев;Engineering;Junior;81100,0;1;26;Bachelor;4;2024-04-06
+EMP0206;Светлана;Козлов;Engineering;Senior;233800,0;8;33;Master;4;2017-10-10
+EMP0207;Виктория;Иванов;Engineering;Lead;444500,0;16;43;PhD;5;2009-07-16
+EMP0208;Владимир;Егоров;Engineering;Senior;237000,0;7;29;Master;3;2018-10-09
+EMP0209;Светлана;Новиков;Engineering;Mid;131700,0;5;26;Bachelor;3;2020-09-27
+EMP0210;Светлана;Васильев;Engineering;Manager;408000,0;11;35;Master;5;2014-04-17
+EMP0211;Максим;Петров;Engineering;CEO;450000,0;7;29;Master;4;2018-05-27
+EMP0212;Елена;Егоров;Engineering;Junior;74300,0;1;26;Bachelor;4;2024-11-17
+EMP0213;Елена;Степанов;Engineering;Mid;119500,0;7;31;Bachelor;4;2018-07-29
+EMP0214;Андрей;Сидоров;Engineering;Senior;230100,0;8;32;Master;4;2017-08-03
+EMP0215;Сергей;Волков;Engineering;Mid;155200,0;4;30;Master;4;2021-07-14
+EMP0216;Мария;Алексеев;Engineering;Lead;322200,0;12;36;Master;4;2014-01-22
+EMP0217;Иван;Семёнов;Engineering;Senior;192300,0;7;32;Master;3;2018-05-27
+EMP0218;Иван;Иванов;Engineering;Senior;181500,0;7;30;Bachelor;4;2018-11-18
+EMP0219;Мария;Сидоров;Engineering;Junior;89600,0;0;24;Bachelor;5;2025-08-06
+EMP0220;Андрей;Петров;Engineering;Mid;126400,0;5;29;Bachelor;4;2020-11-16
+EMP0221;Елена;Кузнецов;Engineering;Mid;122800,0;2;26;Bachelor;3;2023-12-06
+EMP0222;Ольга;Лебедев;Engineering;Mid;162800,0;6;30;PhD;4;2019-07-01
+EMP0223;Юлия;Васильев;Engineering;Senior;225900,0;7;31;Master;5;2018-06-29
+EMP0224;Максим;Петров;Engineering;Senior;190800,0;8;32;Bachelor;4;2017-10-23
+EMP0225;Анна;Кузнецов;Engineering;Junior;90700,0;1;26;Bachelor;3;2024-04-03
+EMP0226;Елена;Лебедев;Engineering;Junior;98800,0;2;26;Master;4;2023-09-23
+EMP0227;Дмитрий;Кузнецов;Engineering;VP;857100,0;15;35;PhD;4;2010-08-01
+EMP0228;Анна;Морозов;Engineering;Lead;258700,0;11;35;Bachelor;5;2014-07-13
+EMP0229;Владимир;Васильев;Engineering;Senior;248300,0;6;33;PhD;3;2019-12-01
+EMP0230;Ольга;Соколов;Engineering;Senior;186000,0;9;34;Bachelor;5;2016-06-29
+EMP0231;Юлия;Фёдоров;Engineering;Senior;233800,0;8;33;Master;4;2017-12-13
+EMP0232;Иван;Сидоров;Engineering;Senior;242900,0;7;32;Master;4;2018-10-07
+EMP0233;Алексей;Новиков;Engineering;Junior;91100,0;2;22;Bachelor;5;2023-11-30
+EMP0234;Андрей;Волков;Engineering;Junior;98700,0;2;29;Master;4;2023-06-19
+EMP0235;Светлана;Соколов;Engineering;Mid;140900,0;4;28;Master;3;2021-09-22
+EMP0236;Анна;Петров;Engineering;Senior;205500,0;4;28;Master;4;2021-07-23
+EMP0237;Наталья;Сидоров;Engineering;Director;467800,0;15;39;Master;3;2010-09-09
+EMP0238;Елена;Соколов;Engineering;Junior;103300,0;3;27;Master;4;2022-07-19
+EMP0239;Татьяна;Соколов;Engineering;Junior;117500,0;3;30;PhD;4;2022-07-07
+EMP0240;Иван;Козлов;Engineering;Lead;280800,0;9;35;Master;5;2016-09-12
+EMP0241;Алексей;Медведев;Engineering;Senior;186000,0;10;34;Bachelor;3;2015-03-04
+EMP0242;Наталья;Михайлов;Engineering;Mid;624595,0375136986;3;27;Bachelor;4;2022-07-24
+EMP0243;Юлия;Козлов;Engineering;Senior;156200,0;4;29;Bachelor;4;2021-07-13
+EMP0244;Светлана;Морозов;Engineering;Junior;87600,0;1;23;Bachelor;4;2024-08-08
+EMP0245;Иван;Алексеев;Engineering;Junior;103600,0;3;24;Bachelor;5;2022-12-02
+EMP0246;Анна;Медведев;Engineering;Junior;89600,0;3;26;Bachelor;3;2022-10-04
+EMP0247;Татьяна;Морозов;Engineering;Mid;127200,0;1;26;Bachelor;4;2024-07-18
+EMP0248;Андрей;Иванов;Engineering;Senior;221300,0;6;31;Master;4;2019-10-22
+EMP0249;Светлана;Егоров;Engineering;Mid;162500,0;4;28;Master;4;2021-07-07
+EMP0250;Алексей;Новиков;Engineering;Mid;141600,0;2;26;Bachelor;4;2023-05-24
+EMP0251;Дмитрий;Волков;Data Science;Senior;258200,0;11;35;Bachelor;5;2014-10-01
+EMP0252;Мария;Медведев;Data Science;Mid;137700,0;5;30;Bachelor;4;2020-08-03
+EMP0253;Андрей;Лебедев;Data Science;Mid;152500,0;5;28;Bachelor;3;2020-10-14
+EMP0254;Елена;Медведев;Data Science;Mid;151700,0;5;30;Bachelor;5;2020-09-11
+EMP0255;Наталья;Васильев;Data Science;Mid;149400,0;4;28;Bachelor;4;2021-05-11
+EMP0256;Максим;Сидоров;Data Science;Senior;277200,0;7;31;Master;4;2018-05-16
+EMP0257;Сергей;Васильев;Data Science;Junior;106000,0;1;27;Bachelor;4;2024-08-16
+EMP0258;Светлана;Алексеев;Data Science;Senior;262100,0;6;28;Master;4;2019-10-23
+EMP0259;Екатерина;Новиков;Data Science;Senior;231500,0;8;32;Bachelor;3;2017-08-01
+EMP0260;Наталья;Козлов;Data Science;Senior;233000,0;6;30;Master;3;2019-09-04
+EMP0261;Мария;Волков;Data Science;Senior;267300,0;10;32;Master;4;2015-09-04
+EMP0262;Алексей;Михайлов;Data Science;Junior;96700,0;1;27;Bachelor;4;2024-10-28
+EMP0263;Алексей;Попов;Data Science;Mid;166900,0;6;30;Bachelor;4;2019-07-17
+EMP0264;Сергей;Морозов;Data Science;Junior;106500,0;2;26;Bachelor;4;2023-11-23
+EMP0265;Мария;Смирнов;Data Science;Mid;162300,0;4;28;Bachelor;4;2021-09-22
+EMP0266;Иван;Медведев;Data Science;Senior;247100,0;6;31;Master;4;2019-07-25
+EMP0267;Елена;Михайлов;Data Science;Mid;139100,0;2;26;Master;4;2024-02-02
+EMP0268;Елена;Сидоров;Data Science;Junior;117700,0;0;23;Master;4;2025-07-13
+EMP0269;Светлана;Петров;Data Science;Mid;191300,0;2;24;PhD;4;2023-09-29
+EMP0270;Николай;Морозов;Data Science;Mid;158300,0;3;27;Bachelor;4;2022-11-04
+EMP0271;Иван;Михайлов;Data Science;Lead;381700,0;13;37;PhD;4;2012-12-30
+EMP0272;Юлия;Сидоров;Data Science;Director;553700,0;12;39;Master;4;2013-05-13
+EMP0273;Виктория;Михайлов;Data Science;Mid;155100,0;6;30;Bachelor;4;2019-03-10
+EMP0274;Роман;Козлов;Data Science;Mid;153000,0;1;26;Bachelor;5;2024-11-14
+EMP0275;Елена;Козлов;Data Science;Junior;115100,0;0;23;Master;4;2025-08-06
+EMP0276;Елена;Фёдоров;Data Science;Junior;106800,0;1;26;Bachelor;4;2024-09-23
+EMP0277;Татьяна;Новиков;Data Science;Mid;148300,0;5;26;Bachelor;4;2021-01-27
+EMP0278;Владимир;Соколов;Data Science;Junior;99300,0;3;27;Master;3;2022-08-10
+EMP0279;Алексей;Сидоров;Data Science;Junior;98800,0;1;25;Bachelor;3;2025-03-12
+EMP0280;Елена;Медведев;Data Science;Mid;156000,0;5;30;Bachelor;4;2021-01-17
+EMP0281;Елена;Лебедев;Data Science;Junior;115100,0;2;24;Master;3;2023-09-07
+EMP0282;Максим;Морозов;Data Science;Junior;96200,0;1;25;Bachelor;4;2024-12-02
+EMP0283;Мария;Кузнецов;Data Science;Junior;110800,0;1;25;Master;4;2024-05-30
+EMP0284;Максим;Иванов;Data Science;Senior;286900,0;9;34;Master;5;2017-02-11
+EMP0285;Юлия;Васильев;Data Science;Senior;270800,0;6;30;Master;5;2020-06-25
+EMP0286;Ольга;Иванов;Data Science;Junior;122900,0;2;26;Master;3;2023-08-20
+EMP0287;Юлия;Кузнецов;Data Science;Mid;138800,0;8;32;Bachelor;3;2017-10-25
+EMP0288;Дмитрий;Попов;Data Science;Senior;307600,0;10;35;PhD;4;2015-12-18
+EMP0289;Наталья;Михайлов;Data Science;Director;553800,0;9;34;PhD;4;2016-09-05
+EMP0290;Юлия;Попов;Data Science;Senior;245600,0;7;31;Master;4;2018-10-03
+EMP0291;Максим;Новиков;Data Science;Lead;335100,0;8;30;Master;3;2017-06-08
+EMP0292;Дмитрий;Иванов;Data Science;Senior;255900,0;9;33;Bachelor;4;2016-09-11
+EMP0293;Елена;Степанов;Data Science;Senior;215800,0;7;31;Bachelor;4;2017-10-28
+EMP0294;Максим;Михайлов;Data Science;Mid;159800,0;5;31;Bachelor;4;2020-11-12
+EMP0295;Игорь;Петров;Data Science;Manager;476500,0;17;40;Master;4;2008-05-28
+EMP0296;Наталья;Васильев;Data Science;Lead;381400,0;10;33;Master;4;2016-01-15
+EMP0297;Татьяна;Новиков;Data Science;Junior;107700,0;3;27;Bachelor;3;2022-05-19
+EMP0298;Виктория;Козлов;Data Science;Director;447900,0;8;32;Bachelor;3;2017-10-22
+EMP0299;Андрей;Иванов;Data Science;Junior;85400,0;1;25;Bachelor;3;2024-10-27
+EMP0300;Иван;Новиков;Data Science;Mid;177900,0;6;29;Bachelor;4;2019-08-01
+EMP0301;Татьяна;Васильев;Data Science;Senior;257100,0;9;33;Bachelor;5;2016-07-14
+EMP0302;Юлия;Васильев;Data Science;Mid;148300,0;5;30;Bachelor;3;2020-11-20
+EMP0303;Екатерина;Петров;Data Science;Senior;230500,0;5;30;Master;4;2020-06-23
+EMP0304;Юлия;Сидоров;Data Science;Mid;161900,0;4;30;Bachelor;4;2021-09-16
+EMP0305;Иван;Попов;Data Science;Senior;240100,0;6;30;Master;3;2019-12-03
+EMP0306;Анна;Козлов;Data Science;Senior;319400,0;9;34;Master;5;2016-09-23
+EMP0307;Ольга;Сидоров;Data Science;Mid;150300,0;4;29;Bachelor;3;2021-12-09
+EMP0308;Владимир;Степанов;Data Science;Lead;290000,0;12;36;Bachelor;5;2013-06-08
+EMP0309;Сергей;Волков;Data Science;Senior;272300,0;13;34;Master;3;2012-10-30
+EMP0310;Игорь;Алексеев;Data Science;Lead;400200,0;9;35;Master;5;2016-12-19
+EMP0311;Наталья;Морозов;Data Science;Mid;175100,0;6;31;Master;5;2019-10-30
+EMP0312;Дмитрий;Васильев;Data Science;Mid;175300,0;7;33;Bachelor;5;2018-06-21
+EMP0313;Дмитрий;Лебедев;Data Science;Senior;206500,0;9;31;Bachelor;4;2016-09-07
+EMP0314;Анна;Козлов;Data Science;Mid;149000,0;5;30;Bachelor;4;2020-06-09
+EMP0315;Татьяна;Иванов;Data Science;Junior;112400,0;1;25;Master;4;2024-07-04
+EMP0316;Сергей;Петров;Data Science;Senior;274100,0;5;29;Master;4;2020-07-23
+EMP0317;Иван;Егоров;Data Science;Senior;277300,0;6;30;Master;4;2019-03-21
+EMP0318;Елена;Петров;Data Science;Senior;226700,0;6;30;Bachelor;3;2019-08-06
+EMP0319;Юлия;Семёнов;Data Science;Mid;151700,0;6;29;Bachelor;4;2019-09-01
+EMP0320;Виктория;Волков;Data Science;Junior;100600,0;1;26;Bachelor;3;2024-03-23
+EMP0321;Андрей;Попов;Data Science;Lead;267000,0;9;32;Bachelor;4;2016-10-20
+EMP0322;Максим;Алексеев;Data Science;Mid;164000,0;7;32;Bachelor;4;2018-07-26
+EMP0323;Елена;Сидоров;Data Science;Mid;171800,0;6;29;Bachelor;5;2019-08-28
+EMP0324;Анна;Васильев;Data Science;Mid;164300,0;3;28;Master;4;2022-04-16
+EMP0325;Иван;Кузнецов;Data Science;Senior;262900,0;9;34;Master;3;2016-11-04
+EMP0326;Игорь;Новиков;Data Science;Junior;99000,0;2;27;Bachelor;4;2023-11-24
+EMP0327;Светлана;Егоров;Data Science;Senior;224900,0;9;34;Bachelor;4;2016-09-01
+EMP0328;Юлия;Михайлов;Data Science;Mid;158600,0;6;31;Bachelor;4;2019-10-08
+EMP0329;Татьяна;Алексеев;Data Science;Senior;257400,0;12;34;Master;3;2013-06-04
+EMP0330;Мария;Козлов;Data Science;Mid;165000,0;5;29;Master;4;2020-09-26
+EMP0331;Роман;Козлов;Data Science;Mid;173600,0;5;32;Master;3;2020-12-05
+EMP0332;Дмитрий;Иванов;Data Science;Mid;223900,0;9;33;Master;4;2016-05-31
+EMP0333;Игорь;Медведев;Data Science;Lead;352400,0;11;35;Master;3;2014-11-10
+EMP0334;Иван;Егоров;Data Science;Junior;106600,0;2;25;Bachelor;4;2023-05-24
+EMP0335;Виктория;Медведев;Data Science;Director;527100,0;7;30;Master;4;2018-08-30
+EMP0336;Елена;Лебедев;Data Science;Senior;239600,0;6;33;Bachelor;4;2019-04-21
+EMP0337;Ольга;Козлов;Data Science;Mid;168200,0;5;26;Master;3;2020-09-12
+EMP0338;Екатерина;Иванов;Data Science;Junior;124100,0;2;24;Master;4;2023-06-25
+EMP0339;Светлана;Новиков;Data Science;Mid;235900,0;5;30;PhD;5;2021-01-22
+EMP0340;Владимир;Морозов;Data Science;Junior;118000,0;2;29;Bachelor;5;2023-09-26
+EMP0341;Татьяна;Козлов;Data Science;Manager;339500,0;7;31;Master;3;2018-08-06
+EMP0342;Игорь;Степанов;Data Science;Senior;326900,0;9;32;PhD;5;2016-05-30
+EMP0343;Андрей;Васильев;Data Science;Mid;156000,0;1;25;Bachelor;4;2024-06-29
+EMP0344;Мария;Петров;Data Science;Senior;277700,0;5;30;PhD;4;2020-04-21
+EMP0345;Светлана;Петров;Data Science;Mid;136800,0;3;29;Bachelor;4;2022-07-21
+EMP0346;Игорь;Смирнов;Data Science;Mid;162200,0;3;27;Master;3;2022-05-31
+EMP0347;Екатерина;Морозов;Data Science;Mid;173000,0;3;27;Master;3;2022-06-29
+EMP0348;Юлия;Попов;Data Science;Mid;192000,0;2;26;Master;5;2024-02-19
+EMP0349;Елена;Медведев;Data Science;Mid;163900,0;4;26;Bachelor;5;2021-05-31
+EMP0350;Дмитрий;Соколов;Data Science;Junior;109700,0;4;30;Bachelor;4;2021-11-02
+EMP0351;Игорь;Волков;Data Science;Junior;108400,0;2;24;Bachelor;4;2023-10-02
+EMP0352;Иван;Егоров;Data Science;Junior;112900,0;2;24;Master;4;2023-08-10
+EMP0353;Елена;Семёнов;Data Science;Senior;236300,0;7;31;Master;3;2018-07-28
+EMP0354;Роман;Соколов;Data Science;Mid;158600,0;4;26;Master;3;2021-11-23
+EMP0355;Роман;Семёнов;Data Science;Mid;136100,0;1;27;Bachelor;4;2024-08-14
+EMP0356;Андрей;Фёдоров;Data Science;Senior;240700,0;5;29;Master;3;2020-09-23
+EMP0357;Виктория;Алексеев;Data Science;Lead;332900,0;10;34;Master;3;2015-04-12
+EMP0358;Николай;Фёдоров;Data Science;Mid;186800,0;6;29;Bachelor;5;2019-05-17
+EMP0359;Екатерина;Попов;Data Science;Junior;94500,0;1;23;Bachelor;3;2024-08-20
+EMP0360;Ольга;Смирнов;Data Science;Mid;191300,0;7;33;Master;4;2018-04-03
+EMP0361;Анна;Егоров;Data Science;Mid;189200,0;3;26;Master;4;2022-07-30
+EMP0362;Иван;Морозов;Data Science;Senior;293600,0;9;33;Master;5;2016-12-07
+EMP0363;Анна;Кузнецов;Data Science;Junior;108900,0;0;22;Master;3;2025-07-19
+EMP0364;Иван;Попов;Data Science;Mid;159100,0;4;28;Bachelor;4;2021-07-02
+EMP0365;Максим;Попов;Data Science;Junior;106200,0;3;28;Bachelor;4;2022-10-05
+EMP0366;Наталья;Соколов;Data Science;Mid;157900,0;7;31;Bachelor;5;2018-07-13
+EMP0367;Роман;Попов;Data Science;Mid;164000,0;1;25;Master;4;2024-10-04
+EMP0368;Екатерина;Егоров;Data Science;Manager;346600,0;11;38;Master;3;2014-07-31
+EMP0369;Алексей;Семёнов;Data Science;Junior;123600,0;2;26;Master;4;2023-07-09
+EMP0370;Иван;Михайлов;Data Science;Mid;119300,0;1;25;Bachelor;4;2024-08-29
+EMP0371;Светлана;Егоров;Product;Mid;127200,0;8;34;Bachelor;4;2017-07-25
+EMP0372;Владимир;Соколов;Product;Senior;223900,0;8;32;Master;5;2017-08-15
+EMP0373;Дмитрий;Алексеев;Product;Senior;168000,0;7;31;Master;4;2018-05-10
+EMP0374;Екатерина;Волков;Product;Senior;250900,0;7;30;PhD;5;2018-06-09
+EMP0375;Андрей;Петров;Product;Mid;121900,0;4;28;Bachelor;4;2021-12-21
+EMP0376;Юлия;Алексеев;Product;Junior;77700,0;0;24;Bachelor;5;2025-08-06
+EMP0377;Дмитрий;Фёдоров;Product;Junior;88000,0;0;26;PhD;3;2025-05-23
+EMP0378;Владимир;Лебедев;Product;Manager;267400,0;11;36;Bachelor;4;2014-10-08
+EMP0379;Алексей;Смирнов;Product;Senior;212800,0;3;29;Master;5;2022-09-24
+EMP0380;Анна;Морозов;Product;Junior;83100,0;2;27;Bachelor;4;2023-08-03
+EMP0381;Светлана;Фёдоров;Product;Mid;112900,0;3;28;Bachelor;5;2022-03-31
+EMP0382;Ольга;Козлов;Product;Senior;231600,0;7;29;PhD;4;2018-06-07
+EMP0383;Наталья;Семёнов;Product;VP;624300,0;16;42;Bachelor;4;2009-11-19
+EMP0384;Игорь;Фёдоров;Product;Junior;101900,0;1;24;Master;5;2024-07-04
+EMP0385;Ольга;Петров;Product;Senior;159400,0;7;31;Bachelor;4;2018-10-07
+EMP0386;Мария;Кузнецов;Product;Junior;74400,0;1;25;Bachelor;3;2024-10-15
+EMP0387;Владимир;Васильев;Product;Mid;119700,0;6;30;Bachelor;4;2019-09-18
+EMP0388;Екатерина;Алексеев;Product;Mid;127300,0;6;30;Bachelor;4;2019-07-14
+EMP0389;Алексей;Морозов;Product;Mid;130700,0;6;31;Bachelor;4;2019-10-09
+EMP0390;Иван;Михайлов;Product;Lead;302100,0;16;37;Master;4;2009-05-18
+EMP0391;Светлана;Козлов;Product;Manager;274800,0;8;32;Master;4;2017-11-03
+EMP0392;Татьяна;Сидоров;Product;Manager;359800,0;11;34;PhD;4;2014-11-26
+EMP0393;Светлана;Васильев;Product;Junior;93400,0;0;23;Master;5;2025-05-15
+EMP0394;Анна;Смирнов;Product;Mid;120600,0;4;28;Bachelor;3;2021-03-20
+EMP0395;Наталья;Кузнецов;Product;Junior;89100,0;3;27;Bachelor;4;2023-01-04
+EMP0396;Роман;Иванов;Product;Senior;161400,0;9;33;Bachelor;4;2016-08-23
+EMP0397;Виктория;Семёнов;Product;Mid;118500,0;5;28;Bachelor;4;2020-09-13
+EMP0398;Роман;Алексеев;Product;Mid;135500,0;6;31;Bachelor;4;2019-11-02
+EMP0399;Максим;Семёнов;Product;Senior;171700,0;10;36;Bachelor;3;2015-07-27
+EMP0400;Дмитрий;Васильев;Product;Mid;116100,0;5;29;Bachelor;4;2020-04-29
+EMP0401;Мария;Морозов;Product;Mid;112200,0;5;29;Bachelor;3;2020-11-21
+EMP0402;Ольга;Фёдоров;Product;Senior;202600,0;9;37;PhD;4;2017-01-23
+EMP0403;Юлия;Семёнов;Product;Senior;206300,0;9;32;Bachelor;5;2016-09-16
+EMP0404;Елена;Волков;Product;Lead;299300,0;12;32;Master;4;2013-09-14
+EMP0405;Дмитрий;Морозов;Product;Mid;132900,0;5;34;Master;4;2020-09-02
+EMP0406;Роман;Волков;Product;Mid;142700,0;9;34;Bachelor;4;2016-11-29
+EMP0407;Елена;Васильев;Product;Senior;177800,0;8;32;Bachelor;3;2017-04-19
+EMP0408;Николай;Сидоров;Product;Junior;90300,0;2;23;Master;4;2023-09-05
+EMP0409;Елена;Морозов;Product;Director;457000,0;10;31;PhD;4;2015-04-09
+EMP0410;Мария;Васильев;Product;Mid;145100,0;7;31;Master;3;2018-09-06
+EMP0411;Дмитрий;Сидоров;Product;Director;485200,0;10;34;Master;5;2015-01-27
+EMP0412;Юлия;Лебедев;Product;Junior;90900,0;0;23;Master;4;2025-08-06
+EMP0413;Юлия;Лебедев;Product;Mid;130900,0;3;27;Bachelor;5;2022-05-21
+EMP0414;Анна;Алексеев;Product;Senior;179100,0;7;32;Bachelor;3;2018-08-29
+EMP0415;Анна;Смирнов;Product;Senior;186900,0;6;30;Master;4;2019-05-14
+EMP0416;Татьяна;Егоров;Product;Mid;124200,0;5;29;Bachelor;4;2020-11-08
+EMP0417;Максим;Волков;Product;Lead;292800,0;10;35;Master;4;2016-01-11
+EMP0418;Андрей;Морозов;Product;Mid;115300,0;7;31;Bachelor;3;2018-07-13
+EMP0419;Светлана;Сидоров;Product;Junior;81900,0;1;26;Bachelor;4;2024-07-11
+EMP0420;Андрей;Медведев;Product;Senior;180300,0;3;27;Bachelor;5;2022-07-27
+EMP0421;Мария;Смирнов;Product;Mid;178200,0;7;28;PhD;5;2018-10-23
+EMP0422;Алексей;Лебедев;Product;Mid;110500,0;3;28;Bachelor;5;2022-10-12
+EMP0423;Максим;Егоров;Product;Mid;113100,0;3;27;Bachelor;4;2022-07-15
+EMP0424;Андрей;Петров;Product;Mid;112900,0;4;28;Bachelor;4;2021-07-09
+EMP0425;Сергей;Новиков;Product;Mid;99200,0;1;24;Bachelor;3;2024-02-14
+EMP0426;Андрей;Новиков;Product;Mid;134300,0;1;22;Master;4;2024-09-02
+EMP0427;Иван;Фёдоров;Product;Senior;141400,0;3;27;Bachelor;3;2022-08-09
+EMP0428;Виктория;Семёнов;Product;Junior;94800,0;1;25;Master;4;2024-08-12
+EMP0429;Светлана;Соколов;Product;Senior;211900,0;10;31;Master;4;2015-11-11
+EMP0430;Наталья;Петров;Product;Manager;299500,0;15;39;Master;4;2010-05-30
+EMP0431;Виктория;Семёнов;Product;Senior;206900,0;7;28;Master;4;2018-12-07
+EMP0432;Иван;Васильев;Product;Mid;131700,0;8;31;Master;3;2017-09-01
+EMP0433;Андрей;Соколов;Product;Junior;92000,0;2;28;Master;4;2024-01-31
+EMP0434;Екатерина;Козлов;Product;Junior;76000,0;2;27;Bachelor;4;2023-12-13
+EMP0435;Ольга;Новиков;Product;Senior;190600,0;9;34;Master;4;2016-07-10
+EMP0436;Мария;Васильев;Product;Mid;111700,0;4;28;Bachelor;3;2021-12-15
+EMP0437;Владимир;Семёнов;Product;Director;541200,0;16;39;PhD;3;2009-12-22
+EMP0438;Андрей;Семёнов;Product;Mid;105200,0;3;28;Bachelor;4;2022-12-19
+EMP0439;Владимир;Лебедев;Product;Senior;218300,0;8;31;Master;5;2017-08-02
+EMP0440;Николай;Алексеев;Product;Junior;83900,0;0;25;Master;4;2025-08-06
+EMP0441;Татьяна;Сидоров;Product;Senior;174800,0;3;27;Master;4;2022-05-22
+EMP0442;Максим;Лебедев;Product;Junior;78100,0;0;26;Bachelor;4;2025-02-02
+EMP0443;Елена;Медведев;Product;Junior;85700,0;2;24;Master;4;2024-03-17
+EMP0444;Андрей;Волков;Product;Mid;124100,0;2;25;Bachelor;4;2023-02-27
+EMP0445;Игорь;Степанов;Product;Senior;234700,0;8;32;Master;5;2017-08-28
+EMP0446;Виктория;Егоров;Product;Junior;91800,0;0;22;Master;4;2025-08-06
+EMP0447;Иван;Соколов;Product;Junior;122600,0;4;28;PhD;5;2021-08-21
+EMP0448;Анна;Попов;Product;Senior;180700,0;7;31;Bachelor;4;2018-10-28
+EMP0449;Юлия;Егоров;Product;Senior;226300,0;4;27;PhD;4;2021-07-02
+EMP0450;Владимир;Медведев;Product;Mid;109400,0;2;26;Bachelor;4;2023-10-10
+EMP0451;Николай;Медведев;Product;Senior;261900,0;8;33;PhD;4;2017-03-22
+EMP0452;Ольга;Новиков;Product;Junior;97700,0;1;25;PhD;3;2024-02-04
+EMP0453;Мария;Егоров;Product;Senior;182400,0;7;32;Master;4;2018-08-09
+EMP0454;Ольга;Алексеев;Product;Mid;121100,0;4;28;Master;4;2021-09-11
+EMP0455;Дмитрий;Степанов;Product;Mid;113600,0;2;28;Bachelor;5;2023-07-04
+EMP0456;Максим;Козлов;Product;Mid;113100,0;3;27;Bachelor;4;2022-05-28
+EMP0457;Дмитрий;Морозов;Product;Mid;119000,0;4;30;Bachelor;3;2022-01-17
+EMP0458;Владимир;Кузнецов;Product;Senior;185500,0;8;30;Bachelor;4;2017-06-24
+EMP0459;Мария;Морозов;Product;Senior;194500,0;6;31;Master;4;2019-08-13
+EMP0460;Игорь;Кузнецов;Product;Senior;172700,0;11;35;Bachelor;3;2015-01-11
+EMP0461;Иван;Новиков;Product;Lead;210800,0;8;29;Bachelor;3;2017-02-02
+EMP0462;Юлия;Кузнецов;Product;Junior;90100,0;2;25;Master;3;2023-09-21
+EMP0463;Мария;Лебедев;Product;Senior;190000,0;3;27;Master;4;2022-08-22
+EMP0464;Николай;Медведев;Product;Mid;111200,0;3;28;Bachelor;4;2022-09-22
+EMP0465;Ольга;Медведев;Product;Senior;201700,0;6;30;Bachelor;5;2019-07-22
+EMP0466;Сергей;Новиков;Product;Junior;81700,0;1;28;Bachelor;4;2024-12-05
+EMP0467;Сергей;Степанов;Product;Mid;123900,0;6;32;Bachelor;4;2019-10-28
+EMP0468;Виктория;Петров;Product;Senior;182700,0;8;31;Bachelor;4;2017-08-11
+EMP0469;Татьяна;Васильев;Product;Mid;125600,0;6;29;Master;4;2019-10-17
+EMP0470;Виктория;Лебедев;Product;Junior;72400,0;1;22;Bachelor;4;2024-06-23
+EMP0471;Алексей;Попов;Sales;Mid;116500,0;4;28;Master;5;2021-09-14
+EMP0472;Мария;Фёдоров;Sales;Mid;95200,0;5;29;Master;4;2020-09-07
+EMP0473;Виктория;Попов;Sales;Junior;94000,0;3;30;Master;5;2022-11-29
+EMP0474;Андрей;Петров;Sales;Senior;192300,0;8;32;Master;3;2017-11-30
+EMP0475;Елена;Соколов;Sales;Mid;87200,0;7;31;Bachelor;4;2018-08-30
+EMP0476;Анна;Морозов;Sales;Senior;217700,0;10;32;Master;5;2015-09-19
+EMP0477;Сергей;Сидоров;Sales;Manager;284900,0;10;36;PhD;4;2015-12-02
+EMP0478;Мария;Лебедев;Sales;Lead;258200,0;8;28;PhD;5;2017-08-11
+EMP0479;Юлия;Попов;Sales;Junior;64600,0;2;26;Bachelor;4;2023-07-12
+EMP0480;Елена;Козлов;Sales;Junior;72400,0;2;29;Bachelor;5;2023-10-15
+EMP0481;Роман;Петров;Sales;Junior;63800,0;1;22;Bachelor;5;2024-05-21
+EMP0482;Виктория;Соколов;Sales;Senior;141900,0;7;30;Bachelor;4;2018-10-31
+EMP0483;Елена;Алексеев;Sales;Senior;164300,0;4;27;PhD;5;2021-07-12
+EMP0484;Иван;Соколов;Sales;Mid;28595,0;6;29;Master;3;2019-06-25
+EMP0485;Татьяна;Попов;Sales;Junior;59500,0;2;25;Bachelor;4;2023-07-20
+EMP0486;Владимир;Кузнецов;Sales;Mid;119600,0;3;28;Master;5;2023-02-15
+EMP0487;Игорь;Морозов;Sales;Mid;95200,0;5;27;Bachelor;4;2020-10-02
+EMP0488;Максим;Иванов;Sales;Junior;84200,0;2;26;Master;3;2023-10-16
+EMP0489;Виктория;Семёнов;Sales;Mid;98300,0;1;25;Bachelor;3;2024-06-29
+EMP0490;Татьяна;Алексеев;Sales;Junior;244757,18172013454;1;24;Master;3;2024-11-24
+EMP0491;Юлия;Медведев;Sales;Junior;72000,0;1;23;Bachelor;3;2024-08-10
+EMP0492;Мария;Степанов;Sales;Senior;161800,0;5;28;Master;4;2020-04-06
+EMP0493;Иван;Васильев;Sales;Lead;261400,0;11;35;Master;4;2015-01-19
+EMP0494;Ольга;Новиков;Sales;Senior;158600,0;11;37;Bachelor;4;2014-04-08
+EMP0495;Владимир;Егоров;Sales;Senior;171800,0;5;29;PhD;4;2020-07-29
+EMP0496;Иван;Степанов;Sales;Junior;62800,0;2;23;Bachelor;3;2023-09-27
+EMP0497;Сергей;Попов;Sales;Mid;88900,0;3;27;Bachelor;4;2022-07-28
+EMP0498;Роман;Попов;Sales;Junior;77300,0;2;25;Master;4;2023-06-30
+EMP0499;Ольга;Семёнов;Sales;Senior;136200,0;6;33;Bachelor;4;2019-07-28
+EMP0500;Елена;Смирнов;Sales;Junior;59800,0;4;29;Bachelor;5;2021-01-01
+EMP0501;Татьяна;Попов;Sales;VP;444500,0;7;31;Bachelor;5;2018-07-24
+EMP0502;Алексей;Семёнов;Sales;Senior;164400,0;8;33;Bachelor;5;2017-06-04
+EMP0503;Максим;Соколов;Sales;Mid;96000,0;4;28;Bachelor;3;2021-03-11
+EMP0504;Наталья;Соколов;Sales;Junior;74800,0;1;26;PhD;3;2024-10-04
+EMP0505;Виктория;Алексеев;Sales;Senior;144300,0;9;34;Master;4;2016-12-19
+EMP0506;Дмитрий;Михайлов;Sales;Junior;79300,0;2;25;Bachelor;4;2023-09-26
+EMP0507;Николай;Козлов;Sales;Junior;62200,0;1;28;Bachelor;3;2024-07-05
+EMP0508;Татьяна;Михайлов;Sales;Mid;105300,0;5;30;Bachelor;5;2020-05-30
+EMP0509;Ольга;Кузнецов;Sales;Junior;69300,0;0;24;Bachelor;5;2025-08-06
+EMP0510;Виктория;Васильев;Sales;Mid;127400,0;5;29;Master;4;2020-11-19
+EMP0511;Сергей;Иванов;Sales;Mid;82700,0;5;27;Master;4;2020-07-05
+EMP0512;Дмитрий;Алексеев;Sales;Senior;183300,0;9;34;Master;4;2016-07-04
+EMP0513;Роман;Новиков;Sales;Junior;58900,0;1;24;Bachelor;3;2024-12-24
+EMP0514;Екатерина;Сидоров;Sales;Junior;75600,0;2;27;Master;4;2023-11-10
+EMP0515;Мария;Лебедев;Sales;Director;392700,0;15;40;Master;3;2010-07-20
+EMP0516;Андрей;Егоров;Sales;Junior;66900,0;0;24;Bachelor;4;2025-05-17
+EMP0517;Дмитрий;Алексеев;Sales;Junior;65100,0;0;26;Bachelor;4;2025-08-06
+EMP0518;Наталья;Новиков;Sales;VP;576500,0;7;33;Master;4;2018-08-16
+EMP0519;Елена;Лебедев;Sales;Junior;65900,0;2;25;Bachelor;3;2023-05-11
+EMP0520;Алексей;Кузнецов;Sales;Junior;60400,0;0;24;Bachelor;3;2025-08-06
+EMP0521;Николай;Фёдоров;Sales;Junior;76400,0;4;28;Master;4;2021-10-18
+EMP0522;Иван;Лебедев;Sales;Mid;95600,0;4;24;Bachelor;4;2021-05-19
+EMP0523;Владимир;Новиков;Sales;Mid;131600,0;8;33;Master;5;2017-08-28
+EMP0524;Елена;Семёнов;Sales;Mid;112000,0;3;27;Bachelor;5;2022-07-24
+EMP0525;Екатерина;Морозов;Sales;Junior;64000,0;2;28;Master;3;2024-01-31
+EMP0526;Светлана;Смирнов;Sales;Senior;131200,0;8;35;Master;3;2017-08-26
+EMP0527;Ольга;Морозов;Sales;Senior;135800,0;5;31;Master;4;2020-02-18
+EMP0528;Николай;Михайлов;Sales;Mid;92200,0;1;27;Bachelor;5;2025-01-07
+EMP0529;Игорь;Егоров;Sales;Mid;95300,0;6;30;Master;4;2020-01-21
+EMP0530;Дмитрий;Смирнов;Sales;Junior;73600,0;2;28;Bachelor;4;2023-12-12
+EMP0531;Алексей;Морозов;Sales;Mid;95200,0;4;26;Bachelor;3;2021-02-01
+EMP0532;Светлана;Лебедев;Sales;Junior;79100,0;1;27;Master;4;2024-08-31
+EMP0533;Владимир;Волков;Sales;Senior;158800,0;8;31;Master;5;2017-12-03
+EMP0534;Иван;Попов;Sales;Senior;137000,0;7;32;Bachelor;4;2018-07-28
+EMP0535;Ольга;Попов;Sales;Junior;63100,0;3;27;Bachelor;4;2022-09-27
+EMP0536;Андрей;Васильев;Sales;Junior;62200,0;2;28;Bachelor;3;2023-09-27
+EMP0537;Владимир;Кузнецов;Sales;Senior;134200,0;11;37;Bachelor;4;2014-06-25
+EMP0538;Наталья;Соколов;Sales;Junior;73700,0;1;25;Master;4;2024-12-07
+EMP0539;Юлия;Морозов;Sales;Junior;68600,0;2;23;Bachelor;4;2023-11-26
+EMP0540;Максим;Попов;Sales;Mid;93800,0;4;27;Bachelor;4;2022-02-13
+EMP0541;Николай;Степанов;Sales;Senior;184300,0;11;35;Master;4;2015-01-23
+EMP0542;Светлана;Волков;Sales;Mid;89400,0;3;28;Bachelor;4;2023-02-17
+EMP0543;Наталья;Алексеев;Sales;Mid;108900,0;7;31;Bachelor;5;2018-08-04
+EMP0544;Алексей;Соколов;Sales;Mid;126900,0;5;26;Master;4;2020-09-05
+EMP0545;Екатерина;Соколов;Sales;Junior;62000,0;1;29;Bachelor;3;2024-11-02
+EMP0546;Виктория;Соколов;Sales;Director;301300,0;14;38;Master;3;2011-11-03
+EMP0547;Иван;Медведев;Sales;Mid;120100,0;9;35;Bachelor;3;2016-10-09
+EMP0548;Светлана;Лебедев;Sales;Senior;157500,0;7;31;Master;4;2018-05-06
+EMP0549;Виктория;Фёдоров;Sales;Junior;60500,0;0;22;Bachelor;4;2025-08-06
+EMP0550;Алексей;Лебедев;Sales;Manager;247700,0;17;41;Master;3;2008-11-18
+EMP0551;Андрей;Лебедев;Sales;Lead;210200,0;11;36;Bachelor;5;2015-01-31
+EMP0552;Анна;Соколов;Sales;Senior;129600,0;8;32;Bachelor;3;2017-10-07
+EMP0553;Алексей;Михайлов;Sales;Mid;129600,0;6;29;Master;4;2019-02-06
+EMP0554;Иван;Михайлов;Sales;Senior;155100,0;9;33;Master;4;2016-06-06
+EMP0555;Мария;Семёнов;Sales;Senior;168300,0;6;30;Master;4;2019-03-08
+EMP0556;Мария;Попов;Sales;Junior;49900,0;2;26;Bachelor;3;2024-01-16
+EMP0557;Ольга;Егоров;Sales;Mid;98700,0;3;26;Master;3;2022-06-01
+EMP0558;Иван;Попов;Sales;Manager;285500,0;15;39;Master;4;2010-09-15
+EMP0559;Николай;Волков;Sales;Junior;66200,0;2;24;Bachelor;4;2023-12-15
+EMP0560;Наталья;Семёнов;Sales;Senior;151300,0;8;33;Master;5;2017-08-17
+EMP0561;Анна;Волков;Sales;Junior;68300,0;0;24;Bachelor;3;2025-08-03
+EMP0562;Игорь;Алексеев;Sales;Senior;168200,0;6;30;Master;4;2019-04-17
+EMP0563;Николай;Фёдоров;Sales;Mid;96700,0;5;29;Bachelor;3;2020-05-13
+EMP0564;Иван;Сидоров;Sales;Mid;104700,0;5;29;Master;4;2020-08-24
+EMP0565;Ольга;Лебедев;Sales;Mid;107900,0;3;27;Master;4;2022-07-20
+EMP0566;Татьяна;Сидоров;Sales;Mid;93600,0;1;25;Bachelor;4;2024-10-27
+EMP0567;Светлана;Попов;Sales;Mid;100000,0;5;29;Bachelor;4;2021-04-04
+EMP0568;Юлия;Михайлов;Sales;Mid;93000,0;3;27;Bachelor;5;2022-11-18
+EMP0569;Владимир;Козлов;Sales;Mid;113000,0;6;30;Bachelor;3;2019-09-29
+EMP0570;Екатерина;Медведев;Sales;Junior;95700,0;1;25;PhD;5;2024-11-22
+EMP0571;Анна;Петров;Sales;Mid;120300,0;4;28;Bachelor;5;2021-09-09
+EMP0572;Ольга;Кузнецов;Sales;Senior;158400,0;8;32;Master;4;2017-03-16
+EMP0573;Владимир;Алексеев;Sales;Senior;135400,0;8;32;Bachelor;4;2017-12-04
+EMP0574;Ольга;Смирнов;Sales;Mid;103800,0;3;27;Bachelor;4;2022-08-28
+EMP0575;Роман;Семёнов;Sales;Junior;75000,0;3;27;Master;5;2022-09-04
+EMP0576;Анна;Медведев;Sales;Mid;92700,0;4;29;Master;4;2021-06-30
+EMP0577;Виктория;Морозов;Sales;Senior;147000,0;7;31;Bachelor;4;2018-07-20
+EMP0578;Иван;Васильев;Sales;Mid;117400,0;4;28;Master;4;2021-05-26
+EMP0579;Ольга;Иванов;Sales;Mid;115400,0;4;27;Bachelor;5;2021-08-14
+EMP0580;Дмитрий;Сидоров;Sales;Manager;371900,0;20;44;Master;5;2005-06-28
+EMP0581;Роман;Козлов;Sales;Senior;142400,0;10;34;Master;3;2015-09-28
+EMP0582;Роман;Семёнов;Sales;Mid;104500,0;4;29;Bachelor;4;2021-12-01
+EMP0583;Наталья;Семёнов;Sales;Lead;231800,0;12;35;Master;5;2013-09-08
+EMP0584;Татьяна;Васильев;Sales;Senior;132400,0;7;33;Master;3;2018-09-10
+EMP0585;Андрей;Волков;Sales;Senior;196900,0;8;31;Master;4;2017-07-20
+EMP0586;Сергей;Егоров;Sales;Junior;76800,0;1;25;Bachelor;5;2024-04-30
+EMP0587;Виктория;Васильев;Sales;Mid;110500,0;5;29;Master;5;2020-09-06
+EMP0588;Сергей;Петров;Sales;Junior;82600,0;3;29;Bachelor;5;2022-07-01
+EMP0589;Роман;Васильев;Sales;Mid;103700,0;3;27;Bachelor;4;2022-06-30
+EMP0590;Татьяна;Михайлов;Sales;Junior;77500,0;1;25;Master;5;2025-01-30
+EMP0591;Екатерина;Новиков;Sales;Junior;82700,0;2;28;PhD;5;2023-09-05
+EMP0592;Иван;Козлов;Sales;Mid;90800,0;3;28;Bachelor;4;2022-07-26
+EMP0593;Максим;Фёдоров;Sales;Mid;88900,0;1;23;Master;4;2025-02-14
+EMP0594;Иван;Соколов;Sales;Lead;222700,0;11;35;Master;4;2014-09-29
+EMP0595;Иван;Сидоров;Sales;Mid;102300,0;3;27;Master;4;2022-09-14
+EMP0596;Светлана;Соколов;Sales;Manager;233700,0;13;35;Master;4;2012-10-08
+EMP0597;Светлана;Смирнов;Sales;Junior;57600,0;3;24;Bachelor;3;2023-02-27
+EMP0598;Виктория;Лебедев;Sales;Director;293900,0;7;35;PhD;4;2018-10-20
+EMP0599;Анна;Иванов;Sales;Mid;259741,19335965716;4;28;Bachelor;4;2021-12-13
+EMP0600;Светлана;Медведев;Sales;Senior;239900,0;10;34;Master;5;2015-05-27
+EMP0601;Игорь;Петров;Sales;Manager;241900,0;14;33;Master;4;2011-03-29
+EMP0602;Виктория;Волков;Sales;Junior;71100,0;1;29;Bachelor;4;2024-11-27
+EMP0603;Андрей;Смирнов;Sales;Mid;108300,0;5;28;Bachelor;5;2020-12-05
+EMP0604;Мария;Васильев;Sales;VP;411300,0;9;34;Bachelor;3;2016-09-29
+EMP0605;Татьяна;Алексеев;Sales;Mid;86600,0;2;25;Master;4;2023-07-01
+EMP0606;Ольга;Лебедев;Sales;Senior;175000,0;10;34;Master;5;2015-08-21
+EMP0607;Игорь;Новиков;Sales;Senior;197900,0;8;32;Master;5;2017-10-23
+EMP0608;Сергей;Степанов;Sales;Senior;187300,0;8;32;Master;5;2017-04-19
+EMP0609;Андрей;Новиков;Sales;Senior;187000,0;8;31;Master;5;2017-06-15
+EMP0610;Екатерина;Степанов;Sales;Junior;64400,0;3;22;Bachelor;4;2022-10-06
+EMP0611;Николай;Семёнов;Sales;Lead;177600,0;8;35;Master;3;2017-07-30
+EMP0612;Светлана;Егоров;Sales;Junior;56000,0;0;26;Master;4;2025-04-13
+EMP0613;Игорь;Морозов;Sales;Junior;73200,0;3;27;Master;4;2022-04-16
+EMP0614;Мария;Лебедев;Sales;Mid;84300,0;3;30;Bachelor;3;2022-08-30
+EMP0615;Екатерина;Егоров;Sales;Senior;177400,0;9;33;Master;3;2016-08-21
+EMP0616;Дмитрий;Кузнецов;Sales;Senior;167300,0;9;33;Master;4;2016-07-16
+EMP0617;Иван;Алексеев;Sales;Manager;286200,0;11;37;PhD;4;2015-03-26
+EMP0618;Анна;Морозов;Sales;Mid;103900,0;1;25;Master;4;2024-01-26
+EMP0619;Максим;Семёнов;Sales;Mid;106700,0;5;31;Master;4;2020-07-21
+EMP0620;Сергей;Васильев;Sales;Lead;211300,0;9;35;Master;4;2016-11-06
+EMP0621;Андрей;Иванов;Marketing;Manager;269300,0;12;36;Master;5;2013-10-05
+EMP0622;Сергей;Соколов;Marketing;Lead;200200,0;10;36;Master;4;2015-06-03
+EMP0623;Мария;Медведев;Marketing;Mid;84200,0;4;27;Bachelor;5;2021-07-12
+EMP0624;Иван;Михайлов;Marketing;Senior;145000,0;7;30;Master;3;2018-06-05
+EMP0625;Ольга;Алексеев;Marketing;Mid;82400,0;2;26;Bachelor;4;2023-02-23
+EMP0626;Иван;Степанов;Marketing;Lead;190500,0;8;32;Master;3;2017-02-12
+EMP0627;Роман;Волков;Marketing;Junior;64700,0;2;26;Master;4;2023-07-20
+EMP0628;Максим;Васильев;Marketing;Senior;120500,0;5;33;Bachelor;3;2020-10-20
+EMP0629;Алексей;Сидоров;Marketing;Lead;197900,0;11;34;Master;4;2014-09-17
+EMP0630;Игорь;Медведев;Marketing;Junior;48500,0;0;24;Bachelor;3;2025-08-06
+EMP0631;Ольга;Попов;Marketing;Manager;231400,0;7;29;PhD;4;2018-11-14
+EMP0632;Ольга;Петров;Marketing;Junior;67000,0;3;27;Master;4;2022-10-10
+EMP0633;Екатерина;Фёдоров;Marketing;Mid;83300,0;1;25;Bachelor;4;2024-05-24
+EMP0634;Андрей;Васильев;Marketing;Mid;90300,0;6;33;Bachelor;4;2019-05-23
+EMP0635;Максим;Волков;Marketing;Mid;111900,0;7;32;Master;4;2018-07-23
+EMP0636;Наталья;Сидоров;Marketing;Lead;212700,0;12;36;Master;4;2013-11-07
+EMP0637;Наталья;Новиков;Marketing;Junior;59000,0;2;26;Bachelor;4;2023-07-26
+EMP0638;Максим;Попов;Marketing;Senior;147200,0;9;33;Master;4;2016-12-11
+EMP0639;Игорь;Алексеев;Marketing;Senior;173600,0;11;36;Master;4;2014-08-09
+EMP0640;Мария;Фёдоров;Marketing;Junior;57400,0;1;25;Master;3;2024-11-11
+EMP0641;Ольга;Морозов;Marketing;Senior;141700,0;10;35;Master;4;2015-08-07
+EMP0642;Наталья;Степанов;Marketing;Mid;83400,0;3;28;Master;3;2022-10-07
+EMP0643;Игорь;Петров;Marketing;Junior;57500,0;0;26;Bachelor;5;2025-08-06
+EMP0644;Мария;Алексеев;Marketing;Mid;97800,0;1;25;Master;4;2024-07-11
+EMP0645;Андрей;Лебедев;Marketing;Senior;155100,0;8;30;Master;4;2018-01-14
+EMP0646;Елена;Иванов;Marketing;Mid;96500,0;4;29;Master;4;2021-08-17
+EMP0647;Екатерина;Иванов;Marketing;Mid;96900,0;4;26;Bachelor;5;2021-09-11
+EMP0648;Виктория;Петров;Marketing;Junior;61400,0;1;27;Bachelor;4;2024-06-27
+EMP0649;Максим;Сидоров;Marketing;VP;492600,0;10;36;PhD;4;2015-09-23
+EMP0650;Мария;Смирнов;Marketing;Director;355600,0;10;32;PhD;4;2015-06-21
+EMP0651;Иван;Фёдоров;Marketing;Junior;62500,0;0;24;Master;4;2025-08-06
+EMP0652;Сергей;Михайлов;Marketing;Junior;72800,0;2;27;Master;4;2023-12-29
+EMP0653;Ольга;Васильев;Marketing;Senior;158200,0;8;31;Master;4;2017-10-21
+EMP0654;Ольга;Лебедев;Marketing;Mid;80000,0;4;27;Bachelor;3;2021-11-02
+EMP0655;Алексей;Петров;Marketing;Senior;165300,0;10;34;Master;4;2015-07-15
+EMP0656;Дмитрий;Егоров;Marketing;Senior;166300,0;11;36;Master;5;2014-09-08
+EMP0657;Сергей;Семёнов;Marketing;Manager;218000,0;7;31;Master;4;2018-07-08
+EMP0658;Андрей;Козлов;Marketing;Junior;60500,0;2;22;Bachelor;4;2023-07-04
+EMP0659;Иван;Попов;Marketing;Senior;132000,0;5;30;Master;4;2020-11-14
+EMP0660;Екатерина;Семёнов;Marketing;Mid;79500,0;1;23;Bachelor;4;2024-07-08
+EMP0661;Игорь;Медведев;Marketing;VP;375500,0;8;32;Bachelor;4;2017-08-03
+EMP0662;Ольга;Смирнов;Marketing;Junior;58200,0;1;25;Bachelor;3;2024-11-28
+EMP0663;Юлия;Смирнов;Marketing;Mid;101700,0;4;30;Bachelor;5;2021-12-21
+EMP0664;Владимир;Сидоров;Marketing;Manager;209100,0;7;33;Master;3;2018-06-09
+EMP0665;Светлана;Сидоров;Marketing;Mid;94500,0;6;29;Bachelor;4;2019-10-21
+EMP0666;Иван;Лебедев;Marketing;Junior;65400,0;3;25;Bachelor;5;2022-07-24
+EMP0667;Игорь;Козлов;Marketing;Senior;158800,0;8;34;Master;4;2017-08-14
+EMP0668;Ольга;Козлов;Marketing;Lead;200700,0;7;28;Master;4;2018-07-15
+EMP0669;Иван;Соколов;Marketing;Lead;204800,0;9;33;Master;5;2016-08-02
+EMP0670;Ольга;Соколов;Marketing;Senior;134800,0;8;33;Master;4;2017-10-14
+EMP0671;Мария;Сидоров;Marketing;Junior;57900,0;0;25;Bachelor;4;2025-08-06
+EMP0672;Николай;Медведев;Marketing;Senior;151100,0;9;35;Master;4;2017-02-01
+EMP0673;Татьяна;Смирнов;Marketing;Junior;64700,0;3;27;Bachelor;4;2022-10-14
+EMP0674;Ольга;Соколов;Marketing;Senior;168100,0;10;33;Master;4;2015-11-20
+EMP0675;Алексей;Михайлов;Marketing;Senior;128900,0;6;30;Bachelor;3;2019-03-31
+EMP0676;Светлана;Морозов;Marketing;Junior;51500,0;2;26;Bachelor;3;2023-06-24
+EMP0677;Елена;Соколов;Marketing;Lead;188200,0;10;33;Master;3;2015-06-15
+EMP0678;Роман;Новиков;Marketing;Mid;94800,0;9;31;Bachelor;4;2016-12-23
+EMP0679;Алексей;Сидоров;Marketing;Senior;140100,0;7;31;Master;4;2018-09-09
+EMP0680;Николай;Сидоров;Marketing;Mid;93100,0;2;26;PhD;3;2023-09-10
+EMP0681;Роман;Егоров;Marketing;Lead;175400,0;10;33;Bachelor;4;2015-05-10
+EMP0682;Максим;Соколов;Marketing;Junior;51800,0;2;25;Bachelor;3;2023-11-28
+EMP0683;Светлана;Фёдоров;Marketing;Mid;84000,0;3;30;Bachelor;4;2022-11-15
+EMP0684;Владимир;Медведев;Marketing;Junior;68800,0;3;27;Master;4;2022-05-17
+EMP0685;Сергей;Козлов;Marketing;Junior;55900,0;1;25;Bachelor;4;2025-03-02
+EMP0686;Юлия;Семёнов;Marketing;Junior;67100,0;2;29;Master;4;2023-08-22
+EMP0687;Анна;Сидоров;Marketing;Senior;127900,0;4;28;Bachelor;5;2021-07-27
+EMP0688;Анна;Смирнов;Marketing;Senior;151900,0;5;29;Master;4;2020-05-21
+EMP0689;Елена;Семёнов;Marketing;Senior;163700,0;10;33;Master;5;2015-05-27
+EMP0690;Максим;Васильев;Marketing;Senior;138500,0;8;32;Master;3;2017-11-03
+EMP0691;Роман;Егоров;Marketing;Senior;132400,0;5;34;Master;3;2020-12-07
+EMP0692;Алексей;Козлов;Marketing;Junior;53800,0;2;22;Bachelor;4;2023-09-21
+EMP0693;Сергей;Морозов;Marketing;Senior;141400,0;5;29;Master;3;2020-08-02
+EMP0694;Иван;Кузнецов;Marketing;Junior;72800,0;0;28;Master;5;2025-06-27
+EMP0695;Игорь;Попов;Marketing;Senior;135600,0;4;30;Master;4;2021-03-12
+EMP0696;Виктория;Степанов;Marketing;Mid;96800,0;2;28;Bachelor;5;2023-11-02
+EMP0697;Татьяна;Михайлов;Marketing;Senior;134900,0;6;30;Bachelor;5;2019-08-09
+EMP0698;Дмитрий;Лебедев;Marketing;Mid;106300,0;3;26;Bachelor;5;2022-07-10
+EMP0699;Алексей;Сидоров;Marketing;Mid;77900,0;1;27;Bachelor;4;2024-06-11
+EMP0700;Николай;Егоров;Marketing;Junior;62100,0;0;25;Master;3;2025-03-16
+EMP0701;Дмитрий;Михайлов;HR;Junior;66900,0;2;26;Master;4;2023-08-06
+EMP0702;Юлия;Лебедев;HR;Junior;57100,0;1;25;Bachelor;4;2024-10-19
+EMP0703;Андрей;Смирнов;HR;Junior;54800,0;3;24;Bachelor;4;2023-02-24
+EMP0704;Иван;Лебедев;HR;Mid;77800,0;6;28;Bachelor;4;2019-07-19
+EMP0705;Иван;Медведев;HR;Lead;161000,0;6;30;Bachelor;5;2019-04-03
+EMP0706;Наталья;Медведев;HR;Senior;103300,0;10;37;Bachelor;3;2015-06-25
+EMP0707;Виктория;Новиков;HR;Senior;142600,0;6;29;Master;4;2019-05-28
+EMP0708;Наталья;Козлов;HR;Senior;138800,0;5;30;Master;4;2020-09-07
+EMP0709;Андрей;Семёнов;HR;Lead;194200,0;11;35;Master;5;2014-11-10
+EMP0710;Игорь;Новиков;HR;Lead;192800,0;12;39;Master;4;2013-07-08
+EMP0711;Мария;Васильев;HR;Junior;48500,0;2;29;Bachelor;3;2023-10-21
+EMP0712;Ольга;Лебедев;HR;Junior;68600,0;1;25;Master;5;2024-12-28
+EMP0713;Андрей;Сидоров;HR;Senior;148000,0;8;31;Master;4;2017-07-08
+EMP0714;Дмитрий;Семёнов;HR;Junior;53300,0;2;25;Bachelor;4;2023-11-26
+EMP0715;Ольга;Лебедев;HR;Mid;97600,0;3;25;Master;4;2022-08-13
+EMP0716;Максим;Соколов;HR;Mid;83200,0;4;28;Bachelor;5;2021-08-31
+EMP0717;Максим;Новиков;HR;Junior;55700,0;2;26;Bachelor;4;2023-05-04
+EMP0718;Андрей;Козлов;HR;Senior;103200,0;9;31;Bachelor;4;2016-09-27
+EMP0719;Наталья;Михайлов;HR;Mid;97400,0;4;25;Master;5;2021-08-02
+EMP0720;Наталья;Степанов;HR;Mid;88300,0;2;27;Bachelor;5;2023-08-01
+EMP0721;Наталья;Иванов;HR;Senior;125000,0;4;25;Bachelor;5;2021-08-10
+EMP0722;Роман;Смирнов;HR;Junior;63800,0;0;25;Master;4;2025-02-23
+EMP0723;Владимир;Кузнецов;HR;Senior;147600,0;9;34;Master;4;2016-12-02
+EMP0724;Иван;Семёнов;HR;Mid;91100,0;1;25;Master;4;2025-01-12
+EMP0725;Юлия;Кузнецов;HR;Lead;173000,0;13;37;Bachelor;5;2012-06-24
+EMP0726;Владимир;Смирнов;HR;Junior;60100,0;2;26;Master;3;2023-05-26
+EMP0727;Николай;Кузнецов;HR;Senior;156700,0;11;37;Master;5;2014-07-01
+EMP0728;Ольга;Сидоров;HR;Senior;123100,0;9;32;Bachelor;3;2016-10-09
+EMP0729;Елена;Медведев;HR;Mid;95100,0;6;29;Bachelor;4;2019-05-07
+EMP0730;Игорь;Новиков;HR;Senior;121500,0;7;33;Master;3;2018-09-02
+EMP0731;Андрей;Кузнецов;HR;Mid;86500,0;2;26;Master;4;2023-11-20
+EMP0732;Андрей;Алексеев;HR;Lead;145100,0;8;32;Bachelor;3;2017-08-11
+EMP0733;Татьяна;Сидоров;HR;Mid;98200,0;2;23;Master;4;2023-07-10
+EMP0734;Ольга;Степанов;HR;Mid;82500,0;2;25;Master;3;2023-06-26
+EMP0735;Анна;Егоров;HR;Director;292500,0;9;35;Master;5;2016-11-30
+EMP0736;Максим;Морозов;HR;Junior;59700,0;0;24;PhD;3;2025-04-11
+EMP0737;Юлия;Петров;HR;Lead;152300,0;9;33;Bachelor;4;2016-08-06
+EMP0738;Николай;Соколов;HR;Junior;52600,0;3;27;Bachelor;3;2022-09-12
+EMP0739;Татьяна;Лебедев;HR;Senior;115900,0;8;28;Bachelor;4;2017-08-28
+EMP0740;Наталья;Васильев;HR;Mid;88600,0;7;33;Bachelor;4;2018-12-09
+EMP0741;Владимир;Сидоров;HR;Junior;68500,0;0;24;Master;5;2025-07-08
+EMP0742;Сергей;Васильев;HR;Senior;130000,0;7;34;Master;3;2019-01-05
+EMP0743;Мария;Егоров;HR;Senior;130900,0;7;31;Master;4;2018-12-29
+EMP0744;Татьяна;Кузнецов;HR;Junior;57500,0;1;23;Bachelor;5;2024-08-23
+EMP0745;Андрей;Попов;HR;Mid;81500,0;6;30;Bachelor;4;2020-01-12
+EMP0746;Татьяна;Сидоров;HR;Senior;114600,0;8;30;Bachelor;3;2017-09-03
+EMP0747;Максим;Морозов;HR;Mid;81900,0;1;25;Bachelor;4;2025-01-03
+EMP0748;Ольга;Алексеев;HR;Junior;55500,0;2;28;Bachelor;4;2023-07-06
+EMP0749;Владимир;Попов;HR;Senior;150300,0;9;31;Master;5;2016-08-10
+EMP0750;Алексей;Новиков;HR;Mid;82600,0;3;26;Bachelor;3;2022-09-15
+EMP0751;Роман;Медведев;Finance;Senior;204700,0;10;32;Master;5;2016-03-02
+EMP0752;Алексей;Соколов;Finance;Mid;127300,0;5;30;Master;5;2020-10-07
+EMP0753;Владимир;Алексеев;Finance;Senior;188000,0;6;30;Master;4;2019-05-30
+EMP0754;Мария;Новиков;Finance;Mid;130600,0;5;29;Master;4;2020-09-21
+EMP0755;Татьяна;Новиков;Finance;Mid;116500,0;5;27;Master;5;2020-09-11
+EMP0756;Анна;Соколов;Finance;Senior;187000,0;8;33;Master;4;2017-08-23
+EMP0757;Владимир;Соколов;Finance;Mid;110400,0;2;26;Master;4;2023-06-03
+EMP0758;Алексей;Петров;Finance;Mid;124800,0;2;26;Master;5;2023-07-11
+EMP0759;Светлана;Новиков;Finance;Mid;109800,0;3;30;Master;4;2022-11-17
+EMP0760;Иван;Алексеев;Finance;Junior;66200,0;2;27;Bachelor;4;2023-05-27
+EMP0761;Игорь;Сидоров;Finance;Mid;139000,0;5;29;PhD;4;2020-12-12
+EMP0762;Сергей;Лебедев;Finance;Senior;175900,0;9;33;Master;4;2016-11-19
+EMP0763;Мария;Иванов;Finance;Mid;106200,0;5;29;Bachelor;4;2020-05-02
+EMP0764;Наталья;Кузнецов;Finance;Senior;148200,0;8;32;Bachelor;4;2017-05-24
+EMP0765;Елена;Кузнецов;Finance;Senior;210300,0;10;34;Master;5;2015-08-14
+EMP0766;Мария;Козлов;Finance;Manager;338800,0;15;40;Master;5;2010-11-05
+EMP0767;Наталья;Козлов;Finance;Junior;89300,0;2;30;Master;5;2023-09-25
+EMP0768;Роман;Иванов;Finance;Mid;119600,0;9;30;Master;4;2016-08-08
+EMP0769;Анна;Сидоров;Finance;Senior;155700,0;4;28;Master;4;2021-04-29
+EMP0770;Ольга;Лебедев;Finance;Senior;164100,0;9;33;Master;3;2016-06-04
+EMP0771;Екатерина;Егоров;Finance;Lead;242300,0;14;40;Master;4;2011-10-14
+EMP0772;Роман;Морозов;Finance;Mid;106700,0;3;29;Bachelor;4;2022-07-24
+EMP0773;Мария;Алексеев;Finance;Mid;99400,0;3;26;Bachelor;4;2022-08-18
+EMP0774;Екатерина;Смирнов;Finance;Mid;131200,0;2;29;PhD;4;2023-11-18
+EMP0775;Алексей;Медведев;Finance;Mid;109100,0;3;29;Master;4;2022-05-21
+EMP0776;Николай;Васильев;Finance;Mid;112500,0;5;27;Master;3;2020-12-24
+EMP0777;Максим;Медведев;Finance;Junior;72300,0;2;25;Bachelor;4;2023-12-24
+EMP0778;Андрей;Егоров;Finance;Mid;102800,0;3;23;Bachelor;4;2022-03-22
+EMP0779;Игорь;Иванов;Finance;Mid;95100,0;2;26;Bachelor;4;2023-11-28
+EMP0780;Наталья;Попов;Finance;Mid;114700,0;7;32;Master;3;2018-08-22
+EMP0781;Мария;Васильев;Finance;Manager;264000,0;9;32;Master;4;2016-06-04
+EMP0782;Татьяна;Попов;Finance;Mid;107100,0;4;29;Bachelor;4;2021-07-12
+EMP0783;Екатерина;Иванов;Finance;Mid;108200,0;4;28;Bachelor;4;2021-05-31
+EMP0784;Максим;Кузнецов;Finance;Senior;158800,0;5;30;Master;4;2020-12-09
+EMP0785;Андрей;Медведев;Finance;Mid;115300,0;1;24;Master;4;2024-03-13
+EMP0786;Екатерина;Козлов;Finance;Junior;66800,0;0;23;Bachelor;4;2025-07-11
+EMP0787;Владимир;Новиков;Finance;Junior;69000,0;1;27;Bachelor;4;2024-12-11
+EMP0788;Иван;Смирнов;Finance;Lead;292600,0;14;37;PhD;4;2011-10-19
+EMP0789;Ольга;Степанов;Finance;Junior;68800,0;0;22;Bachelor;4;2025-08-06
+EMP0790;Екатерина;Фёдоров;Finance;Mid;115000,0;4;27;Master;3;2022-03-23
+EMP0791;Дмитрий;Васильев;Finance;Senior;177800,0;8;32;Master;5;2017-10-07
+EMP0792;Светлана;Иванов;Finance;Lead;226800,0;10;34;Master;4;2015-09-26
+EMP0793;Сергей;Новиков;Finance;Junior;76800,0;3;27;Master;4;2022-06-21
+EMP0794;Екатерина;Алексеев;Finance;Mid;131200,0;9;33;Bachelor;5;2017-01-19
+EMP0795;Анна;Медведев;Finance;Mid;98100,0;6;30;Bachelor;4;2019-11-27
+EMP0796;Екатерина;Лебедев;Finance;Junior;67400,0;3;29;Bachelor;4;2022-08-24
+EMP0797;Ольга;Васильев;Finance;Mid;131100,0;4;30;PhD;4;2021-10-25
+EMP0798;Максим;Смирнов;Finance;Senior;149400,0;6;30;Master;3;2019-09-24
+EMP0799;Игорь;Козлов;Finance;Senior;140900,0;4;27;Bachelor;4;2021-09-15
+EMP0800;Виктория;Волков;Finance;Mid;123500,0;4;29;Master;5;2021-08-14
