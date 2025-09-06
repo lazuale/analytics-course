@@ -1,0 +1,2333 @@
+{
+  "sessions": [
+    {
+      "session_id": "SES_2024190000",
+      "customer_id": "CUST_57453",
+      "start_time": "2024-02-14T20:00:00Z",
+      "end_time": "2024-02-14T20:11:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024970001",
+      "customer_id": null,
+      "start_time": "2024-03-05T11:26:00Z",
+      "end_time": "2024-03-05T11:39:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024970002",
+      "customer_id": "CUST_39470",
+      "start_time": "2024-01-17T10:58:00Z",
+      "end_time": "2024-01-17T11:28:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024720003",
+      "customer_id": null,
+      "start_time": "2024-01-03T12:05:00Z",
+      "end_time": "2024-01-03T12:49:00Z",
+      "page_views": 5,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024240004",
+      "customer_id": "CUST_28038",
+      "start_time": "2024-03-26T20:31:00Z",
+      "end_time": "2024-03-26T21:03:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024880005",
+      "customer_id": "CUST_74468",
+      "start_time": "2024-02-22T14:04:00Z",
+      "end_time": "2024-02-22T14:14:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024640006",
+      "customer_id": "CUST_54244",
+      "start_time": "2024-01-13T12:38:00Z",
+      "end_time": "2024-01-13T12:50:00Z",
+      "page_views": 13,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024420007",
+      "customer_id": "CUST_35466",
+      "start_time": "2024-02-06T17:05:00Z",
+      "end_time": "2024-02-06T17:22:00Z",
+      "page_views": 1,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-06T17:07:00Z",
+          "product_id": "PROD_6468"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024350008",
+      "customer_id": "CUST_11622",
+      "start_time": "2024-03-16T13:37:00Z",
+      "end_time": "2024-03-16T14:08:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024670009",
+      "customer_id": "CUST_48767",
+      "start_time": "2024-02-23T14:19:00Z",
+      "end_time": "2024-02-23T14:40:00Z",
+      "page_views": 4,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-23T14:21:00Z",
+          "product_id": "PROD_9002"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024230010",
+      "customer_id": null,
+      "start_time": "2024-02-11T17:34:00Z",
+      "end_time": "2024-02-11T18:10:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-11T17:36:00Z",
+          "product_id": "PROD_1655"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024170011",
+      "customer_id": "CUST_18535",
+      "start_time": "2024-02-03T12:19:00Z",
+      "end_time": "2024-02-03T12:48:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024510012",
+      "customer_id": "CUST_91219",
+      "start_time": "2024-03-14T20:47:00Z",
+      "end_time": "2024-03-14T21:06:00Z",
+      "page_views": 5,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024720013",
+      "customer_id": "CUST_50360",
+      "start_time": "2024-01-06T14:47:00Z",
+      "end_time": "2024-01-06T15:07:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024430014",
+      "customer_id": null,
+      "start_time": "2024-01-01T15:23:00Z",
+      "end_time": "2024-01-01T15:57:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-01T15:25:00Z",
+          "product_id": "PROD_8299"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024560015",
+      "customer_id": "CUST_30578",
+      "start_time": "2024-03-25T09:56:00Z",
+      "end_time": "2024-03-25T10:27:00Z",
+      "page_views": 14,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024870016",
+      "customer_id": "CUST_59264",
+      "start_time": "2024-02-28T19:31:00Z",
+      "end_time": "2024-02-28T20:05:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024350017",
+      "customer_id": "CUST_25991",
+      "start_time": "2024-03-25T21:07:00Z",
+      "end_time": "2024-03-25T21:45:00Z",
+      "page_views": 15,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024370018",
+      "customer_id": "CUST_46092",
+      "start_time": "2024-01-20T20:15:00Z",
+      "end_time": "2024-01-20T20:41:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024720019",
+      "customer_id": "CUST_27722",
+      "start_time": "2024-01-07T10:42:00Z",
+      "end_time": "2024-01-07T10:47:00Z",
+      "page_views": 15,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024990020",
+      "customer_id": "CUST_75740",
+      "start_time": "2024-02-16T17:50:00Z",
+      "end_time": "2024-02-16T18:27:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024770021",
+      "customer_id": "CUST_49919",
+      "start_time": "2024-02-28T17:40:00Z",
+      "end_time": "2024-02-28T18:16:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024200022",
+      "customer_id": "CUST_88484",
+      "start_time": "2024-01-15T18:53:00Z",
+      "end_time": "2024-01-15T19:16:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024580023",
+      "customer_id": "CUST_33189",
+      "start_time": "2024-01-21T20:36:00Z",
+      "end_time": "2024-01-21T21:03:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-21T21:01:00Z",
+          "order_id": "ORD-2024-000552"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024270024",
+      "customer_id": null,
+      "start_time": "2024-03-17T15:25:00Z",
+      "end_time": "2024-03-17T16:03:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024280025",
+      "customer_id": "CUST_40012",
+      "start_time": "2024-01-13T21:21:00Z",
+      "end_time": "2024-01-13T21:29:00Z",
+      "page_views": 15,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024270026",
+      "customer_id": "CUST_22666",
+      "start_time": "2024-02-25T11:02:00Z",
+      "end_time": "2024-02-25T11:35:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024370027",
+      "customer_id": "CUST_83774",
+      "start_time": "2024-02-20T14:30:00Z",
+      "end_time": "2024-02-20T15:02:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-02-20T14:55:00Z",
+          "order_id": "ORD-2024-000730"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024130028",
+      "customer_id": "CUST_92917",
+      "start_time": "2024-03-19T11:48:00Z",
+      "end_time": "2024-03-19T12:30:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024760029",
+      "customer_id": null,
+      "start_time": "2024-03-15T15:04:00Z",
+      "end_time": "2024-03-15T15:18:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024580030",
+      "customer_id": "CUST_93450",
+      "start_time": "2024-01-11T13:40:00Z",
+      "end_time": "2024-01-11T14:05:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-11T13:42:00Z",
+          "product_id": "PROD_5599"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024250031",
+      "customer_id": "CUST_35870",
+      "start_time": "2024-03-17T19:12:00Z",
+      "end_time": "2024-03-17T19:36:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024410032",
+      "customer_id": null,
+      "start_time": "2024-01-06T09:02:00Z",
+      "end_time": "2024-01-06T09:40:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024160033",
+      "customer_id": null,
+      "start_time": "2024-01-28T11:17:00Z",
+      "end_time": "2024-01-28T11:28:00Z",
+      "page_views": 4,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024420034",
+      "customer_id": "CUST_41935",
+      "start_time": "2024-02-24T12:13:00Z",
+      "end_time": "2024-02-24T12:22:00Z",
+      "page_views": 3,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024180035",
+      "customer_id": "CUST_92087",
+      "start_time": "2024-02-04T21:32:00Z",
+      "end_time": "2024-02-04T22:13:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024190036",
+      "customer_id": null,
+      "start_time": "2024-02-20T19:52:00Z",
+      "end_time": "2024-02-20T20:15:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024220037",
+      "customer_id": "CUST_23581",
+      "start_time": "2024-02-05T16:57:00Z",
+      "end_time": "2024-02-05T17:19:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-05T16:59:00Z",
+          "product_id": "PROD_6581"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024710038",
+      "customer_id": null,
+      "start_time": "2024-01-24T16:43:00Z",
+      "end_time": "2024-01-24T17:24:00Z",
+      "page_views": 5,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-24T16:45:00Z",
+          "product_id": "PROD_3355"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024940039",
+      "customer_id": null,
+      "start_time": "2024-02-19T15:52:00Z",
+      "end_time": "2024-02-19T16:02:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024210040",
+      "customer_id": "CUST_61402",
+      "start_time": "2024-01-16T10:17:00Z",
+      "end_time": "2024-01-16T10:44:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024740041",
+      "customer_id": "CUST_38072",
+      "start_time": "2024-02-17T14:44:00Z",
+      "end_time": "2024-02-17T15:17:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024320042",
+      "customer_id": "CUST_87428",
+      "start_time": "2024-03-07T20:41:00Z",
+      "end_time": "2024-03-07T21:24:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024100043",
+      "customer_id": "CUST_74154",
+      "start_time": "2024-03-01T09:08:00Z",
+      "end_time": "2024-03-01T09:23:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024450044",
+      "customer_id": "CUST_33991",
+      "start_time": "2024-02-17T13:12:00Z",
+      "end_time": "2024-02-17T13:17:00Z",
+      "page_views": 8,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-17T13:14:00Z",
+          "product_id": "PROD_9930"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024630045",
+      "customer_id": null,
+      "start_time": "2024-02-14T14:53:00Z",
+      "end_time": "2024-02-14T15:34:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024790046",
+      "customer_id": "CUST_49849",
+      "start_time": "2024-03-21T17:31:00Z",
+      "end_time": "2024-03-21T17:53:00Z",
+      "page_views": 1,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-21T17:33:00Z",
+          "product_id": "PROD_3923"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024840047",
+      "customer_id": "CUST_59556",
+      "start_time": "2024-03-28T15:32:00Z",
+      "end_time": "2024-03-28T16:07:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-28T15:43:00Z",
+          "order_id": "ORD-2024-000702"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024780048",
+      "customer_id": "CUST_47610",
+      "start_time": "2024-02-16T20:44:00Z",
+      "end_time": "2024-02-16T21:13:00Z",
+      "page_views": 5,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-16T20:46:00Z",
+          "product_id": "PROD_3348"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024460049",
+      "customer_id": "CUST_76226",
+      "start_time": "2024-01-08T11:09:00Z",
+      "end_time": "2024-01-08T11:25:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024190050",
+      "customer_id": "CUST_65255",
+      "start_time": "2024-02-10T21:15:00Z",
+      "end_time": "2024-02-10T21:43:00Z",
+      "page_views": 14,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-10T21:17:00Z",
+          "product_id": "PROD_5607"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024570051",
+      "customer_id": null,
+      "start_time": "2024-03-21T16:14:00Z",
+      "end_time": "2024-03-21T16:25:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024640052",
+      "customer_id": "CUST_96204",
+      "start_time": "2024-02-16T16:27:00Z",
+      "end_time": "2024-02-16T16:32:00Z",
+      "page_views": 13,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024710053",
+      "customer_id": null,
+      "start_time": "2024-01-02T11:16:00Z",
+      "end_time": "2024-01-02T11:41:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024440054",
+      "customer_id": "CUST_70270",
+      "start_time": "2024-03-19T12:38:00Z",
+      "end_time": "2024-03-19T13:21:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024940055",
+      "customer_id": null,
+      "start_time": "2024-03-08T21:50:00Z",
+      "end_time": "2024-03-08T22:34:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-08T21:52:00Z",
+          "product_id": "PROD_4206"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024770056",
+      "customer_id": "CUST_66304",
+      "start_time": "2024-03-17T12:35:00Z",
+      "end_time": "2024-03-17T13:05:00Z",
+      "page_views": 3,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024750057",
+      "customer_id": "CUST_68643",
+      "start_time": "2024-01-18T20:27:00Z",
+      "end_time": "2024-01-18T21:06:00Z",
+      "page_views": 4,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-18T20:54:00Z",
+          "order_id": "ORD-2024-000388"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-18T20:29:00Z",
+          "product_id": "PROD_3327"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024140058",
+      "customer_id": "CUST_93228",
+      "start_time": "2024-03-27T20:40:00Z",
+      "end_time": "2024-03-27T21:24:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024900059",
+      "customer_id": "CUST_24943",
+      "start_time": "2024-03-20T17:01:00Z",
+      "end_time": "2024-03-20T17:30:00Z",
+      "page_views": 1,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-20T17:03:00Z",
+          "product_id": "PROD_7617"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024360060",
+      "customer_id": null,
+      "start_time": "2024-01-20T21:39:00Z",
+      "end_time": "2024-01-20T22:06:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-20T21:58:00Z",
+          "order_id": "ORD-2024-000405"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-20T21:41:00Z",
+          "product_id": "PROD_3527"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024330061",
+      "customer_id": "CUST_17415",
+      "start_time": "2024-02-13T16:29:00Z",
+      "end_time": "2024-02-13T17:02:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024950062",
+      "customer_id": null,
+      "start_time": "2024-03-20T16:04:00Z",
+      "end_time": "2024-03-20T16:43:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024930063",
+      "customer_id": "CUST_44703",
+      "start_time": "2024-02-17T21:36:00Z",
+      "end_time": "2024-02-17T22:17:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-17T21:38:00Z",
+          "product_id": "PROD_4531"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024450064",
+      "customer_id": "CUST_65635",
+      "start_time": "2024-01-09T11:24:00Z",
+      "end_time": "2024-01-09T11:36:00Z",
+      "page_views": 8,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-09T11:30:00Z",
+          "order_id": "ORD-2024-000242"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-09T11:26:00Z",
+          "product_id": "PROD_8737"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024590065",
+      "customer_id": "CUST_79225",
+      "start_time": "2024-03-09T21:38:00Z",
+      "end_time": "2024-03-09T21:50:00Z",
+      "page_views": 13,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024200066",
+      "customer_id": "CUST_86063",
+      "start_time": "2024-02-01T15:15:00Z",
+      "end_time": "2024-02-01T15:43:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-01T15:17:00Z",
+          "product_id": "PROD_8653"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024860067",
+      "customer_id": "CUST_72364",
+      "start_time": "2024-01-26T15:42:00Z",
+      "end_time": "2024-01-26T16:20:00Z",
+      "page_views": 9,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-26T15:44:00Z",
+          "product_id": "PROD_3291"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024390068",
+      "customer_id": "CUST_56518",
+      "start_time": "2024-03-25T21:00:00Z",
+      "end_time": "2024-03-25T21:06:00Z",
+      "page_views": 15,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024650069",
+      "customer_id": null,
+      "start_time": "2024-03-19T11:50:00Z",
+      "end_time": "2024-03-19T12:12:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024510070",
+      "customer_id": "CUST_45033",
+      "start_time": "2024-03-01T13:32:00Z",
+      "end_time": "2024-03-01T14:06:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024570071",
+      "customer_id": "CUST_47630",
+      "start_time": "2024-02-08T15:53:00Z",
+      "end_time": "2024-02-08T16:16:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024720072",
+      "customer_id": "CUST_85218",
+      "start_time": "2024-03-21T16:29:00Z",
+      "end_time": "2024-03-21T16:43:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-21T16:40:00Z",
+          "order_id": "ORD-2024-000145"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024960073",
+      "customer_id": "CUST_52434",
+      "start_time": "2024-01-08T09:00:00Z",
+      "end_time": "2024-01-08T09:14:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-08T09:02:00Z",
+          "product_id": "PROD_6952"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024700074",
+      "customer_id": null,
+      "start_time": "2024-03-16T21:57:00Z",
+      "end_time": "2024-03-16T22:29:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-16T21:59:00Z",
+          "product_id": "PROD_9806"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024500075",
+      "customer_id": "CUST_56969",
+      "start_time": "2024-01-28T17:24:00Z",
+      "end_time": "2024-01-28T18:07:00Z",
+      "page_views": 9,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-28T17:26:00Z",
+          "product_id": "PROD_8124"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024290076",
+      "customer_id": null,
+      "start_time": "2024-01-16T14:55:00Z",
+      "end_time": "2024-01-16T15:00:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-16T15:00:00Z",
+          "order_id": "ORD-2024-000413"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024820077",
+      "customer_id": "CUST_86732",
+      "start_time": "2024-03-06T11:55:00Z",
+      "end_time": "2024-03-06T12:16:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024330078",
+      "customer_id": "CUST_26668",
+      "start_time": "2024-01-10T20:34:00Z",
+      "end_time": "2024-01-10T21:18:00Z",
+      "page_views": 4,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024930079",
+      "customer_id": "CUST_68618",
+      "start_time": "2024-02-19T18:12:00Z",
+      "end_time": "2024-02-19T18:30:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-19T18:14:00Z",
+          "product_id": "PROD_2296"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024840080",
+      "customer_id": "CUST_15451",
+      "start_time": "2024-02-01T14:47:00Z",
+      "end_time": "2024-02-01T15:19:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024360081",
+      "customer_id": "CUST_24676",
+      "start_time": "2024-03-26T10:51:00Z",
+      "end_time": "2024-03-26T11:04:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024180082",
+      "customer_id": "CUST_35001",
+      "start_time": "2024-01-22T15:36:00Z",
+      "end_time": "2024-01-22T16:19:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024500083",
+      "customer_id": "CUST_67777",
+      "start_time": "2024-03-19T18:48:00Z",
+      "end_time": "2024-03-19T19:30:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024100084",
+      "customer_id": null,
+      "start_time": "2024-01-18T13:03:00Z",
+      "end_time": "2024-01-18T13:31:00Z",
+      "page_views": 14,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-18T13:19:00Z",
+          "order_id": "ORD-2024-000515"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-18T13:05:00Z",
+          "product_id": "PROD_7280"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024810085",
+      "customer_id": null,
+      "start_time": "2024-03-04T18:06:00Z",
+      "end_time": "2024-03-04T18:20:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-04T18:08:00Z",
+          "product_id": "PROD_9950"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024510086",
+      "customer_id": "CUST_82302",
+      "start_time": "2024-01-18T13:17:00Z",
+      "end_time": "2024-01-18T13:22:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-18T13:19:00Z",
+          "product_id": "PROD_8010"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024680087",
+      "customer_id": "CUST_34477",
+      "start_time": "2024-02-21T09:43:00Z",
+      "end_time": "2024-02-21T10:11:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024140088",
+      "customer_id": "CUST_59881",
+      "start_time": "2024-01-08T09:54:00Z",
+      "end_time": "2024-01-08T10:02:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024440089",
+      "customer_id": "CUST_24164",
+      "start_time": "2024-02-01T10:08:00Z",
+      "end_time": "2024-02-01T10:27:00Z",
+      "page_views": 11,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-01T10:10:00Z",
+          "product_id": "PROD_7467"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024580090",
+      "customer_id": "CUST_17247",
+      "start_time": "2024-02-01T14:39:00Z",
+      "end_time": "2024-02-01T14:45:00Z",
+      "page_views": 11,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024990091",
+      "customer_id": "CUST_53231",
+      "start_time": "2024-02-18T18:13:00Z",
+      "end_time": "2024-02-18T18:48:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024870092",
+      "customer_id": "CUST_44937",
+      "start_time": "2024-01-15T11:56:00Z",
+      "end_time": "2024-01-15T12:37:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-15T11:58:00Z",
+          "product_id": "PROD_4124"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024200093",
+      "customer_id": "CUST_84255",
+      "start_time": "2024-03-13T21:54:00Z",
+      "end_time": "2024-03-13T22:00:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-13T21:56:00Z",
+          "product_id": "PROD_8464"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024730094",
+      "customer_id": "CUST_50433",
+      "start_time": "2024-01-09T19:41:00Z",
+      "end_time": "2024-01-09T20:00:00Z",
+      "page_views": 3,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-09T19:43:00Z",
+          "product_id": "PROD_1805"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024920095",
+      "customer_id": "CUST_98308",
+      "start_time": "2024-01-08T16:28:00Z",
+      "end_time": "2024-01-08T16:45:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024410096",
+      "customer_id": "CUST_80417",
+      "start_time": "2024-01-04T13:23:00Z",
+      "end_time": "2024-01-04T13:38:00Z",
+      "page_views": 13,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024360097",
+      "customer_id": "CUST_38425",
+      "start_time": "2024-01-24T11:32:00Z",
+      "end_time": "2024-01-24T12:05:00Z",
+      "page_views": 7,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-24T11:34:00Z",
+          "product_id": "PROD_6970"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024610098",
+      "customer_id": null,
+      "start_time": "2024-03-13T15:48:00Z",
+      "end_time": "2024-03-13T16:27:00Z",
+      "page_views": 1,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-13T16:14:00Z",
+          "order_id": "ORD-2024-000675"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024160099",
+      "customer_id": null,
+      "start_time": "2024-03-19T19:22:00Z",
+      "end_time": "2024-03-19T19:40:00Z",
+      "page_views": 14,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024160100",
+      "customer_id": null,
+      "start_time": "2024-02-09T12:43:00Z",
+      "end_time": "2024-02-09T13:22:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024790101",
+      "customer_id": "CUST_93323",
+      "start_time": "2024-01-16T16:39:00Z",
+      "end_time": "2024-01-16T17:01:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024770102",
+      "customer_id": null,
+      "start_time": "2024-01-12T19:48:00Z",
+      "end_time": "2024-01-12T20:33:00Z",
+      "page_views": 5,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024640103",
+      "customer_id": "CUST_88200",
+      "start_time": "2024-03-20T14:16:00Z",
+      "end_time": "2024-03-20T14:28:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-20T14:18:00Z",
+          "product_id": "PROD_7662"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024630104",
+      "customer_id": null,
+      "start_time": "2024-02-13T15:34:00Z",
+      "end_time": "2024-02-13T16:14:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024400105",
+      "customer_id": null,
+      "start_time": "2024-03-22T15:14:00Z",
+      "end_time": "2024-03-22T15:50:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024870106",
+      "customer_id": "CUST_56162",
+      "start_time": "2024-03-20T09:10:00Z",
+      "end_time": "2024-03-20T09:29:00Z",
+      "page_views": 13,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024390107",
+      "customer_id": null,
+      "start_time": "2024-03-04T15:11:00Z",
+      "end_time": "2024-03-04T15:27:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024880108",
+      "customer_id": "CUST_79008",
+      "start_time": "2024-03-13T10:19:00Z",
+      "end_time": "2024-03-13T10:48:00Z",
+      "page_views": 4,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024370109",
+      "customer_id": null,
+      "start_time": "2024-03-02T19:23:00Z",
+      "end_time": "2024-03-02T19:41:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024190110",
+      "customer_id": "CUST_35817",
+      "start_time": "2024-02-14T10:52:00Z",
+      "end_time": "2024-02-14T11:03:00Z",
+      "page_views": 3,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024740111",
+      "customer_id": "CUST_34596",
+      "start_time": "2024-02-10T16:53:00Z",
+      "end_time": "2024-02-10T17:34:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024390112",
+      "customer_id": null,
+      "start_time": "2024-03-04T16:48:00Z",
+      "end_time": "2024-03-04T17:17:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-04T17:06:00Z",
+          "order_id": "ORD-2024-000716"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024540113",
+      "customer_id": "CUST_54711",
+      "start_time": "2024-03-17T13:42:00Z",
+      "end_time": "2024-03-17T13:59:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-17T13:58:00Z",
+          "order_id": "ORD-2024-000650"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024480114",
+      "customer_id": "CUST_68645",
+      "start_time": "2024-02-15T13:01:00Z",
+      "end_time": "2024-02-15T13:34:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024230115",
+      "customer_id": null,
+      "start_time": "2024-02-14T14:28:00Z",
+      "end_time": "2024-02-14T15:04:00Z",
+      "page_views": 1,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024250116",
+      "customer_id": "CUST_41839",
+      "start_time": "2024-03-10T13:09:00Z",
+      "end_time": "2024-03-10T13:35:00Z",
+      "page_views": 5,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-10T13:15:00Z",
+          "order_id": "ORD-2024-000519"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024500117",
+      "customer_id": "CUST_96838",
+      "start_time": "2024-01-10T10:23:00Z",
+      "end_time": "2024-01-10T10:36:00Z",
+      "page_views": 5,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024100118",
+      "customer_id": "CUST_65826",
+      "start_time": "2024-01-22T16:03:00Z",
+      "end_time": "2024-01-22T16:32:00Z",
+      "page_views": 5,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024510119",
+      "customer_id": "CUST_42171",
+      "start_time": "2024-02-23T14:53:00Z",
+      "end_time": "2024-02-23T15:09:00Z",
+      "page_views": 2,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-02-23T15:03:00Z",
+          "order_id": "ORD-2024-000839"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024650120",
+      "customer_id": null,
+      "start_time": "2024-01-13T19:19:00Z",
+      "end_time": "2024-01-13T19:28:00Z",
+      "page_views": 4,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024640121",
+      "customer_id": null,
+      "start_time": "2024-03-09T09:46:00Z",
+      "end_time": "2024-03-09T10:30:00Z",
+      "page_views": 9,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-09T09:55:00Z",
+          "order_id": "ORD-2024-000274"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024110122",
+      "customer_id": "CUST_73827",
+      "start_time": "2024-01-19T14:30:00Z",
+      "end_time": "2024-01-19T14:41:00Z",
+      "page_views": 2,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-19T14:32:00Z",
+          "product_id": "PROD_6649"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024840123",
+      "customer_id": "CUST_46670",
+      "start_time": "2024-03-28T20:41:00Z",
+      "end_time": "2024-03-28T21:08:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024370124",
+      "customer_id": "CUST_14755",
+      "start_time": "2024-02-06T18:25:00Z",
+      "end_time": "2024-02-06T18:57:00Z",
+      "page_views": 9,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024780125",
+      "customer_id": "CUST_78217",
+      "start_time": "2024-03-03T15:52:00Z",
+      "end_time": "2024-03-03T16:31:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-03T15:54:00Z",
+          "product_id": "PROD_8674"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024350126",
+      "customer_id": "CUST_13040",
+      "start_time": "2024-03-20T09:29:00Z",
+      "end_time": "2024-03-20T09:35:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024420127",
+      "customer_id": "CUST_40946",
+      "start_time": "2024-01-22T09:24:00Z",
+      "end_time": "2024-01-22T09:29:00Z",
+      "page_views": 2,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024750128",
+      "customer_id": "CUST_77272",
+      "start_time": "2024-02-08T12:03:00Z",
+      "end_time": "2024-02-08T12:09:00Z",
+      "page_views": 7,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024270129",
+      "customer_id": null,
+      "start_time": "2024-02-06T11:13:00Z",
+      "end_time": "2024-02-06T11:49:00Z",
+      "page_views": 14,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024170130",
+      "customer_id": "CUST_37202",
+      "start_time": "2024-01-21T15:56:00Z",
+      "end_time": "2024-01-21T16:03:00Z",
+      "page_views": 4,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-21T15:58:00Z",
+          "product_id": "PROD_8607"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024360131",
+      "customer_id": "CUST_28460",
+      "start_time": "2024-01-14T21:52:00Z",
+      "end_time": "2024-01-14T22:20:00Z",
+      "page_views": 14,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-14T21:54:00Z",
+          "product_id": "PROD_6635"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024820132",
+      "customer_id": "CUST_34881",
+      "start_time": "2024-02-27T14:06:00Z",
+      "end_time": "2024-02-27T14:23:00Z",
+      "page_views": 10,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024470133",
+      "customer_id": "CUST_17764",
+      "start_time": "2024-03-13T09:45:00Z",
+      "end_time": "2024-03-13T09:51:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024690134",
+      "customer_id": "CUST_11451",
+      "start_time": "2024-03-11T10:16:00Z",
+      "end_time": "2024-03-11T10:36:00Z",
+      "page_views": 10,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-03-11T10:27:00Z",
+          "order_id": "ORD-2024-000873"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-11T10:18:00Z",
+          "product_id": "PROD_2128"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024990135",
+      "customer_id": "CUST_58127",
+      "start_time": "2024-02-10T20:03:00Z",
+      "end_time": "2024-02-10T20:18:00Z",
+      "page_views": 15,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024640136",
+      "customer_id": "CUST_64098",
+      "start_time": "2024-01-18T21:41:00Z",
+      "end_time": "2024-01-18T22:22:00Z",
+      "page_views": 5,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-18T21:43:00Z",
+          "product_id": "PROD_9530"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024560137",
+      "customer_id": null,
+      "start_time": "2024-03-20T12:34:00Z",
+      "end_time": "2024-03-20T13:17:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024290138",
+      "customer_id": "CUST_94012",
+      "start_time": "2024-02-09T16:20:00Z",
+      "end_time": "2024-02-09T16:36:00Z",
+      "page_views": 8,
+      "events": [],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024600139",
+      "customer_id": "CUST_23386",
+      "start_time": "2024-01-17T21:51:00Z",
+      "end_time": "2024-01-17T22:28:00Z",
+      "page_views": 6,
+      "events": [],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024350140",
+      "customer_id": "CUST_66119",
+      "start_time": "2024-02-14T15:22:00Z",
+      "end_time": "2024-02-14T15:56:00Z",
+      "page_views": 3,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-02-14T15:50:00Z",
+          "order_id": "ORD-2024-000083"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-14T15:24:00Z",
+          "product_id": "PROD_3746"
+        }
+      ],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024410141",
+      "customer_id": "CUST_77611",
+      "start_time": "2024-02-12T21:13:00Z",
+      "end_time": "2024-02-12T21:34:00Z",
+      "page_views": 12,
+      "events": [],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024520142",
+      "customer_id": "CUST_53456",
+      "start_time": "2024-02-10T18:32:00Z",
+      "end_time": "2024-02-10T19:10:00Z",
+      "page_views": 15,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-10T18:34:00Z",
+          "product_id": "PROD_7962"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024810143",
+      "customer_id": "CUST_57450",
+      "start_time": "2024-01-12T13:13:00Z",
+      "end_time": "2024-01-12T13:20:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-12T13:15:00Z",
+          "product_id": "PROD_6596"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024530144",
+      "customer_id": "CUST_18397",
+      "start_time": "2024-02-03T16:12:00Z",
+      "end_time": "2024-02-03T16:35:00Z",
+      "page_views": 14,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024650145",
+      "customer_id": null,
+      "start_time": "2024-03-19T19:36:00Z",
+      "end_time": "2024-03-19T19:50:00Z",
+      "page_views": 6,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-03-19T19:38:00Z",
+          "product_id": "PROD_2671"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024510146",
+      "customer_id": "CUST_23814",
+      "start_time": "2024-01-18T09:42:00Z",
+      "end_time": "2024-01-18T09:51:00Z",
+      "page_views": 12,
+      "events": [
+        {
+          "event_type": "purchase",
+          "timestamp": "2024-01-18T09:47:00Z",
+          "order_id": "ORD-2024-000219"
+        },
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-18T09:44:00Z",
+          "product_id": "PROD_2680"
+        }
+      ],
+      "traffic_source": {
+        "channel": "paid",
+        "campaign": "spring_sale",
+        "keyword": "скидки техника"
+      }
+    },
+    {
+      "session_id": "SES_2024360147",
+      "customer_id": "CUST_57630",
+      "start_time": "2024-01-06T10:55:00Z",
+      "end_time": "2024-01-06T11:26:00Z",
+      "page_views": 3,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-01-06T10:57:00Z",
+          "product_id": "PROD_4129"
+        }
+      ],
+      "traffic_source": {
+        "channel": "direct",
+        "campaign": null,
+        "keyword": null
+      }
+    },
+    {
+      "session_id": "SES_2024430148",
+      "customer_id": "CUST_26589",
+      "start_time": "2024-01-14T12:40:00Z",
+      "end_time": "2024-01-14T12:53:00Z",
+      "page_views": 3,
+      "events": [],
+      "traffic_source": {
+        "channel": "organic",
+        "campaign": null,
+        "keyword": "купить электронику"
+      }
+    },
+    {
+      "session_id": "SES_2024470149",
+      "customer_id": "CUST_36596",
+      "start_time": "2024-02-04T14:41:00Z",
+      "end_time": "2024-02-04T14:48:00Z",
+      "page_views": 8,
+      "events": [
+        {
+          "event_type": "add_to_cart",
+          "timestamp": "2024-02-04T14:43:00Z",
+          "product_id": "PROD_7435"
+        }
+      ],
+      "traffic_source": {
+        "channel": "social",
+        "campaign": "facebook_ads",
+        "keyword": null
+      }
+    }
+  ],
+  "metadata": {
+    "export_date": "2025-09-06T09:24:38.822663Z",
+    "total_sessions": 150,
+    "date_range": {
+      "start": "2024-01-01",
+      "end": "2024-03-31"
+    }
+  }
+}
