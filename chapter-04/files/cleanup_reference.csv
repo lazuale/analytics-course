@@ -1,0 +1,54 @@
+﻿original_category;standard_category;mapping_type
+electronics;Electronics;Product Category
+Electronics;Electronics;Product Category
+ELECTRONICS;Electronics;Product Category
+electronic;Electronics;Product Category
+clothing;Clothing;Product Category
+Clothing;Clothing;Product Category
+CLOTHING;Clothing;Product Category
+clothes;Clothing;Product Category
+books;Books;Product Category
+Books;Books;Product Category
+BOOKS;Books;Product Category
+book;Books;Product Category
+home;Home;Product Category
+Home;Home;Product Category
+HOME;Home;Product Category
+household;Home;Product Category
+sports;Sports;Product Category
+Sports;Sports;Product Category
+SPORTS;Sports;Product Category
+sport;Sports;Product Category
+moscow;Moscow;City
+Moscow;Moscow;City
+MOSCOW;Moscow;City
+Москва;Moscow;City
+spb;Saint Petersburg;City
+SPb;Saint Petersburg;City
+Saint Petersburg;Saint Petersburg;City
+СПб;Saint Petersburg;City
+Санкт-Петербург;Saint Petersburg;City
+kazan;Kazan;City
+Kazan;Kazan;City
+KAZAN;Kazan;City
+Казань;Kazan;City
+ekaterinburg;Ekaterinburg;City
+Ekaterinburg;Ekaterinburg;City
+EKATERINBURG;Ekaterinburg;City
+Екатеринбург;Ekaterinburg;City
+novosibirsk;Novosibirsk;City
+Novosibirsk;Novosibirsk;City
+NOVOSIBIRSK;Novosibirsk;City
+Новосибирск;Novosibirsk;City
+paid;Completed;Order Status
+PAID;Completed;Order Status
+Paid;Completed;Order Status
+completed;Completed;Order Status
+Completed;Completed;Order Status
+COMPLETED;Completed;Order Status
+pending;Pending;Order Status
+Pending;Pending;Order Status
+PENDING;Pending;Order Status
+failed;Failed;Order Status
+Failed;Failed;Order Status
+FAILED;Failed;Order Status
