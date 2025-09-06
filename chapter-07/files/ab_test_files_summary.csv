@@ -1,0 +1,8 @@
+﻿filename;records;purpose;key_metrics;analysis_focus
+baseline_metrics.csv;9;Текущие метрики для планирования размера выборки;conversion_rate, avg_order_value, email_ctr;Планирование экспериментов
+historical_data.csv;91;Исторические данные для оценки вариабельности метрик;daily_conversion_rate, daily_aov, seasonality;Оценка исторической вариабельности
+checkout_ab_test_results.csv;12430;Результаты A/B-теста дизайна страницы оформления заказа;converted, order_amount, time_on_checkout_page;Основной статистический анализ (z-test, t-test)
+delivery_ab_test_results.csv;30600;Результаты теста точного времени доставки vs диапазона;converted_to_cart, decision_time_seconds, region;Пограничная значимость, вторичные метрики
+email_ab_test_results.csv;16830;Каскадная воронка email-кампании (open → click → purchase);email_opened, email_clicked, purchased, purchase_amount;Каскадный анализ воронки, множественные метрики
+segmented_ab_results.csv;12430;Checkout тест с демографической сегментацией пользователей;converted + age_group, gender, city, device_type;Гетерогенные эффекты по сегментам
+multiple_tests_results.csv;12000;Одновременное тестирование 6 вариантов лендинга;converted по 6 вариантам, time_on_page;Множественное тестирование, поправки Bonferroni

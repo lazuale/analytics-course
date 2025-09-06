@@ -1,0 +1,10 @@
+﻿metric_name;current_value;unit;sample_size_needed_daily;variability_cv
+checkout_conversion_rate;8.5;percent;1200;0.15
+product_page_conversion;12.0;percent;4500;0.18
+email_open_rate;16.5;percent;2800;0.12
+email_ctr;3.2;percent;2800;0.25
+avg_session_duration_minutes;4.8;minutes;4500;0.45
+avg_order_value;3420.0;rubles;380;0.38
+cart_abandonment_rate;72.5;percent;1680;0.14
+mobile_conversion_rate;7.2;percent;2700;0.2
+desktop_conversion_rate;10.8;percent;1800;0.16
