@@ -1,0 +1,451 @@
+﻿product_id;product_name;category;subcategory;brand;price_segment;supplier;launch_date;status
+PROD_ЭЛЕ_001;Apple Смартфоны Model 1;Электроника;Смартфоны;Apple;Premium;Apple Russia;2024-12-05;Active
+PROD_ЭЛЕ_002;Apple Смартфоны Model 2;Электроника;Смартфоны;Apple;Premium;Apple Russia;2022-03-11;Discontinued
+PROD_ЭЛЕ_003;Apple Смартфоны Model 3;Электроника;Смартфоны;Apple;Premium;Apple Russia;2024-09-27;Active
+PROD_ЭЛЕ_004;Apple Смартфоны Model 4;Электроника;Смартфоны;Apple;Premium;Apple Russia;2023-10-28;Active
+PROD_ЭЛЕ_005;Apple Смартфоны Model 5;Электроника;Смартфоны;Apple;Premium;Apple Russia;2022-11-16;Active
+PROD_ЭЛЕ_006;Samsung Смартфоны Model 1;Электроника;Смартфоны;Samsung;Premium;Samsung Russia;2022-03-28;Active
+PROD_ЭЛЕ_007;Samsung Смартфоны Model 2;Электроника;Смартфоны;Samsung;Premium;Samsung Russia;2024-03-20;Active
+PROD_ЭЛЕ_008;Samsung Смартфоны Model 3;Электроника;Смартфоны;Samsung;Premium;Samsung Russia;2024-07-11;Discontinued
+PROD_ЭЛЕ_009;Samsung Смартфоны Model 4;Электроника;Смартфоны;Samsung;Premium;Samsung Russia;2022-10-13;Active
+PROD_ЭЛЕ_010;Samsung Смартфоны Model 5;Электроника;Смартфоны;Samsung;Premium;Samsung Russia;2024-10-19;Active
+PROD_ЭЛЕ_011;Xiaomi Смартфоны Model 1;Электроника;Смартфоны;Xiaomi;Premium;ООО Xiaomi Поставки;2022-01-27;Active
+PROD_ЭЛЕ_012;Xiaomi Смартфоны Model 2;Электроника;Смартфоны;Xiaomi;Premium;ООО Xiaomi Поставки;2024-06-09;Active
+PROD_ЭЛЕ_013;Xiaomi Смартфоны Model 3;Электроника;Смартфоны;Xiaomi;Premium;ООО Xiaomi Поставки;2022-01-18;Active
+PROD_ЭЛЕ_014;Xiaomi Смартфоны Model 4;Электроника;Смартфоны;Xiaomi;Premium;ООО Xiaomi Поставки;2022-06-19;Active
+PROD_ЭЛЕ_015;Xiaomi Смартфоны Model 5;Электроника;Смартфоны;Xiaomi;Premium;ООО Xiaomi Поставки;2022-05-05;Active
+PROD_ЭЛЕ_016;ASUS Смартфоны Model 1;Электроника;Смартфоны;ASUS;Premium;ASUS Russia;2024-06-16;Discontinued
+PROD_ЭЛЕ_017;ASUS Смартфоны Model 2;Электроника;Смартфоны;ASUS;Premium;ASUS Russia;2022-12-18;Active
+PROD_ЭЛЕ_018;ASUS Смартфоны Model 3;Электроника;Смартфоны;ASUS;Premium;ASUS Russia;2024-04-22;Discontinued
+PROD_ЭЛЕ_019;ASUS Смартфоны Model 4;Электроника;Смартфоны;ASUS;Premium;ASUS Russia;2023-07-23;Active
+PROD_ЭЛЕ_020;ASUS Смартфоны Model 5;Электроника;Смартфоны;ASUS;Premium;ASUS Russia;2022-10-10;Active
+PROD_ЭЛЕ_021;Lenovo Смартфоны Model 1;Электроника;Смартфоны;Lenovo;Premium;Lenovo Russia;2023-03-24;Active
+PROD_ЭЛЕ_022;Lenovo Смартфоны Model 2;Электроника;Смартфоны;Lenovo;Premium;Lenovo Russia;2022-01-09;Active
+PROD_ЭЛЕ_023;Lenovo Смартфоны Model 3;Электроника;Смартфоны;Lenovo;Premium;Lenovo Russia;2023-03-01;Active
+PROD_ЭЛЕ_024;Lenovo Смартфоны Model 4;Электроника;Смартфоны;Lenovo;Premium;Lenovo Russia;2022-04-09;Discontinued
+PROD_ЭЛЕ_025;Lenovo Смартфоны Model 5;Электроника;Смартфоны;Lenovo;Premium;Lenovo Russia;2022-02-17;Active
+PROD_ЭЛЕ_026;Apple Ноутбуки Model 1;Электроника;Ноутбуки;Apple;Premium;Apple Russia;2024-08-07;Active
+PROD_ЭЛЕ_027;Apple Ноутбуки Model 2;Электроника;Ноутбуки;Apple;Premium;Apple Russia;2024-03-21;Active
+PROD_ЭЛЕ_028;Apple Ноутбуки Model 3;Электроника;Ноутбуки;Apple;Premium;Apple Russia;2023-10-27;Active
+PROD_ЭЛЕ_029;Apple Ноутбуки Model 4;Электроника;Ноутбуки;Apple;Premium;Apple Russia;2022-12-17;Active
+PROD_ЭЛЕ_030;Apple Ноутбуки Model 5;Электроника;Ноутбуки;Apple;Premium;Apple Russia;2022-12-20;Active
+PROD_ЭЛЕ_031;Samsung Ноутбуки Model 1;Электроника;Ноутбуки;Samsung;Premium;Samsung Russia;2022-07-02;Discontinued
+PROD_ЭЛЕ_032;Samsung Ноутбуки Model 2;Электроника;Ноутбуки;Samsung;Premium;Samsung Russia;2022-12-26;Active
+PROD_ЭЛЕ_033;Samsung Ноутбуки Model 3;Электроника;Ноутбуки;Samsung;Premium;Samsung Russia;2022-09-27;Active
+PROD_ЭЛЕ_034;Samsung Ноутбуки Model 4;Электроника;Ноутбуки;Samsung;Premium;Samsung Russia;2023-02-17;Active
+PROD_ЭЛЕ_035;Samsung Ноутбуки Model 5;Электроника;Ноутбуки;Samsung;Premium;Samsung Russia;2022-07-21;Active
+PROD_ЭЛЕ_036;Xiaomi Ноутбуки Model 1;Электроника;Ноутбуки;Xiaomi;Premium;ООО Xiaomi Поставки;2023-01-22;Active
+PROD_ЭЛЕ_037;Xiaomi Ноутбуки Model 2;Электроника;Ноутбуки;Xiaomi;Premium;ООО Xiaomi Поставки;2022-11-20;Discontinued
+PROD_ЭЛЕ_038;Xiaomi Ноутбуки Model 3;Электроника;Ноутбуки;Xiaomi;Premium;ООО Xiaomi Поставки;2022-04-16;Discontinued
+PROD_ЭЛЕ_039;Xiaomi Ноутбуки Model 4;Электроника;Ноутбуки;Xiaomi;Premium;ООО Xiaomi Поставки;2024-01-24;Active
+PROD_ЭЛЕ_040;Xiaomi Ноутбуки Model 5;Электроника;Ноутбуки;Xiaomi;Premium;ООО Xiaomi Поставки;2022-01-19;Active
+PROD_ЭЛЕ_041;ASUS Ноутбуки Model 1;Электроника;Ноутбуки;ASUS;Premium;ASUS Russia;2023-08-24;Discontinued
+PROD_ЭЛЕ_042;ASUS Ноутбуки Model 2;Электроника;Ноутбуки;ASUS;Premium;ASUS Russia;2023-08-15;Active
+PROD_ЭЛЕ_043;ASUS Ноутбуки Model 3;Электроника;Ноутбуки;ASUS;Premium;ASUS Russia;2023-04-28;Active
+PROD_ЭЛЕ_044;ASUS Ноутбуки Model 4;Электроника;Ноутбуки;ASUS;Premium;ASUS Russia;2023-07-10;Active
+PROD_ЭЛЕ_045;ASUS Ноутбуки Model 5;Электроника;Ноутбуки;ASUS;Premium;ASUS Russia;2023-06-20;Discontinued
+PROD_ЭЛЕ_046;Lenovo Ноутбуки Model 1;Электроника;Ноутбуки;Lenovo;Premium;Lenovo Russia;2022-05-17;Active
+PROD_ЭЛЕ_047;Lenovo Ноутбуки Model 2;Электроника;Ноутбуки;Lenovo;Premium;Lenovo Russia;2023-12-09;Active
+PROD_ЭЛЕ_048;Lenovo Ноутбуки Model 3;Электроника;Ноутбуки;Lenovo;Premium;Lenovo Russia;2024-12-04;Active
+PROD_ЭЛЕ_049;Lenovo Ноутбуки Model 4;Электроника;Ноутбуки;Lenovo;Premium;Lenovo Russia;2022-03-13;Active
+PROD_ЭЛЕ_050;Lenovo Ноутбуки Model 5;Электроника;Ноутбуки;Lenovo;Premium;Lenovo Russia;2024-06-12;Active
+PROD_ЭЛЕ_051;Apple Планшеты Model 1;Электроника;Планшеты;Apple;Premium;Apple Russia;2022-09-20;Active
+PROD_ЭЛЕ_052;Apple Планшеты Model 2;Электроника;Планшеты;Apple;Premium;Apple Russia;2022-04-23;Active
+PROD_ЭЛЕ_053;Apple Планшеты Model 3;Электроника;Планшеты;Apple;Premium;Apple Russia;2024-02-07;Active
+PROD_ЭЛЕ_054;Apple Планшеты Model 4;Электроника;Планшеты;Apple;Premium;Apple Russia;2024-02-10;Discontinued
+PROD_ЭЛЕ_055;Apple Планшеты Model 5;Электроника;Планшеты;Apple;Premium;Apple Russia;2024-06-11;Active
+PROD_ЭЛЕ_056;Samsung Планшеты Model 1;Электроника;Планшеты;Samsung;Premium;Samsung Russia;2022-08-01;Active
+PROD_ЭЛЕ_057;Samsung Планшеты Model 2;Электроника;Планшеты;Samsung;Premium;Samsung Russia;2023-01-14;Active
+PROD_ЭЛЕ_058;Samsung Планшеты Model 3;Электроника;Планшеты;Samsung;Premium;Samsung Russia;2023-01-13;Active
+PROD_ЭЛЕ_059;Samsung Планшеты Model 4;Электроника;Планшеты;Samsung;Premium;Samsung Russia;2024-02-11;Active
+PROD_ЭЛЕ_060;Samsung Планшеты Model 5;Электроника;Планшеты;Samsung;Premium;Samsung Russia;2022-12-27;Active
+PROD_ЭЛЕ_061;Xiaomi Планшеты Model 1;Электроника;Планшеты;Xiaomi;Premium;ООО Xiaomi Поставки;2024-08-14;Active
+PROD_ЭЛЕ_062;Xiaomi Планшеты Model 2;Электроника;Планшеты;Xiaomi;Premium;ООО Xiaomi Поставки;2023-05-18;Discontinued
+PROD_ЭЛЕ_063;Xiaomi Планшеты Model 3;Электроника;Планшеты;Xiaomi;Premium;ООО Xiaomi Поставки;2024-05-22;Active
+PROD_ЭЛЕ_064;Xiaomi Планшеты Model 4;Электроника;Планшеты;Xiaomi;Premium;ООО Xiaomi Поставки;2024-10-15;Active
+PROD_ЭЛЕ_065;Xiaomi Планшеты Model 5;Электроника;Планшеты;Xiaomi;Premium;ООО Xiaomi Поставки;2022-10-10;Active
+PROD_ЭЛЕ_066;ASUS Планшеты Model 1;Электроника;Планшеты;ASUS;Premium;ASUS Russia;2024-06-27;Active
+PROD_ЭЛЕ_067;ASUS Планшеты Model 2;Электроника;Планшеты;ASUS;Premium;ASUS Russia;2022-06-06;Active
+PROD_ЭЛЕ_068;ASUS Планшеты Model 3;Электроника;Планшеты;ASUS;Premium;ASUS Russia;2022-04-24;Active
+PROD_ЭЛЕ_069;ASUS Планшеты Model 4;Электроника;Планшеты;ASUS;Premium;ASUS Russia;2023-09-20;Active
+PROD_ЭЛЕ_070;ASUS Планшеты Model 5;Электроника;Планшеты;ASUS;Premium;ASUS Russia;2023-02-06;Active
+PROD_ЭЛЕ_071;Lenovo Планшеты Model 1;Электроника;Планшеты;Lenovo;Premium;Lenovo Russia;2022-09-09;Active
+PROD_ЭЛЕ_072;Lenovo Планшеты Model 2;Электроника;Планшеты;Lenovo;Premium;Lenovo Russia;2024-10-03;Active
+PROD_ЭЛЕ_073;Lenovo Планшеты Model 3;Электроника;Планшеты;Lenovo;Premium;Lenovo Russia;2024-10-10;Active
+PROD_ЭЛЕ_074;Lenovo Планшеты Model 4;Электроника;Планшеты;Lenovo;Premium;Lenovo Russia;2023-02-13;Active
+PROD_ЭЛЕ_075;Lenovo Планшеты Model 5;Электроника;Планшеты;Lenovo;Premium;Lenovo Russia;2023-10-19;Active
+PROD_ОДЕ_076;Nike Мужская одежда Model 1;Одежда;Мужская одежда;Nike;Budget;ООО Nike Поставки;2024-12-19;Active
+PROD_ОДЕ_077;Nike Мужская одежда Model 2;Одежда;Мужская одежда;Nike;Budget;ООО Nike Поставки;2023-11-10;Discontinued
+PROD_ОДЕ_078;Nike Мужская одежда Model 3;Одежда;Мужская одежда;Nike;Budget;ООО Nike Поставки;2023-05-25;Active
+PROD_ОДЕ_079;Nike Мужская одежда Model 4;Одежда;Мужская одежда;Nike;Budget;ООО Nike Поставки;2022-10-01;Active
+PROD_ОДЕ_080;Nike Мужская одежда Model 5;Одежда;Мужская одежда;Nike;Budget;ООО Nike Поставки;2022-06-06;Active
+PROD_ОДЕ_081;Adidas Мужская одежда Model 1;Одежда;Мужская одежда;Adidas;Budget;ООО Adidas Поставки;2022-12-17;Active
+PROD_ОДЕ_082;Adidas Мужская одежда Model 2;Одежда;Мужская одежда;Adidas;Budget;ООО Adidas Поставки;2024-06-11;Active
+PROD_ОДЕ_083;Adidas Мужская одежда Model 3;Одежда;Мужская одежда;Adidas;Budget;ООО Adidas Поставки;2022-02-17;Active
+PROD_ОДЕ_084;Adidas Мужская одежда Model 4;Одежда;Мужская одежда;Adidas;Budget;ООО Adidas Поставки;2023-10-22;Active
+PROD_ОДЕ_085;Adidas Мужская одежда Model 5;Одежда;Мужская одежда;Adidas;Budget;ООО Adidas Поставки;2022-02-22;Active
+PROD_ОДЕ_086;Zara Мужская одежда Model 1;Одежда;Мужская одежда;Zara;Budget;ООО Zara Поставки;2023-01-24;Discontinued
+PROD_ОДЕ_087;Zara Мужская одежда Model 2;Одежда;Мужская одежда;Zara;Budget;ООО Zara Поставки;2024-04-14;Active
+PROD_ОДЕ_088;Zara Мужская одежда Model 3;Одежда;Мужская одежда;Zara;Budget;ООО Zara Поставки;2024-06-02;Active
+PROD_ОДЕ_089;Zara Мужская одежда Model 4;Одежда;Мужская одежда;Zara;Budget;ООО Zara Поставки;2024-12-01;Active
+PROD_ОДЕ_090;Zara Мужская одежда Model 5;Одежда;Мужская одежда;Zara;Budget;ООО Zara Поставки;2024-05-22;Active
+PROD_ОДЕ_091;H&M Мужская одежда Model 1;Одежда;Мужская одежда;H&M;Budget;ООО H&M Поставки;2023-12-02;Active
+PROD_ОДЕ_092;H&M Мужская одежда Model 2;Одежда;Мужская одежда;H&M;Budget;ООО H&M Поставки;2023-04-09;Active
+PROD_ОДЕ_093;H&M Мужская одежда Model 3;Одежда;Мужская одежда;H&M;Budget;ООО H&M Поставки;2023-01-22;Active
+PROD_ОДЕ_094;H&M Мужская одежда Model 4;Одежда;Мужская одежда;H&M;Budget;ООО H&M Поставки;2023-02-08;Active
+PROD_ОДЕ_095;H&M Мужская одежда Model 5;Одежда;Мужская одежда;H&M;Budget;ООО H&M Поставки;2022-12-16;Active
+PROD_ОДЕ_096;Uniqlo Мужская одежда Model 1;Одежда;Мужская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2022-11-24;Active
+PROD_ОДЕ_097;Uniqlo Мужская одежда Model 2;Одежда;Мужская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2023-06-16;Active
+PROD_ОДЕ_098;Uniqlo Мужская одежда Model 3;Одежда;Мужская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2022-08-12;Active
+PROD_ОДЕ_099;Uniqlo Мужская одежда Model 4;Одежда;Мужская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2022-12-17;Active
+PROD_ОДЕ_100;Uniqlo Мужская одежда Model 5;Одежда;Мужская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-04-28;Active
+PROD_ОДЕ_101;Nike Женская одежда Model 1;Одежда;Женская одежда;Nike;Budget;ООО Nike Поставки;2024-07-16;Active
+PROD_ОДЕ_102;Nike Женская одежда Model 2;Одежда;Женская одежда;Nike;Budget;ООО Nike Поставки;2024-06-03;Discontinued
+PROD_ОДЕ_103;Nike Женская одежда Model 3;Одежда;Женская одежда;Nike;Budget;ООО Nike Поставки;2024-01-14;Discontinued
+PROD_ОДЕ_104;Nike Женская одежда Model 4;Одежда;Женская одежда;Nike;Budget;ООО Nike Поставки;2023-09-17;Active
+PROD_ОДЕ_105;Nike Женская одежда Model 5;Одежда;Женская одежда;Nike;Budget;ООО Nike Поставки;2023-12-15;Active
+PROD_ОДЕ_106;Adidas Женская одежда Model 1;Одежда;Женская одежда;Adidas;Budget;ООО Adidas Поставки;2023-06-27;Active
+PROD_ОДЕ_107;Adidas Женская одежда Model 2;Одежда;Женская одежда;Adidas;Budget;ООО Adidas Поставки;2023-02-28;Active
+PROD_ОДЕ_108;Adidas Женская одежда Model 3;Одежда;Женская одежда;Adidas;Budget;ООО Adidas Поставки;2024-10-10;Discontinued
+PROD_ОДЕ_109;Adidas Женская одежда Model 4;Одежда;Женская одежда;Adidas;Budget;ООО Adidas Поставки;2024-04-14;Discontinued
+PROD_ОДЕ_110;Adidas Женская одежда Model 5;Одежда;Женская одежда;Adidas;Budget;ООО Adidas Поставки;2022-07-09;Active
+PROD_ОДЕ_111;Zara Женская одежда Model 1;Одежда;Женская одежда;Zara;Budget;ООО Zara Поставки;2022-06-19;Discontinued
+PROD_ОДЕ_112;Zara Женская одежда Model 2;Одежда;Женская одежда;Zara;Budget;ООО Zara Поставки;2023-02-23;Active
+PROD_ОДЕ_113;Zara Женская одежда Model 3;Одежда;Женская одежда;Zara;Budget;ООО Zara Поставки;2022-04-07;Active
+PROD_ОДЕ_114;Zara Женская одежда Model 4;Одежда;Женская одежда;Zara;Budget;ООО Zara Поставки;2023-04-06;Active
+PROD_ОДЕ_115;Zara Женская одежда Model 5;Одежда;Женская одежда;Zara;Budget;ООО Zara Поставки;2023-02-17;Active
+PROD_ОДЕ_116;H&M Женская одежда Model 1;Одежда;Женская одежда;H&M;Budget;ООО H&M Поставки;2023-10-13;Active
+PROD_ОДЕ_117;H&M Женская одежда Model 2;Одежда;Женская одежда;H&M;Budget;ООО H&M Поставки;2022-02-05;Active
+PROD_ОДЕ_118;H&M Женская одежда Model 3;Одежда;Женская одежда;H&M;Budget;ООО H&M Поставки;2023-10-15;Active
+PROD_ОДЕ_119;H&M Женская одежда Model 4;Одежда;Женская одежда;H&M;Budget;ООО H&M Поставки;2023-09-27;Active
+PROD_ОДЕ_120;H&M Женская одежда Model 5;Одежда;Женская одежда;H&M;Budget;ООО H&M Поставки;2023-10-16;Active
+PROD_ОДЕ_121;Uniqlo Женская одежда Model 1;Одежда;Женская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-08-19;Active
+PROD_ОДЕ_122;Uniqlo Женская одежда Model 2;Одежда;Женская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-11-20;Discontinued
+PROD_ОДЕ_123;Uniqlo Женская одежда Model 3;Одежда;Женская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-04-03;Active
+PROD_ОДЕ_124;Uniqlo Женская одежда Model 4;Одежда;Женская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2022-01-12;Active
+PROD_ОДЕ_125;Uniqlo Женская одежда Model 5;Одежда;Женская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-01-09;Active
+PROD_ОДЕ_126;Nike Детская одежда Model 1;Одежда;Детская одежда;Nike;Budget;ООО Nike Поставки;2023-10-27;Discontinued
+PROD_ОДЕ_127;Nike Детская одежда Model 2;Одежда;Детская одежда;Nike;Budget;ООО Nike Поставки;2022-06-27;Active
+PROD_ОДЕ_128;Nike Детская одежда Model 3;Одежда;Детская одежда;Nike;Budget;ООО Nike Поставки;2022-07-09;Active
+PROD_ОДЕ_129;Nike Детская одежда Model 4;Одежда;Детская одежда;Nike;Budget;ООО Nike Поставки;2022-02-05;Active
+PROD_ОДЕ_130;Nike Детская одежда Model 5;Одежда;Детская одежда;Nike;Budget;ООО Nike Поставки;2023-10-23;Active
+PROD_ОДЕ_131;Adidas Детская одежда Model 1;Одежда;Детская одежда;Adidas;Budget;ООО Adidas Поставки;2022-08-13;Active
+PROD_ОДЕ_132;Adidas Детская одежда Model 2;Одежда;Детская одежда;Adidas;Budget;ООО Adidas Поставки;2022-10-03;Active
+PROD_ОДЕ_133;Adidas Детская одежда Model 3;Одежда;Детская одежда;Adidas;Budget;ООО Adidas Поставки;2024-07-08;Active
+PROD_ОДЕ_134;Adidas Детская одежда Model 4;Одежда;Детская одежда;Adidas;Budget;ООО Adidas Поставки;2024-11-01;Active
+PROD_ОДЕ_135;Adidas Детская одежда Model 5;Одежда;Детская одежда;Adidas;Budget;ООО Adidas Поставки;2023-11-12;Active
+PROD_ОДЕ_136;Zara Детская одежда Model 1;Одежда;Детская одежда;Zara;Budget;ООО Zara Поставки;2023-01-14;Active
+PROD_ОДЕ_137;Zara Детская одежда Model 2;Одежда;Детская одежда;Zara;Budget;ООО Zara Поставки;2022-04-01;Active
+PROD_ОДЕ_138;Zara Детская одежда Model 3;Одежда;Детская одежда;Zara;Budget;ООО Zara Поставки;2023-07-16;Active
+PROD_ОДЕ_139;Zara Детская одежда Model 4;Одежда;Детская одежда;Zara;Budget;ООО Zara Поставки;2024-06-16;Active
+PROD_ОДЕ_140;Zara Детская одежда Model 5;Одежда;Детская одежда;Zara;Budget;ООО Zara Поставки;2023-10-24;Active
+PROD_ОДЕ_141;H&M Детская одежда Model 1;Одежда;Детская одежда;H&M;Budget;ООО H&M Поставки;2024-09-10;Active
+PROD_ОДЕ_142;H&M Детская одежда Model 2;Одежда;Детская одежда;H&M;Budget;ООО H&M Поставки;2022-05-01;Active
+PROD_ОДЕ_143;H&M Детская одежда Model 3;Одежда;Детская одежда;H&M;Budget;ООО H&M Поставки;2024-01-07;Discontinued
+PROD_ОДЕ_144;H&M Детская одежда Model 4;Одежда;Детская одежда;H&M;Budget;ООО H&M Поставки;2022-08-07;Active
+PROD_ОДЕ_145;H&M Детская одежда Model 5;Одежда;Детская одежда;H&M;Budget;ООО H&M Поставки;2022-05-25;Active
+PROD_ОДЕ_146;Uniqlo Детская одежда Model 1;Одежда;Детская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-08-10;Discontinued
+PROD_ОДЕ_147;Uniqlo Детская одежда Model 2;Одежда;Детская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2023-04-24;Active
+PROD_ОДЕ_148;Uniqlo Детская одежда Model 3;Одежда;Детская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2022-11-24;Active
+PROD_ОДЕ_149;Uniqlo Детская одежда Model 4;Одежда;Детская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2023-07-03;Active
+PROD_ОДЕ_150;Uniqlo Детская одежда Model 5;Одежда;Детская одежда;Uniqlo;Budget;ООО Uniqlo Поставки;2024-12-25;Active
+PROD_ТОВ_151;IKEA Мебель Model 1;Товары для дома;Мебель;IKEA;Medium;ООО IKEA Поставки;2022-09-01;Active
+PROD_ТОВ_152;IKEA Мебель Model 2;Товары для дома;Мебель;IKEA;Medium;ООО IKEA Поставки;2023-11-23;Active
+PROD_ТОВ_153;IKEA Мебель Model 3;Товары для дома;Мебель;IKEA;Medium;ООО IKEA Поставки;2023-09-22;Discontinued
+PROD_ТОВ_154;IKEA Мебель Model 4;Товары для дома;Мебель;IKEA;Medium;ООО IKEA Поставки;2022-11-03;Active
+PROD_ТОВ_155;IKEA Мебель Model 5;Товары для дома;Мебель;IKEA;Medium;ООО IKEA Поставки;2022-11-22;Discontinued
+PROD_ТОВ_156;Hoff Мебель Model 1;Товары для дома;Мебель;Hoff;Medium;ООО Hoff Поставки;2024-02-04;Active
+PROD_ТОВ_157;Hoff Мебель Model 2;Товары для дома;Мебель;Hoff;Medium;ООО Hoff Поставки;2022-09-25;Active
+PROD_ТОВ_158;Hoff Мебель Model 3;Товары для дома;Мебель;Hoff;Medium;ООО Hoff Поставки;2023-10-01;Active
+PROD_ТОВ_159;Hoff Мебель Model 4;Товары для дома;Мебель;Hoff;Medium;ООО Hoff Поставки;2022-11-13;Active
+PROD_ТОВ_160;Hoff Мебель Model 5;Товары для дома;Мебель;Hoff;Medium;ООО Hoff Поставки;2023-04-13;Active
+PROD_ТОВ_161;JYSK Мебель Model 1;Товары для дома;Мебель;JYSK;Medium;ООО JYSK Поставки;2024-05-16;Active
+PROD_ТОВ_162;JYSK Мебель Model 2;Товары для дома;Мебель;JYSK;Medium;ООО JYSK Поставки;2022-11-08;Active
+PROD_ТОВ_163;JYSK Мебель Model 3;Товары для дома;Мебель;JYSK;Medium;ООО JYSK Поставки;2023-10-17;Active
+PROD_ТОВ_164;JYSK Мебель Model 4;Товары для дома;Мебель;JYSK;Medium;ООО JYSK Поставки;2022-04-07;Discontinued
+PROD_ТОВ_165;JYSK Мебель Model 5;Товары для дома;Мебель;JYSK;Medium;ООО JYSK Поставки;2023-10-02;Active
+PROD_ТОВ_166;Леруа Мерлен Мебель Model 1;Товары для дома;Мебель;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2024-11-20;Active
+PROD_ТОВ_167;Леруа Мерлен Мебель Model 2;Товары для дома;Мебель;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2022-04-16;Active
+PROD_ТОВ_168;Леруа Мерлен Мебель Model 3;Товары для дома;Мебель;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-11-23;Active
+PROD_ТОВ_169;Леруа Мерлен Мебель Model 4;Товары для дома;Мебель;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2024-02-22;Active
+PROD_ТОВ_170;Леруа Мерлен Мебель Model 5;Товары для дома;Мебель;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2024-05-24;Active
+PROD_ТОВ_171;OBI Мебель Model 1;Товары для дома;Мебель;OBI;Medium;ООО OBI Поставки;2024-08-23;Active
+PROD_ТОВ_172;OBI Мебель Model 2;Товары для дома;Мебель;OBI;Medium;ООО OBI Поставки;2023-02-19;Active
+PROD_ТОВ_173;OBI Мебель Model 3;Товары для дома;Мебель;OBI;Medium;ООО OBI Поставки;2022-12-08;Active
+PROD_ТОВ_174;OBI Мебель Model 4;Товары для дома;Мебель;OBI;Medium;ООО OBI Поставки;2023-09-15;Active
+PROD_ТОВ_175;OBI Мебель Model 5;Товары для дома;Мебель;OBI;Medium;ООО OBI Поставки;2023-02-05;Active
+PROD_ТОВ_176;IKEA Посуда Model 1;Товары для дома;Посуда;IKEA;Medium;ООО IKEA Поставки;2023-06-05;Active
+PROD_ТОВ_177;IKEA Посуда Model 2;Товары для дома;Посуда;IKEA;Medium;ООО IKEA Поставки;2024-05-26;Active
+PROD_ТОВ_178;IKEA Посуда Model 3;Товары для дома;Посуда;IKEA;Medium;ООО IKEA Поставки;2022-09-12;Active
+PROD_ТОВ_179;IKEA Посуда Model 4;Товары для дома;Посуда;IKEA;Medium;ООО IKEA Поставки;2024-10-17;Active
+PROD_ТОВ_180;IKEA Посуда Model 5;Товары для дома;Посуда;IKEA;Medium;ООО IKEA Поставки;2024-03-01;Discontinued
+PROD_ТОВ_181;Hoff Посуда Model 1;Товары для дома;Посуда;Hoff;Medium;ООО Hoff Поставки;2022-06-04;Active
+PROD_ТОВ_182;Hoff Посуда Model 2;Товары для дома;Посуда;Hoff;Medium;ООО Hoff Поставки;2023-08-16;Active
+PROD_ТОВ_183;Hoff Посуда Model 3;Товары для дома;Посуда;Hoff;Medium;ООО Hoff Поставки;2024-02-08;Active
+PROD_ТОВ_184;Hoff Посуда Model 4;Товары для дома;Посуда;Hoff;Medium;ООО Hoff Поставки;2022-07-28;Active
+PROD_ТОВ_185;Hoff Посуда Model 5;Товары для дома;Посуда;Hoff;Medium;ООО Hoff Поставки;2023-06-05;Active
+PROD_ТОВ_186;JYSK Посуда Model 1;Товары для дома;Посуда;JYSK;Medium;ООО JYSK Поставки;2022-03-23;Discontinued
+PROD_ТОВ_187;JYSK Посуда Model 2;Товары для дома;Посуда;JYSK;Medium;ООО JYSK Поставки;2023-02-27;Active
+PROD_ТОВ_188;JYSK Посуда Model 3;Товары для дома;Посуда;JYSK;Medium;ООО JYSK Поставки;2023-11-09;Active
+PROD_ТОВ_189;JYSK Посуда Model 4;Товары для дома;Посуда;JYSK;Medium;ООО JYSK Поставки;2024-11-27;Active
+PROD_ТОВ_190;JYSK Посуда Model 5;Товары для дома;Посуда;JYSK;Medium;ООО JYSK Поставки;2022-10-10;Active
+PROD_ТОВ_191;Леруа Мерлен Посуда Model 1;Товары для дома;Посуда;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-10-25;Active
+PROD_ТОВ_192;Леруа Мерлен Посуда Model 2;Товары для дома;Посуда;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2024-12-27;Active
+PROD_ТОВ_193;Леруа Мерлен Посуда Model 3;Товары для дома;Посуда;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-08-16;Active
+PROD_ТОВ_194;Леруа Мерлен Посуда Model 4;Товары для дома;Посуда;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-07-03;Active
+PROD_ТОВ_195;Леруа Мерлен Посуда Model 5;Товары для дома;Посуда;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2022-09-18;Active
+PROD_ТОВ_196;OBI Посуда Model 1;Товары для дома;Посуда;OBI;Medium;ООО OBI Поставки;2023-11-11;Active
+PROD_ТОВ_197;OBI Посуда Model 2;Товары для дома;Посуда;OBI;Medium;ООО OBI Поставки;2024-01-23;Discontinued
+PROD_ТОВ_198;OBI Посуда Model 3;Товары для дома;Посуда;OBI;Medium;ООО OBI Поставки;2022-12-12;Active
+PROD_ТОВ_199;OBI Посуда Model 4;Товары для дома;Посуда;OBI;Medium;ООО OBI Поставки;2024-07-24;Active
+PROD_ТОВ_200;OBI Посуда Model 5;Товары для дома;Посуда;OBI;Medium;ООО OBI Поставки;2022-03-07;Active
+PROD_ТОВ_201;IKEA Текстиль Model 1;Товары для дома;Текстиль;IKEA;Medium;ООО IKEA Поставки;2024-12-26;Active
+PROD_ТОВ_202;IKEA Текстиль Model 2;Товары для дома;Текстиль;IKEA;Medium;ООО IKEA Поставки;2024-04-13;Active
+PROD_ТОВ_203;IKEA Текстиль Model 3;Товары для дома;Текстиль;IKEA;Medium;ООО IKEA Поставки;2022-10-25;Active
+PROD_ТОВ_204;IKEA Текстиль Model 4;Товары для дома;Текстиль;IKEA;Medium;ООО IKEA Поставки;2022-11-15;Active
+PROD_ТОВ_205;IKEA Текстиль Model 5;Товары для дома;Текстиль;IKEA;Medium;ООО IKEA Поставки;2023-02-18;Active
+PROD_ТОВ_206;Hoff Текстиль Model 1;Товары для дома;Текстиль;Hoff;Medium;ООО Hoff Поставки;2024-04-14;Active
+PROD_ТОВ_207;Hoff Текстиль Model 2;Товары для дома;Текстиль;Hoff;Medium;ООО Hoff Поставки;2024-08-18;Active
+PROD_ТОВ_208;Hoff Текстиль Model 3;Товары для дома;Текстиль;Hoff;Medium;ООО Hoff Поставки;2023-03-01;Active
+PROD_ТОВ_209;Hoff Текстиль Model 4;Товары для дома;Текстиль;Hoff;Medium;ООО Hoff Поставки;2022-04-21;Active
+PROD_ТОВ_210;Hoff Текстиль Model 5;Товары для дома;Текстиль;Hoff;Medium;ООО Hoff Поставки;2024-09-04;Discontinued
+PROD_ТОВ_211;JYSK Текстиль Model 1;Товары для дома;Текстиль;JYSK;Medium;ООО JYSK Поставки;2022-01-25;Discontinued
+PROD_ТОВ_212;JYSK Текстиль Model 2;Товары для дома;Текстиль;JYSK;Medium;ООО JYSK Поставки;2024-07-13;Discontinued
+PROD_ТОВ_213;JYSK Текстиль Model 3;Товары для дома;Текстиль;JYSK;Medium;ООО JYSK Поставки;2023-04-15;Active
+PROD_ТОВ_214;JYSK Текстиль Model 4;Товары для дома;Текстиль;JYSK;Medium;ООО JYSK Поставки;2022-04-21;Active
+PROD_ТОВ_215;JYSK Текстиль Model 5;Товары для дома;Текстиль;JYSK;Medium;ООО JYSK Поставки;2023-05-17;Active
+PROD_ТОВ_216;Леруа Мерлен Текстиль Model 1;Товары для дома;Текстиль;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-06-14;Active
+PROD_ТОВ_217;Леруа Мерлен Текстиль Model 2;Товары для дома;Текстиль;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-11-04;Active
+PROD_ТОВ_218;Леруа Мерлен Текстиль Model 3;Товары для дома;Текстиль;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2024-01-12;Active
+PROD_ТОВ_219;Леруа Мерлен Текстиль Model 4;Товары для дома;Текстиль;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2023-08-26;Active
+PROD_ТОВ_220;Леруа Мерлен Текстиль Model 5;Товары для дома;Текстиль;Леруа Мерлен;Medium;ООО Леруа Мерлен Поставки;2022-10-14;Active
+PROD_ТОВ_221;OBI Текстиль Model 1;Товары для дома;Текстиль;OBI;Medium;ООО OBI Поставки;2022-06-09;Active
+PROD_ТОВ_222;OBI Текстиль Model 2;Товары для дома;Текстиль;OBI;Medium;ООО OBI Поставки;2023-04-20;Active
+PROD_ТОВ_223;OBI Текстиль Model 3;Товары для дома;Текстиль;OBI;Medium;ООО OBI Поставки;2023-05-24;Active
+PROD_ТОВ_224;OBI Текстиль Model 4;Товары для дома;Текстиль;OBI;Medium;ООО OBI Поставки;2024-12-11;Active
+PROD_ТОВ_225;OBI Текстиль Model 5;Товары для дома;Текстиль;OBI;Medium;ООО OBI Поставки;2023-09-21;Active
+PROD_СПО_226;Decathlon Спортивное оборудование Model 1;Спорт и отдых;Спортивное оборудование;Decathlon;Medium;ООО Decathlon Поставки;2024-04-23;Active
+PROD_СПО_227;Decathlon Спортивное оборудование Model 2;Спорт и отдых;Спортивное оборудование;Decathlon;Medium;ООО Decathlon Поставки;2023-09-17;Active
+PROD_СПО_228;Decathlon Спортивное оборудование Model 3;Спорт и отдых;Спортивное оборудование;Decathlon;Medium;ООО Decathlon Поставки;2022-01-28;Active
+PROD_СПО_229;Decathlon Спортивное оборудование Model 4;Спорт и отдых;Спортивное оборудование;Decathlon;Medium;ООО Decathlon Поставки;2022-02-05;Discontinued
+PROD_СПО_230;Decathlon Спортивное оборудование Model 5;Спорт и отдых;Спортивное оборудование;Decathlon;Medium;ООО Decathlon Поставки;2022-07-27;Discontinued
+PROD_СПО_231;Спортмастер Спортивное оборудование Model 1;Спорт и отдых;Спортивное оборудование;Спортмастер;Medium;ООО Спортмастер Поставки;2022-06-09;Discontinued
+PROD_СПО_232;Спортмастер Спортивное оборудование Model 2;Спорт и отдых;Спортивное оборудование;Спортмастер;Medium;ООО Спортмастер Поставки;2024-01-22;Active
+PROD_СПО_233;Спортмастер Спортивное оборудование Model 3;Спорт и отдых;Спортивное оборудование;Спортмастер;Medium;ООО Спортмастер Поставки;2023-09-02;Active
+PROD_СПО_234;Спортмастер Спортивное оборудование Model 4;Спорт и отдых;Спортивное оборудование;Спортмастер;Medium;ООО Спортмастер Поставки;2022-05-13;Active
+PROD_СПО_235;Спортмастер Спортивное оборудование Model 5;Спорт и отдых;Спортивное оборудование;Спортмастер;Medium;ООО Спортмастер Поставки;2023-10-26;Active
+PROD_СПО_236;Nordway Спортивное оборудование Model 1;Спорт и отдых;Спортивное оборудование;Nordway;Medium;ООО Nordway Поставки;2024-01-02;Active
+PROD_СПО_237;Nordway Спортивное оборудование Model 2;Спорт и отдых;Спортивное оборудование;Nordway;Medium;ООО Nordway Поставки;2024-11-02;Discontinued
+PROD_СПО_238;Nordway Спортивное оборудование Model 3;Спорт и отдых;Спортивное оборудование;Nordway;Medium;ООО Nordway Поставки;2022-08-07;Active
+PROD_СПО_239;Nordway Спортивное оборудование Model 4;Спорт и отдых;Спортивное оборудование;Nordway;Medium;ООО Nordway Поставки;2023-05-13;Active
+PROD_СПО_240;Nordway Спортивное оборудование Model 5;Спорт и отдых;Спортивное оборудование;Nordway;Medium;ООО Nordway Поставки;2024-04-21;Active
+PROD_СПО_241;Trek Спортивное оборудование Model 1;Спорт и отдых;Спортивное оборудование;Trek;Medium;ООО Trek Поставки;2023-05-08;Active
+PROD_СПО_242;Trek Спортивное оборудование Model 2;Спорт и отдых;Спортивное оборудование;Trek;Medium;ООО Trek Поставки;2024-04-27;Active
+PROD_СПО_243;Trek Спортивное оборудование Model 3;Спорт и отдых;Спортивное оборудование;Trek;Medium;ООО Trek Поставки;2022-09-20;Active
+PROD_СПО_244;Trek Спортивное оборудование Model 4;Спорт и отдых;Спортивное оборудование;Trek;Medium;ООО Trek Поставки;2022-02-19;Active
+PROD_СПО_245;Trek Спортивное оборудование Model 5;Спорт и отдых;Спортивное оборудование;Trek;Medium;ООО Trek Поставки;2024-07-16;Active
+PROD_СПО_246;Giant Спортивное оборудование Model 1;Спорт и отдых;Спортивное оборудование;Giant;Medium;ООО Giant Поставки;2022-03-04;Active
+PROD_СПО_247;Giant Спортивное оборудование Model 2;Спорт и отдых;Спортивное оборудование;Giant;Medium;ООО Giant Поставки;2022-06-10;Active
+PROD_СПО_248;Giant Спортивное оборудование Model 3;Спорт и отдых;Спортивное оборудование;Giant;Medium;ООО Giant Поставки;2024-09-21;Active
+PROD_СПО_249;Giant Спортивное оборудование Model 4;Спорт и отдых;Спортивное оборудование;Giant;Medium;ООО Giant Поставки;2024-03-12;Active
+PROD_СПО_250;Giant Спортивное оборудование Model 5;Спорт и отдых;Спортивное оборудование;Giant;Medium;ООО Giant Поставки;2022-02-19;Active
+PROD_СПО_251;Decathlon Туризм Model 1;Спорт и отдых;Туризм;Decathlon;Medium;ООО Decathlon Поставки;2022-06-20;Active
+PROD_СПО_252;Decathlon Туризм Model 2;Спорт и отдых;Туризм;Decathlon;Medium;ООО Decathlon Поставки;2024-01-19;Active
+PROD_СПО_253;Decathlon Туризм Model 3;Спорт и отдых;Туризм;Decathlon;Medium;ООО Decathlon Поставки;2024-10-10;Active
+PROD_СПО_254;Decathlon Туризм Model 4;Спорт и отдых;Туризм;Decathlon;Medium;ООО Decathlon Поставки;2022-06-19;Active
+PROD_СПО_255;Decathlon Туризм Model 5;Спорт и отдых;Туризм;Decathlon;Medium;ООО Decathlon Поставки;2024-12-27;Active
+PROD_СПО_256;Спортмастер Туризм Model 1;Спорт и отдых;Туризм;Спортмастер;Medium;ООО Спортмастер Поставки;2024-11-08;Active
+PROD_СПО_257;Спортмастер Туризм Model 2;Спорт и отдых;Туризм;Спортмастер;Medium;ООО Спортмастер Поставки;2022-04-18;Active
+PROD_СПО_258;Спортмастер Туризм Model 3;Спорт и отдых;Туризм;Спортмастер;Medium;ООО Спортмастер Поставки;2023-11-14;Discontinued
+PROD_СПО_259;Спортмастер Туризм Model 4;Спорт и отдых;Туризм;Спортмастер;Medium;ООО Спортмастер Поставки;2023-07-02;Discontinued
+PROD_СПО_260;Спортмастер Туризм Model 5;Спорт и отдых;Туризм;Спортмастер;Medium;ООО Спортмастер Поставки;2023-03-27;Active
+PROD_СПО_261;Nordway Туризм Model 1;Спорт и отдых;Туризм;Nordway;Medium;ООО Nordway Поставки;2024-06-27;Active
+PROD_СПО_262;Nordway Туризм Model 2;Спорт и отдых;Туризм;Nordway;Medium;ООО Nordway Поставки;2022-05-01;Active
+PROD_СПО_263;Nordway Туризм Model 3;Спорт и отдых;Туризм;Nordway;Medium;ООО Nordway Поставки;2024-10-27;Discontinued
+PROD_СПО_264;Nordway Туризм Model 4;Спорт и отдых;Туризм;Nordway;Medium;ООО Nordway Поставки;2024-04-18;Active
+PROD_СПО_265;Nordway Туризм Model 5;Спорт и отдых;Туризм;Nordway;Medium;ООО Nordway Поставки;2023-11-23;Active
+PROD_СПО_266;Trek Туризм Model 1;Спорт и отдых;Туризм;Trek;Medium;ООО Trek Поставки;2022-09-04;Active
+PROD_СПО_267;Trek Туризм Model 2;Спорт и отдых;Туризм;Trek;Medium;ООО Trek Поставки;2023-04-06;Active
+PROD_СПО_268;Trek Туризм Model 3;Спорт и отдых;Туризм;Trek;Medium;ООО Trek Поставки;2024-11-07;Active
+PROD_СПО_269;Trek Туризм Model 4;Спорт и отдых;Туризм;Trek;Medium;ООО Trek Поставки;2024-08-23;Active
+PROD_СПО_270;Trek Туризм Model 5;Спорт и отдых;Туризм;Trek;Medium;ООО Trek Поставки;2023-07-08;Active
+PROD_СПО_271;Giant Туризм Model 1;Спорт и отдых;Туризм;Giant;Medium;ООО Giant Поставки;2022-08-04;Active
+PROD_СПО_272;Giant Туризм Model 2;Спорт и отдых;Туризм;Giant;Medium;ООО Giant Поставки;2023-09-03;Active
+PROD_СПО_273;Giant Туризм Model 3;Спорт и отдых;Туризм;Giant;Medium;ООО Giant Поставки;2022-04-08;Active
+PROD_СПО_274;Giant Туризм Model 4;Спорт и отдых;Туризм;Giant;Medium;ООО Giant Поставки;2022-02-27;Active
+PROD_СПО_275;Giant Туризм Model 5;Спорт и отдых;Туризм;Giant;Medium;ООО Giant Поставки;2023-01-11;Active
+PROD_СПО_276;Decathlon Велосипеды Model 1;Спорт и отдых;Велосипеды;Decathlon;Medium;ООО Decathlon Поставки;2023-07-27;Active
+PROD_СПО_277;Decathlon Велосипеды Model 2;Спорт и отдых;Велосипеды;Decathlon;Medium;ООО Decathlon Поставки;2022-10-05;Discontinued
+PROD_СПО_278;Decathlon Велосипеды Model 3;Спорт и отдых;Велосипеды;Decathlon;Medium;ООО Decathlon Поставки;2024-09-18;Active
+PROD_СПО_279;Decathlon Велосипеды Model 4;Спорт и отдых;Велосипеды;Decathlon;Medium;ООО Decathlon Поставки;2022-04-02;Discontinued
+PROD_СПО_280;Decathlon Велосипеды Model 5;Спорт и отдых;Велосипеды;Decathlon;Medium;ООО Decathlon Поставки;2024-08-11;Active
+PROD_СПО_281;Спортмастер Велосипеды Model 1;Спорт и отдых;Велосипеды;Спортмастер;Medium;ООО Спортмастер Поставки;2023-01-12;Active
+PROD_СПО_282;Спортмастер Велосипеды Model 2;Спорт и отдых;Велосипеды;Спортмастер;Medium;ООО Спортмастер Поставки;2022-04-22;Active
+PROD_СПО_283;Спортмастер Велосипеды Model 3;Спорт и отдых;Велосипеды;Спортмастер;Medium;ООО Спортмастер Поставки;2022-07-01;Active
+PROD_СПО_284;Спортмастер Велосипеды Model 4;Спорт и отдых;Велосипеды;Спортмастер;Medium;ООО Спортмастер Поставки;2023-09-16;Active
+PROD_СПО_285;Спортмастер Велосипеды Model 5;Спорт и отдых;Велосипеды;Спортмастер;Medium;ООО Спортмастер Поставки;2024-03-09;Active
+PROD_СПО_286;Nordway Велосипеды Model 1;Спорт и отдых;Велосипеды;Nordway;Medium;ООО Nordway Поставки;2023-11-06;Active
+PROD_СПО_287;Nordway Велосипеды Model 2;Спорт и отдых;Велосипеды;Nordway;Medium;ООО Nordway Поставки;2023-08-03;Active
+PROD_СПО_288;Nordway Велосипеды Model 3;Спорт и отдых;Велосипеды;Nordway;Medium;ООО Nordway Поставки;2023-05-19;Active
+PROD_СПО_289;Nordway Велосипеды Model 4;Спорт и отдых;Велосипеды;Nordway;Medium;ООО Nordway Поставки;2023-05-23;Active
+PROD_СПО_290;Nordway Велосипеды Model 5;Спорт и отдых;Велосипеды;Nordway;Medium;ООО Nordway Поставки;2024-12-10;Active
+PROD_СПО_291;Trek Велосипеды Model 1;Спорт и отдых;Велосипеды;Trek;Medium;ООО Trek Поставки;2023-06-25;Active
+PROD_СПО_292;Trek Велосипеды Model 2;Спорт и отдых;Велосипеды;Trek;Medium;ООО Trek Поставки;2023-12-10;Discontinued
+PROD_СПО_293;Trek Велосипеды Model 3;Спорт и отдых;Велосипеды;Trek;Medium;ООО Trek Поставки;2023-11-26;Discontinued
+PROD_СПО_294;Trek Велосипеды Model 4;Спорт и отдых;Велосипеды;Trek;Medium;ООО Trek Поставки;2024-09-05;Discontinued
+PROD_СПО_295;Trek Велосипеды Model 5;Спорт и отдых;Велосипеды;Trek;Medium;ООО Trek Поставки;2023-03-24;Active
+PROD_СПО_296;Giant Велосипеды Model 1;Спорт и отдых;Велосипеды;Giant;Medium;ООО Giant Поставки;2024-10-02;Active
+PROD_СПО_297;Giant Велосипеды Model 2;Спорт и отдых;Велосипеды;Giant;Medium;ООО Giant Поставки;2024-06-04;Active
+PROD_СПО_298;Giant Велосипеды Model 3;Спорт и отдых;Велосипеды;Giant;Medium;ООО Giant Поставки;2022-02-11;Active
+PROD_СПО_299;Giant Велосипеды Model 4;Спорт и отдых;Велосипеды;Giant;Medium;ООО Giant Поставки;2023-04-26;Active
+PROD_СПО_300;Giant Велосипеды Model 5;Спорт и отдых;Велосипеды;Giant;Medium;ООО Giant Поставки;2023-02-11;Active
+PROD_КНИ_301;Эксмо Художественная литература Model 1;Книги и канцелярия;Художественная литература;Эксмо;Budget;ООО Эксмо Поставки;2023-12-14;Active
+PROD_КНИ_302;Эксмо Художественная литература Model 2;Книги и канцелярия;Художественная литература;Эксмо;Budget;ООО Эксмо Поставки;2022-11-12;Active
+PROD_КНИ_303;Эксмо Художественная литература Model 3;Книги и канцелярия;Художественная литература;Эксмо;Budget;ООО Эксмо Поставки;2023-09-01;Discontinued
+PROD_КНИ_304;Эксмо Художественная литература Model 4;Книги и канцелярия;Художественная литература;Эксмо;Budget;ООО Эксмо Поставки;2024-04-17;Active
+PROD_КНИ_305;Эксмо Художественная литература Model 5;Книги и канцелярия;Художественная литература;Эксмо;Budget;ООО Эксмо Поставки;2022-10-08;Active
+PROD_КНИ_306;АСТ Художественная литература Model 1;Книги и канцелярия;Художественная литература;АСТ;Budget;ООО АСТ Поставки;2023-12-02;Active
+PROD_КНИ_307;АСТ Художественная литература Model 2;Книги и канцелярия;Художественная литература;АСТ;Budget;ООО АСТ Поставки;2023-06-17;Discontinued
+PROD_КНИ_308;АСТ Художественная литература Model 3;Книги и канцелярия;Художественная литература;АСТ;Budget;ООО АСТ Поставки;2022-04-21;Active
+PROD_КНИ_309;АСТ Художественная литература Model 4;Книги и канцелярия;Художественная литература;АСТ;Budget;ООО АСТ Поставки;2024-06-13;Active
+PROD_КНИ_310;АСТ Художественная литература Model 5;Книги и канцелярия;Художественная литература;АСТ;Budget;ООО АСТ Поставки;2022-04-25;Active
+PROD_КНИ_311;Альпина Художественная литература Model 1;Книги и канцелярия;Художественная литература;Альпина;Budget;ООО Альпина Поставки;2022-04-10;Active
+PROD_КНИ_312;Альпина Художественная литература Model 2;Книги и канцелярия;Художественная литература;Альпина;Budget;ООО Альпина Поставки;2023-03-09;Active
+PROD_КНИ_313;Альпина Художественная литература Model 3;Книги и канцелярия;Художественная литература;Альпина;Budget;ООО Альпина Поставки;2023-01-11;Active
+PROD_КНИ_314;Альпина Художественная литература Model 4;Книги и канцелярия;Художественная литература;Альпина;Budget;ООО Альпина Поставки;2023-12-16;Discontinued
+PROD_КНИ_315;Альпина Художественная литература Model 5;Книги и канцелярия;Художественная литература;Альпина;Budget;ООО Альпина Поставки;2024-03-13;Active
+PROD_КНИ_316;Staedtler Художественная литература Model 1;Книги и канцелярия;Художественная литература;Staedtler;Budget;ООО Staedtler Поставки;2024-01-27;Active
+PROD_КНИ_317;Staedtler Художественная литература Model 2;Книги и канцелярия;Художественная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-05-22;Active
+PROD_КНИ_318;Staedtler Художественная литература Model 3;Книги и канцелярия;Художественная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-08-03;Active
+PROD_КНИ_319;Staedtler Художественная литература Model 4;Книги и канцелярия;Художественная литература;Staedtler;Budget;ООО Staedtler Поставки;2024-09-24;Active
+PROD_КНИ_320;Staedtler Художественная литература Model 5;Книги и канцелярия;Художественная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-12-23;Active
+PROD_КНИ_321;Pilot Художественная литература Model 1;Книги и канцелярия;Художественная литература;Pilot;Budget;ООО Pilot Поставки;2024-07-19;Discontinued
+PROD_КНИ_322;Pilot Художественная литература Model 2;Книги и канцелярия;Художественная литература;Pilot;Budget;ООО Pilot Поставки;2024-05-16;Active
+PROD_КНИ_323;Pilot Художественная литература Model 3;Книги и канцелярия;Художественная литература;Pilot;Budget;ООО Pilot Поставки;2022-04-21;Active
+PROD_КНИ_324;Pilot Художественная литература Model 4;Книги и канцелярия;Художественная литература;Pilot;Budget;ООО Pilot Поставки;2022-11-18;Active
+PROD_КНИ_325;Pilot Художественная литература Model 5;Книги и канцелярия;Художественная литература;Pilot;Budget;ООО Pilot Поставки;2023-08-18;Active
+PROD_КНИ_326;Эксмо Канцтовары Model 1;Книги и канцелярия;Канцтовары;Эксмо;Budget;ООО Эксмо Поставки;2024-03-14;Active
+PROD_КНИ_327;Эксмо Канцтовары Model 2;Книги и канцелярия;Канцтовары;Эксмо;Budget;ООО Эксмо Поставки;2024-04-04;Active
+PROD_КНИ_328;Эксмо Канцтовары Model 3;Книги и канцелярия;Канцтовары;Эксмо;Budget;ООО Эксмо Поставки;2022-03-24;Active
+PROD_КНИ_329;Эксмо Канцтовары Model 4;Книги и канцелярия;Канцтовары;Эксмо;Budget;ООО Эксмо Поставки;2023-02-25;Active
+PROD_КНИ_330;Эксмо Канцтовары Model 5;Книги и канцелярия;Канцтовары;Эксмо;Budget;ООО Эксмо Поставки;2022-12-08;Active
+PROD_КНИ_331;АСТ Канцтовары Model 1;Книги и канцелярия;Канцтовары;АСТ;Budget;ООО АСТ Поставки;2024-01-28;Discontinued
+PROD_КНИ_332;АСТ Канцтовары Model 2;Книги и канцелярия;Канцтовары;АСТ;Budget;ООО АСТ Поставки;2023-03-12;Active
+PROD_КНИ_333;АСТ Канцтовары Model 3;Книги и канцелярия;Канцтовары;АСТ;Budget;ООО АСТ Поставки;2024-05-28;Active
+PROD_КНИ_334;АСТ Канцтовары Model 4;Книги и канцелярия;Канцтовары;АСТ;Budget;ООО АСТ Поставки;2024-06-09;Active
+PROD_КНИ_335;АСТ Канцтовары Model 5;Книги и канцелярия;Канцтовары;АСТ;Budget;ООО АСТ Поставки;2023-02-27;Active
+PROD_КНИ_336;Альпина Канцтовары Model 1;Книги и канцелярия;Канцтовары;Альпина;Budget;ООО Альпина Поставки;2022-06-18;Discontinued
+PROD_КНИ_337;Альпина Канцтовары Model 2;Книги и канцелярия;Канцтовары;Альпина;Budget;ООО Альпина Поставки;2022-02-09;Active
+PROD_КНИ_338;Альпина Канцтовары Model 3;Книги и канцелярия;Канцтовары;Альпина;Budget;ООО Альпина Поставки;2022-04-12;Active
+PROD_КНИ_339;Альпина Канцтовары Model 4;Книги и канцелярия;Канцтовары;Альпина;Budget;ООО Альпина Поставки;2022-04-06;Active
+PROD_КНИ_340;Альпина Канцтовары Model 5;Книги и канцелярия;Канцтовары;Альпина;Budget;ООО Альпина Поставки;2023-08-07;Active
+PROD_КНИ_341;Staedtler Канцтовары Model 1;Книги и канцелярия;Канцтовары;Staedtler;Budget;ООО Staedtler Поставки;2023-10-01;Active
+PROD_КНИ_342;Staedtler Канцтовары Model 2;Книги и канцелярия;Канцтовары;Staedtler;Budget;ООО Staedtler Поставки;2023-10-27;Active
+PROD_КНИ_343;Staedtler Канцтовары Model 3;Книги и канцелярия;Канцтовары;Staedtler;Budget;ООО Staedtler Поставки;2023-06-15;Active
+PROD_КНИ_344;Staedtler Канцтовары Model 4;Книги и канцелярия;Канцтовары;Staedtler;Budget;ООО Staedtler Поставки;2024-10-23;Active
+PROD_КНИ_345;Staedtler Канцтовары Model 5;Книги и канцелярия;Канцтовары;Staedtler;Budget;ООО Staedtler Поставки;2022-02-07;Active
+PROD_КНИ_346;Pilot Канцтовары Model 1;Книги и канцелярия;Канцтовары;Pilot;Budget;ООО Pilot Поставки;2024-06-02;Active
+PROD_КНИ_347;Pilot Канцтовары Model 2;Книги и канцелярия;Канцтовары;Pilot;Budget;ООО Pilot Поставки;2022-09-14;Discontinued
+PROD_КНИ_348;Pilot Канцтовары Model 3;Книги и канцелярия;Канцтовары;Pilot;Budget;ООО Pilot Поставки;2023-07-10;Discontinued
+PROD_КНИ_349;Pilot Канцтовары Model 4;Книги и канцелярия;Канцтовары;Pilot;Budget;ООО Pilot Поставки;2022-05-15;Active
+PROD_КНИ_350;Pilot Канцтовары Model 5;Книги и канцелярия;Канцтовары;Pilot;Budget;ООО Pilot Поставки;2024-11-17;Active
+PROD_КНИ_351;Эксмо Учебная литература Model 1;Книги и канцелярия;Учебная литература;Эксмо;Budget;ООО Эксмо Поставки;2024-03-07;Active
+PROD_КНИ_352;Эксмо Учебная литература Model 2;Книги и канцелярия;Учебная литература;Эксмо;Budget;ООО Эксмо Поставки;2022-06-18;Active
+PROD_КНИ_353;Эксмо Учебная литература Model 3;Книги и канцелярия;Учебная литература;Эксмо;Budget;ООО Эксмо Поставки;2024-10-26;Active
+PROD_КНИ_354;Эксмо Учебная литература Model 4;Книги и канцелярия;Учебная литература;Эксмо;Budget;ООО Эксмо Поставки;2023-07-15;Discontinued
+PROD_КНИ_355;Эксмо Учебная литература Model 5;Книги и канцелярия;Учебная литература;Эксмо;Budget;ООО Эксмо Поставки;2024-04-13;Active
+PROD_КНИ_356;АСТ Учебная литература Model 1;Книги и канцелярия;Учебная литература;АСТ;Budget;ООО АСТ Поставки;2023-04-08;Active
+PROD_КНИ_357;АСТ Учебная литература Model 2;Книги и канцелярия;Учебная литература;АСТ;Budget;ООО АСТ Поставки;2024-05-13;Active
+PROD_КНИ_358;АСТ Учебная литература Model 3;Книги и канцелярия;Учебная литература;АСТ;Budget;ООО АСТ Поставки;2023-03-24;Active
+PROD_КНИ_359;АСТ Учебная литература Model 4;Книги и канцелярия;Учебная литература;АСТ;Budget;ООО АСТ Поставки;2022-09-25;Active
+PROD_КНИ_360;АСТ Учебная литература Model 5;Книги и канцелярия;Учебная литература;АСТ;Budget;ООО АСТ Поставки;2022-12-13;Active
+PROD_КНИ_361;Альпина Учебная литература Model 1;Книги и канцелярия;Учебная литература;Альпина;Budget;ООО Альпина Поставки;2022-09-27;Active
+PROD_КНИ_362;Альпина Учебная литература Model 2;Книги и канцелярия;Учебная литература;Альпина;Budget;ООО Альпина Поставки;2024-08-10;Active
+PROD_КНИ_363;Альпина Учебная литература Model 3;Книги и канцелярия;Учебная литература;Альпина;Budget;ООО Альпина Поставки;2024-02-14;Active
+PROD_КНИ_364;Альпина Учебная литература Model 4;Книги и канцелярия;Учебная литература;Альпина;Budget;ООО Альпина Поставки;2022-05-28;Active
+PROD_КНИ_365;Альпина Учебная литература Model 5;Книги и канцелярия;Учебная литература;Альпина;Budget;ООО Альпина Поставки;2022-11-02;Active
+PROD_КНИ_366;Staedtler Учебная литература Model 1;Книги и канцелярия;Учебная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-01-23;Discontinued
+PROD_КНИ_367;Staedtler Учебная литература Model 2;Книги и канцелярия;Учебная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-07-14;Active
+PROD_КНИ_368;Staedtler Учебная литература Model 3;Книги и канцелярия;Учебная литература;Staedtler;Budget;ООО Staedtler Поставки;2023-07-06;Discontinued
+PROD_КНИ_369;Staedtler Учебная литература Model 4;Книги и канцелярия;Учебная литература;Staedtler;Budget;ООО Staedtler Поставки;2022-09-09;Active
+PROD_КНИ_370;Staedtler Учебная литература Model 5;Книги и канцелярия;Учебная литература;Staedtler;Budget;ООО Staedtler Поставки;2023-05-03;Active
+PROD_КНИ_371;Pilot Учебная литература Model 1;Книги и канцелярия;Учебная литература;Pilot;Budget;ООО Pilot Поставки;2022-09-21;Active
+PROD_КНИ_372;Pilot Учебная литература Model 2;Книги и канцелярия;Учебная литература;Pilot;Budget;ООО Pilot Поставки;2024-07-05;Active
+PROD_КНИ_373;Pilot Учебная литература Model 3;Книги и канцелярия;Учебная литература;Pilot;Budget;ООО Pilot Поставки;2024-06-03;Active
+PROD_КНИ_374;Pilot Учебная литература Model 4;Книги и канцелярия;Учебная литература;Pilot;Budget;ООО Pilot Поставки;2022-11-01;Active
+PROD_КНИ_375;Pilot Учебная литература Model 5;Книги и канцелярия;Учебная литература;Pilot;Budget;ООО Pilot Поставки;2024-07-03;Active
+PROD_КРА_376;L'Oreal Косметика Model 1;Красота и здоровье;Косметика;L'Oreal;Medium;ООО L'Oreal Поставки;2024-07-24;Active
+PROD_КРА_377;L'Oreal Косметика Model 2;Красота и здоровье;Косметика;L'Oreal;Medium;ООО L'Oreal Поставки;2024-01-06;Discontinued
+PROD_КРА_378;L'Oreal Косметика Model 3;Красота и здоровье;Косметика;L'Oreal;Medium;ООО L'Oreal Поставки;2022-05-14;Active
+PROD_КРА_379;L'Oreal Косметика Model 4;Красота и здоровье;Косметика;L'Oreal;Medium;ООО L'Oreal Поставки;2024-02-15;Active
+PROD_КРА_380;L'Oreal Косметика Model 5;Красота и здоровье;Косметика;L'Oreal;Medium;ООО L'Oreal Поставки;2024-06-07;Active
+PROD_КРА_381;Nivea Косметика Model 1;Красота и здоровье;Косметика;Nivea;Medium;ООО Nivea Поставки;2024-10-04;Discontinued
+PROD_КРА_382;Nivea Косметика Model 2;Красота и здоровье;Косметика;Nivea;Medium;ООО Nivea Поставки;2024-07-27;Active
+PROD_КРА_383;Nivea Косметика Model 3;Красота и здоровье;Косметика;Nivea;Medium;ООО Nivea Поставки;2023-05-03;Discontinued
+PROD_КРА_384;Nivea Косметика Model 4;Красота и здоровье;Косметика;Nivea;Medium;ООО Nivea Поставки;2023-07-21;Active
+PROD_КРА_385;Nivea Косметика Model 5;Красота и здоровье;Косметика;Nivea;Medium;ООО Nivea Поставки;2024-05-11;Discontinued
+PROD_КРА_386;Chanel Косметика Model 1;Красота и здоровье;Косметика;Chanel;Medium;ООО Chanel Поставки;2022-03-03;Active
+PROD_КРА_387;Chanel Косметика Model 2;Красота и здоровье;Косметика;Chanel;Medium;ООО Chanel Поставки;2022-03-22;Active
+PROD_КРА_388;Chanel Косметика Model 3;Красота и здоровье;Косметика;Chanel;Medium;ООО Chanel Поставки;2022-09-19;Active
+PROD_КРА_389;Chanel Косметика Model 4;Красота и здоровье;Косметика;Chanel;Medium;ООО Chanel Поставки;2023-12-09;Active
+PROD_КРА_390;Chanel Косметика Model 5;Красота и здоровье;Косметика;Chanel;Medium;ООО Chanel Поставки;2022-08-03;Active
+PROD_КРА_391;Dior Косметика Model 1;Красота и здоровье;Косметика;Dior;Medium;ООО Dior Поставки;2024-01-22;Active
+PROD_КРА_392;Dior Косметика Model 2;Красота и здоровье;Косметика;Dior;Medium;ООО Dior Поставки;2022-10-17;Active
+PROD_КРА_393;Dior Косметика Model 3;Красота и здоровье;Косметика;Dior;Medium;ООО Dior Поставки;2022-04-22;Active
+PROD_КРА_394;Dior Косметика Model 4;Красота и здоровье;Косметика;Dior;Medium;ООО Dior Поставки;2023-11-24;Active
+PROD_КРА_395;Dior Косметика Model 5;Красота и здоровье;Косметика;Dior;Medium;ООО Dior Поставки;2023-07-15;Active
+PROD_КРА_396;Solgar Косметика Model 1;Красота и здоровье;Косметика;Solgar;Medium;ООО Solgar Поставки;2024-06-08;Discontinued
+PROD_КРА_397;Solgar Косметика Model 2;Красота и здоровье;Косметика;Solgar;Medium;ООО Solgar Поставки;2024-04-25;Active
+PROD_КРА_398;Solgar Косметика Model 3;Красота и здоровье;Косметика;Solgar;Medium;ООО Solgar Поставки;2022-05-15;Active
+PROD_КРА_399;Solgar Косметика Model 4;Красота и здоровье;Косметика;Solgar;Medium;ООО Solgar Поставки;2023-06-09;Active
+PROD_КРА_400;Solgar Косметика Model 5;Красота и здоровье;Косметика;Solgar;Medium;ООО Solgar Поставки;2022-03-19;Discontinued
+PROD_КРА_401;L'Oreal Парфюмерия Model 1;Красота и здоровье;Парфюмерия;L'Oreal;Medium;ООО L'Oreal Поставки;2024-12-06;Active
+PROD_КРА_402;L'Oreal Парфюмерия Model 2;Красота и здоровье;Парфюмерия;L'Oreal;Medium;ООО L'Oreal Поставки;2024-03-06;Active
+PROD_КРА_403;L'Oreal Парфюмерия Model 3;Красота и здоровье;Парфюмерия;L'Oreal;Medium;ООО L'Oreal Поставки;2022-09-22;Discontinued
+PROD_КРА_404;L'Oreal Парфюмерия Model 4;Красота и здоровье;Парфюмерия;L'Oreal;Medium;ООО L'Oreal Поставки;2022-06-26;Active
+PROD_КРА_405;L'Oreal Парфюмерия Model 5;Красота и здоровье;Парфюмерия;L'Oreal;Medium;ООО L'Oreal Поставки;2022-09-19;Discontinued
+PROD_КРА_406;Nivea Парфюмерия Model 1;Красота и здоровье;Парфюмерия;Nivea;Medium;ООО Nivea Поставки;2024-06-05;Active
+PROD_КРА_407;Nivea Парфюмерия Model 2;Красота и здоровье;Парфюмерия;Nivea;Medium;ООО Nivea Поставки;2023-07-18;Active
+PROD_КРА_408;Nivea Парфюмерия Model 3;Красота и здоровье;Парфюмерия;Nivea;Medium;ООО Nivea Поставки;2022-07-20;Active
+PROD_КРА_409;Nivea Парфюмерия Model 4;Красота и здоровье;Парфюмерия;Nivea;Medium;ООО Nivea Поставки;2023-01-28;Active
+PROD_КРА_410;Nivea Парфюмерия Model 5;Красота и здоровье;Парфюмерия;Nivea;Medium;ООО Nivea Поставки;2022-08-24;Active
+PROD_КРА_411;Chanel Парфюмерия Model 1;Красота и здоровье;Парфюмерия;Chanel;Medium;ООО Chanel Поставки;2024-03-09;Active
+PROD_КРА_412;Chanel Парфюмерия Model 2;Красота и здоровье;Парфюмерия;Chanel;Medium;ООО Chanel Поставки;2024-02-08;Discontinued
+PROD_КРА_413;Chanel Парфюмерия Model 3;Красота и здоровье;Парфюмерия;Chanel;Medium;ООО Chanel Поставки;2023-04-02;Active
+PROD_КРА_414;Chanel Парфюмерия Model 4;Красота и здоровье;Парфюмерия;Chanel;Medium;ООО Chanel Поставки;2024-03-12;Active
+PROD_КРА_415;Chanel Парфюмерия Model 5;Красота и здоровье;Парфюмерия;Chanel;Medium;ООО Chanel Поставки;2022-08-09;Active
+PROD_КРА_416;Dior Парфюмерия Model 1;Красота и здоровье;Парфюмерия;Dior;Medium;ООО Dior Поставки;2022-04-18;Active
+PROD_КРА_417;Dior Парфюмерия Model 2;Красота и здоровье;Парфюмерия;Dior;Medium;ООО Dior Поставки;2023-05-02;Active
+PROD_КРА_418;Dior Парфюмерия Model 3;Красота и здоровье;Парфюмерия;Dior;Medium;ООО Dior Поставки;2024-04-16;Active
+PROD_КРА_419;Dior Парфюмерия Model 4;Красота и здоровье;Парфюмерия;Dior;Medium;ООО Dior Поставки;2023-05-07;Active
+PROD_КРА_420;Dior Парфюмерия Model 5;Красота и здоровье;Парфюмерия;Dior;Medium;ООО Dior Поставки;2024-05-05;Active
+PROD_КРА_421;Solgar Парфюмерия Model 1;Красота и здоровье;Парфюмерия;Solgar;Medium;ООО Solgar Поставки;2024-06-24;Active
+PROD_КРА_422;Solgar Парфюмерия Model 2;Красота и здоровье;Парфюмерия;Solgar;Medium;ООО Solgar Поставки;2022-04-01;Active
+PROD_КРА_423;Solgar Парфюмерия Model 3;Красота и здоровье;Парфюмерия;Solgar;Medium;ООО Solgar Поставки;2024-05-27;Active
+PROD_КРА_424;Solgar Парфюмерия Model 4;Красота и здоровье;Парфюмерия;Solgar;Medium;ООО Solgar Поставки;2024-07-21;Active
+PROD_КРА_425;Solgar Парфюмерия Model 5;Красота и здоровье;Парфюмерия;Solgar;Medium;ООО Solgar Поставки;2022-10-21;Active
+PROD_КРА_426;L'Oreal Витамины Model 1;Красота и здоровье;Витамины;L'Oreal;Medium;ООО L'Oreal Поставки;2023-01-11;Discontinued
+PROD_КРА_427;L'Oreal Витамины Model 2;Красота и здоровье;Витамины;L'Oreal;Medium;ООО L'Oreal Поставки;2023-11-17;Discontinued
+PROD_КРА_428;L'Oreal Витамины Model 3;Красота и здоровье;Витамины;L'Oreal;Medium;ООО L'Oreal Поставки;2024-02-11;Active
+PROD_КРА_429;L'Oreal Витамины Model 4;Красота и здоровье;Витамины;L'Oreal;Medium;ООО L'Oreal Поставки;2023-02-18;Active
+PROD_КРА_430;L'Oreal Витамины Model 5;Красота и здоровье;Витамины;L'Oreal;Medium;ООО L'Oreal Поставки;2022-08-16;Active
+PROD_КРА_431;Nivea Витамины Model 1;Красота и здоровье;Витамины;Nivea;Medium;ООО Nivea Поставки;2022-10-02;Active
+PROD_КРА_432;Nivea Витамины Model 2;Красота и здоровье;Витамины;Nivea;Medium;ООО Nivea Поставки;2023-05-16;Active
+PROD_КРА_433;Nivea Витамины Model 3;Красота и здоровье;Витамины;Nivea;Medium;ООО Nivea Поставки;2022-10-04;Active
+PROD_КРА_434;Nivea Витамины Model 4;Красота и здоровье;Витамины;Nivea;Medium;ООО Nivea Поставки;2023-02-16;Discontinued
+PROD_КРА_435;Nivea Витамины Model 5;Красота и здоровье;Витамины;Nivea;Medium;ООО Nivea Поставки;2024-01-01;Active
+PROD_КРА_436;Chanel Витамины Model 1;Красота и здоровье;Витамины;Chanel;Medium;ООО Chanel Поставки;2023-06-13;Active
+PROD_КРА_437;Chanel Витамины Model 2;Красота и здоровье;Витамины;Chanel;Medium;ООО Chanel Поставки;2024-12-09;Discontinued
+PROD_КРА_438;Chanel Витамины Model 3;Красота и здоровье;Витамины;Chanel;Medium;ООО Chanel Поставки;2024-07-11;Active
+PROD_КРА_439;Chanel Витамины Model 4;Красота и здоровье;Витамины;Chanel;Medium;ООО Chanel Поставки;2023-04-16;Active
+PROD_КРА_440;Chanel Витамины Model 5;Красота и здоровье;Витамины;Chanel;Medium;ООО Chanel Поставки;2023-10-13;Active
+PROD_КРА_441;Dior Витамины Model 1;Красота и здоровье;Витамины;Dior;Medium;ООО Dior Поставки;2022-08-05;Active
+PROD_КРА_442;Dior Витамины Model 2;Красота и здоровье;Витамины;Dior;Medium;ООО Dior Поставки;2023-12-02;Active
+PROD_КРА_443;Dior Витамины Model 3;Красота и здоровье;Витамины;Dior;Medium;ООО Dior Поставки;2023-05-04;Active
+PROD_КРА_444;Dior Витамины Model 4;Красота и здоровье;Витамины;Dior;Medium;ООО Dior Поставки;2024-02-18;Active
+PROD_КРА_445;Dior Витамины Model 5;Красота и здоровье;Витамины;Dior;Medium;ООО Dior Поставки;2023-09-20;Active
+PROD_КРА_446;Solgar Витамины Model 1;Красота и здоровье;Витамины;Solgar;Medium;ООО Solgar Поставки;2024-03-12;Active
+PROD_КРА_447;Solgar Витамины Model 2;Красота и здоровье;Витамины;Solgar;Medium;ООО Solgar Поставки;2022-09-22;Discontinued
+PROD_КРА_448;Solgar Витамины Model 3;Красота и здоровье;Витамины;Solgar;Medium;ООО Solgar Поставки;2024-05-01;Active
+PROD_КРА_449;Solgar Витамины Model 4;Красота и здоровье;Витамины;Solgar;Medium;ООО Solgar Поставки;2024-04-25;Active
+PROD_КРА_450;Solgar Витамины Model 5;Красота и здоровье;Витамины;Solgar;Medium;ООО Solgar Поставки;2023-01-05;Active
