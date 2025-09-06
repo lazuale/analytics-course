@@ -1,0 +1,7 @@
+﻿kpi_name;format_type;color_good;color_bad;color_neutral;target_min;target_max;unit
+Объем продаж;Currency;#70AD47;#C55A5A;#1F4E79;15000000,0;35000000,0;руб.
+Маржинальность;Percentage;#70AD47;#C55A5A;#1F4E79;15,0;25,0;%
+Количество заказов;Number;#70AD47;#C55A5A;#1F4E79;150,0;250,0;шт.
+Средний чек;Currency;#70AD47;#C55A5A;#1F4E79;100000,0;200000,0;руб.
+Выполнение плана;Percentage;#70AD47;#C55A5A;#FFC000;95,0;110,0;%
+Скидка средняя;Percentage;#C55A5A;#70AD47;#FFC000;5,0;15,0;%
